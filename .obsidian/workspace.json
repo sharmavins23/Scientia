@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bebfd910fc9f994",
+        "id": "8c794697a60e237d",
         "type": "tabs",
         "children": [
           {
-            "id": "10bcc0477373b117",
+            "id": "3aefd2f3f6174dc0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5086555480957
   },
   "right": {
     "id": "4b2df34686e9c55e",
@@ -138,6 +138,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10bcc0477373b117",
-  "lastOpenFiles": []
+  "active": "3aefd2f3f6174dc0",
+  "lastOpenFiles": [
+    "Computer Architecture/Instruction Set Architecture.md",
+    "Computer Architecture/Pipelining (Computation).md",
+    "Computer Architecture/MIPS/MIPS Five Stage Datapath.md",
+    "Computer Architecture/Von Neumann Architecture.md",
+    "assembler.md",
+    "Computer Architecture/MIPS/MIPS Architecture.md",
+    "registers.md",
+    "2023-07-30.md",
+    "Computer Architecture/MIPS",
+    "Instruction Fetch.md",
+    "Computer Architecture/img/MIPS Five Stage Datapath.png",
+    "Computer Architecture/img",
+    "Quantum Computing.md",
+    "Computer Architecture/Von Neumann Architectures.md",
+    "Untitled.md",
+    "Neuroscience/Neuron (Biology).md",
+    "Computer Architecture",
+    "Neuroscience/Dendritic Spine.md",
+    "Neuroscience/img/Wikipedia's Diagram of the Neuron.png",
+    "soma.md",
+    "axon.md",
+    "Neuroscience/img/Diagram of the Neuron.png",
+    "Pasted image 20230730185029.png.md",
+    "Neuroscience/img/Diagram of the neuron.png",
+    "Neuroscience/img",
+    "Neuroscience",
+    "Untitled.canvas",
+    "Von Neumann Computer Architecture.md"
+  ]
 }

@@ -1,0 +1,17 @@
+An instruction set architecture (ISA) is a model of computation. It can also be seen as a 'plan' for how a computer is designed. A device that executes instructions described by the ISA, such as a [[CPU]], is called an implementation.
+
+ISAs generally specify the instructions, data types, registers, and other quirks about the hardware and software and define the [[Instruction Set Architecture#Dynamic-Static Interface|Dynamic-Static Interface]] contract.
+
+## Dynamic-Static Interface (DSI)
+
+A dynamic-static interface, or DSI, is the contract that the computer architect and programmer make. Also referred to as the hardware-software interface, or HSI, this contract states what assumptions the programmer may make about the underlying hardware and what the programmer must compensate for.
+
+The DSI and what functionality is embedded within the hardware is a topic of extreme and current debate within many scientific communities, including the security community. For instance, the [[Spectre/Meltdown]] software [[vulnerability]] occurred due to [[branch prediction]] mechanisms handled within the hardware.
+
+## Assembly Language
+
+An assembly (ASM) language is a [[low-level]] [[programming language]] that directly represents instructions a CPU [[Pipelining (Computation)#Datapath|datapath]] may read. Usually, this language is not meant for humans to write; Rather, a [[compiler]] will compile a [[high-level]] programming language down to assembly, where an [[Instruction Set Architecture#Assembler|assembler]] will convert the assembly down to machine code. The step to create assembly may be skipped entirely, as it is (relatively speaking) unnecessary.
+
+### Assembler
+
+An assembler program will convert assembly language into raw binary for a [[CPU]] [[Pipelining (Computation)#Datapath|datapath]] by translating human-readable assembly into binary. Usually, these programs are designed as large case statements, though more complicated designs may exist (such as with tables for labels jumping throughout the programs). Usually, assemblers do not apply optimizations to code.
