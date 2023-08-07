@@ -4,19 +4,41 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 20415
+      }
+    },
+    {
+      "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 9403395
+      }
+    },
+    {
+      "query": "path:\"NATURAL SCIENCE/Biology/Neuroscience\"",
+      "color": {
+        "a": 1,
+        "rgb": 8433166
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.00457901962967,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.417306764629485,
+  "repelStrength": 7.91940331737727,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.751434232227761,
+  "linkDistance": 202,
+  "scale": 1.5825441358944459,
   "close": true
 }

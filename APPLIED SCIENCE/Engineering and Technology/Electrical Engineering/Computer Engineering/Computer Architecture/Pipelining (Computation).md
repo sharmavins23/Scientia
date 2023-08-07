@@ -1,18 +1,4 @@
-Pipelining is the procedure of taking chunks of an individual computer [[Pipelining (Computation)#Datapath|datapath]] and parallelizing them. In doing so a computer can (for the cost of small start-up latency) perform instructions much faster.
-
-## Datapath
-
-A datapath is a computer circuit that can be pipelined. It usually consists of multiple individual portions that can be broken down. For the purposes of this note, we'll refer to a datapath in the processing sense.
-
-### Evolution
-
-The Von Neumann implementation of a pipelined processor evolved in the following order:
-
-1. [[Sequential processors]] (SPs) held direct implementations of sequential execution. These were poor for performance.
-2. [[Pipelined processors]] (PPs) overlapped execution of multiple instructions. An example is the [[MIPS Five Stage Datapath]].
-3. [[Super-scalar processors]] (SSPs) handled out-of-order execution of multiple instructions.
-4. [[Multi-core processors]] (MCPs) handled multiple concurrent threads, or programs.
-5. Finally, [[heterogeneous multi-processors]] (HMPs) handle multiple concurrent tasks on diverse co-processors. They break up computations and split them across individual specialized cores.
+Pipelining is the procedure of taking chunks of an individual computer [[Datapath|datapath]] and parallelizing them. In doing so a computer can (for the cost of small start-up latency) perform instructions much faster.
 
 ## Mathematical Modelling
 
@@ -62,7 +48,7 @@ The following are a series of common and canonical stages for pipelined processo
 
 ### Instruction Fetch (IF)
 
-Fetching generally involves pulling instructions from [[ROM]]. Usually, programs are stored in ROM for security reasons (as programs should ideally not be modified by other programs!) Any [[control flow]] changes may occur within this stage as well.
+Fetching generally involves pulling instructions from [[Read-Only Memory (ROM)]]. Usually, programs are stored in ROM for security reasons (as programs should ideally not be modified by other programs!) Any [[control flow]] changes may occur within this stage as well.
 
 The ROM data can be sequentially read out, or (in the case of a jump), some other address may be specified to pull from.
 
@@ -76,7 +62,7 @@ This stage is often merged into [[Pipelining (Computation)#Instruction Decode (I
 
 ### Execution (EXE)
 
-This stage contains the 'bread and butter' of a computer, sporting an [[arithmetic logic unit|ALU]] which performs instructions.
+This stage contains the 'bread and butter' of a computer, sporting an [[Arithmetic Logic Unit (ALU)|ALU]] which performs instructions.
 
 ### Memory Access (MEM)
 
@@ -88,7 +74,7 @@ This stage is often merged into [[Pipelining (Computation)#Memory Access (MEM)|M
 
 ### Write-Back (WB)
 
-This stage is often called "PC", or Program Counter, as it refers to updating the [[register|registers]] (including the Program Counter register, or the register responsible for keeping track of position in the execution).
+This stage is often called "PC", or Program Counter, as it refers to updating the [[Register Memory|registers]] (including the Program Counter register, or the register responsible for keeping track of position in the execution).
 
 ## Hazards
 
@@ -99,4 +85,4 @@ When executing instructions in parallel, one particular issue arises with data t
 - Write-after-Write (WAW) hazards are also called 'false' dependency hazards. Since the act of writing does not depend on what is previously in the register, this dependency does not matter.
 - Control hazards are hazards that arise due to changing of control-flow instructions. Since control flow changes, anything queued in the pipeline needs to not execute.
 
-Other problems exist within the [[datapath]], such as arithmetic overflow, invalid instructions, illegal memory accesses, and divide-by-zero errors. These are usually called [[Exceptions|exceptions]].
+Other problems exist within the [[Datapath]], such as arithmetic overflow, invalid instructions, illegal memory accesses, and divide-by-zero errors. These are usually called [[Exceptions|exceptions]].

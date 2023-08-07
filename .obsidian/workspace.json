@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8c794697a60e237d",
+        "id": "ef406db949447dde",
         "type": "tabs",
         "children": [
           {
-            "id": "3aefd2f3f6174dc0",
+            "id": "80135fdaa78b2536",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -45,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,35 +139,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aefd2f3f6174dc0",
+  "active": "80135fdaa78b2536",
   "lastOpenFiles": [
-    "Computer Architecture/Instruction Set Architecture.md",
-    "Computer Architecture/Pipelining (Computation).md",
-    "Computer Architecture/MIPS/MIPS Five Stage Datapath.md",
-    "Computer Architecture/Von Neumann Architecture.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Dendrites.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Soma.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Datapath.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Register Memory.md",
+    "Index.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Embedded Systems",
+    "FORMAL SCIENCE/Computer Science/Quantum Computing",
+    "FORMAL SCIENCE/Computer Science",
+    "NATURAL SCIENCE/Biology",
+    "NATURAL SCIENCE",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Integrated Circuits",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Control Systems Engineering",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Digital Logic",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Random Access Memory (RAM).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Cache Memory.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Read-Only Memory (ROM).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Von Neumann Architecture.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/MIPS/MIPS Five Stage Datapath.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Instruction Set Architecture.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Central Processing Unit (CPU).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/Inductor-Capacitor (LC) Tank.md",
+    "FORMAL SCIENCE/Computer Science/Quantum Computing/Quantum Computing.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Pipelining (Computation).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Integrated Circuits/Electronic Crystal Oscillator.md",
+    "Electrical Engineering/Oscillators/Resistor-Capacitor (RC) Oscillator.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/CPU Cores.md",
+    "Untitled.canvas",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Arithmetic Logic Unit (ALU).md",
+    "Untitled 1.canvas",
     "assembler.md",
-    "Computer Architecture/MIPS/MIPS Architecture.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/MIPS/MIPS Architecture.md",
     "registers.md",
     "2023-07-30.md",
-    "Computer Architecture/MIPS",
-    "Instruction Fetch.md",
-    "Computer Architecture/img/MIPS Five Stage Datapath.png",
-    "Computer Architecture/img",
-    "Quantum Computing.md",
-    "Computer Architecture/Von Neumann Architectures.md",
-    "Untitled.md",
-    "Neuroscience/Neuron (Biology).md",
-    "Computer Architecture",
-    "Neuroscience/Dendritic Spine.md",
-    "Neuroscience/img/Wikipedia's Diagram of the Neuron.png",
-    "soma.md",
-    "axon.md",
-    "Neuroscience/img/Diagram of the Neuron.png",
-    "Pasted image 20230730185029.png.md",
-    "Neuroscience/img/Diagram of the neuron.png",
-    "Neuroscience/img",
-    "Neuroscience",
-    "Untitled.canvas",
-    "Von Neumann Computer Architecture.md"
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/img/MIPS Five Stage Datapath.png",
+    "NATURAL SCIENCE/Biology/Neuroscience/img/Wikipedia's Diagram of the Neuron.png",
+    "NATURAL SCIENCE/Biology/Neuroscience/img/Diagram of the Neuron.png",
+    "Neuroscience/img/Diagram of the neuron.png"
   ]
 }

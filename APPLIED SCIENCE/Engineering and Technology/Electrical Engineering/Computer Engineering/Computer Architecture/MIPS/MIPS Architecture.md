@@ -1,6 +1,6 @@
 MIPS, or Microprocessor without Interlocked Pipelined Stages, is a family of reduced instruction set computer ([[RISC]]) instruction set architectures ([[Instruction Set Architecture|ISAs]]). The architecture is now deprecated and is not in production on computers, but is instead utilized as an educational tool.
 
-Other than load and store memory operations, all instructions operate on [[register|registers]]. For this, MIPS has 32 32-bit general-purpose registers.
+Other than load and store memory operations, all instructions operate on [[Register Memory|registers]]. For this, MIPS has 32 32-bit general-purpose registers.
 
 MIPS has three individual instruction formats:
 
