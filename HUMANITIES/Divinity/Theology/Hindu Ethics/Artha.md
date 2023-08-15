@@ -1,0 +1,3 @@
+Artha is one of the four goals or objectives of human life in [[Hinduism|Hindu tradition]], and deals with career, skills, health, wealth, prosperity, and the means or resources needed for a fulfilling life. The word literally translates to "meaning, sense, goal, purpose, essence" depending on context.
+
+Artha applies to both an individual and a society, being the most material of the [[Purushartha|purusharthas]]. In the context of an individual, it refers to wealth, career, financial security and economic prosperity. In the context of a government, it includes social, legal, economic, and other worldly affairs.

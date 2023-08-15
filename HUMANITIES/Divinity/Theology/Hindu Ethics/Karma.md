@@ -1,0 +1,3 @@
+Karma is a concept of actions, as well as their consequences. In [[Hinduism]], the term specifically refers to a principle of cause and effect, often described as the principle of karma. The simple idea is that both the intent and actions of an individual (cause) influence the future of that individual (effect). Karma appears in [[Hinduism]], as well as [[Buddhism]], [[Jainism]], [[Sikhism]], and even [[Taoism]].
+
+This concept is often misunderstood as fate, destiny, or predetermination; In religion, karma in the present affects not only one's future in the current life (to a small degree) but also the nature and quality of future lives. In this, it is strongly linked to [[Samsara]].

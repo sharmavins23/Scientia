@@ -1,0 +1,3 @@
+Kama is one of the [[Purushartha|purusharthas]] and refers to "desire, wish, longing" in [[Hinduism|Hindu]] contexts. The term also refers to any sensory enjoyment, emotional attraction, or aesthetic pleasure, such as from arts, dance, music, painting, sculpture, and nature.
+
+In contemporary literature kama is often used to refer to sexual desire and emotional longing. However, the ancient concept is more vast, broadly referring to any desire, wish, passion, pleasure, or enjoyment of art and beauty, aesthetics, enjoyment of life, affection, love, connection, and enjoyment of love with or without sexual connotation.

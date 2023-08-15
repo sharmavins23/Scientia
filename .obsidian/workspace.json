@@ -11,8 +11,13 @@
             "id": "80135fdaa78b2536",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Sankhyayoga - The Book of Doctrines.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Sankhyayoga - The Book of Doctrines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Sankhyayoga - The Book of Doctrines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Sankhyayoga - The Book of Doctrines.md"
+              }
             }
           }
         ],
@@ -141,45 +150,45 @@
   },
   "active": "80135fdaa78b2536",
   "lastOpenFiles": [
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/gita_transcript.pdf",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/bgita.pdf",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad Gita.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Sankhyayoga - The Book of Doctrines.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad-gita-Swami-BG-Narasingha.pdf",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Arjuna Vishadayoga - The Distress of Arjuna.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Arjuna Vishadayoga - Arjuna's Despair.md",
+    "Sankhyayoga.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics/Karma.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics/Samsara.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics/Moksha.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics/Purushartha.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics/Kama.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics/Artha.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics/Dharma.md",
+    "Pravrtti.md",
+    "HUMANITIES/Divinity/Theology/Hindu Ethics",
+    "HUMANITIES/Divinity/Theology",
+    "dharma.md",
+    "Kauravas.md",
+    "Index.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/b17771201.pdf",
+    "HUMANITIES/Divinity",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita",
+    "HUMANITIES/Divinity/Vedic Study",
+    "HUMANITIES/Religious Studies/History of Religion",
     "NATURAL SCIENCE/Biology/Neuroscience/Dendrites.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Neuron.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Soma.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Datapath.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Register Memory.md",
-    "Index.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Embedded Systems",
-    "FORMAL SCIENCE/Computer Science/Quantum Computing",
-    "FORMAL SCIENCE/Computer Science",
-    "NATURAL SCIENCE/Biology",
-    "NATURAL SCIENCE",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Integrated Circuits",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Control Systems Engineering",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Digital Logic",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Random Access Memory (RAM).md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Cache Memory.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Read-Only Memory (ROM).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Von Neumann Architecture.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/MIPS/MIPS Five Stage Datapath.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Instruction Set Architecture.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Central Processing Unit (CPU).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/Inductor-Capacitor (LC) Tank.md",
-    "FORMAL SCIENCE/Computer Science/Quantum Computing/Quantum Computing.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Pipelining (Computation).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Integrated Circuits/Electronic Crystal Oscillator.md",
-    "Electrical Engineering/Oscillators/Resistor-Capacitor (RC) Oscillator.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/CPU Cores.md",
     "Untitled.canvas",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Arithmetic Logic Unit (ALU).md",
     "Untitled 1.canvas",
-    "assembler.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/MIPS/MIPS Architecture.md",
-    "registers.md",
-    "2023-07-30.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/img/MIPS Five Stage Datapath.png",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Wikipedia's Diagram of the Neuron.png",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Diagram of the Neuron.png",
