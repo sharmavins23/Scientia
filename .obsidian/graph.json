@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering\"",
@@ -18,11 +18,11 @@
       "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering\"",
       "color": {
         "a": 1,
-        "rgb": 9403395
+        "rgb": 12550148
       }
     },
     {
-      "query": "path:\"NATURAL SCIENCE/Biology/Neuroscience\"",
+      "query": "path:\"NATURAL SCIENCE/Biology\"",
       "color": {
         "a": 1,
         "rgb": 8433166
@@ -32,7 +32,21 @@
       "query": "path:\"HUMANITIES/Divinity\"",
       "color": {
         "a": 1,
-        "rgb": 15877604
+        "rgb": 1022875
+      }
+    },
+    {
+      "query": "path:\"FORMAL SCIENCE/Computer Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 11210853
+      }
+    },
+    {
+      "query": "path:\"FORMAL SCIENCE/Mathematics\"",
+      "color": {
+        "a": 1,
+        "rgb": 5973415
       }
     }
   ],
@@ -43,9 +57,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.417306764629485,
-  "repelStrength": 7.91940331737727,
+  "repelStrength": 9.96103751530669,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 1.4413188906706775,
+  "scale": 1.6626852705540143,
   "close": true
 }

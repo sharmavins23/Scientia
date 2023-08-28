@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4ed88e22722e19",
+        "id": "03e576b796cc198c",
         "type": "tabs",
         "children": [
           {
-            "id": "bb2effcb41adbf96",
+            "id": "1e9d77d36489a6d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md"
+              }
             }
           }
         ],
@@ -139,10 +148,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb2effcb41adbf96",
+  "active": "1e9d77d36489a6d8",
   "lastOpenFiles": [
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Sankhyayoga - The Book of Doctrines.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Node.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Adjacency Matrix.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology",
+    "FORMAL SCIENCE/Mathematics/Mathematics.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph Theory.md",
+    "FORMAL SCIENCE/Computer Science/Coding Theory/Coding Theory.md",
+    "FORMAL SCIENCE/Computer Science/Quantum Computing/Quantum Computing.md",
+    "FORMAL SCIENCE/Mathematics",
+    "NATURAL SCIENCE/Natural Science.md",
+    "NATURAL SCIENCE/Biology/Biology.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuroscience.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Neuron.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory",
+    "Untitled",
+    "FORMAL SCIENCE/Computer Science/Coding Theory",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Sankhyayoga - The Book of Doctrines.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Dendrites.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Pipelining (Computation).md",
     "Untitled.canvas",
@@ -161,22 +185,8 @@
     "HUMANITIES/Divinity/Theology/Hindu Ethics/Samsara.md",
     "HUMANITIES/Divinity/Theology/Hindu Ethics/Moksha.md",
     "HUMANITIES/Divinity/Theology/Hindu Ethics/Purushartha.md",
-    "HUMANITIES/Divinity/Theology/Hindu Ethics/Kama.md",
-    "HUMANITIES/Divinity/Theology/Hindu Ethics/Artha.md",
-    "HUMANITIES/Divinity/Theology/Hindu Ethics/Dharma.md",
-    "Pravrtti.md",
     "HUMANITIES/Divinity/Theology/Hindu Ethics",
     "HUMANITIES/Divinity/Theology",
-    "dharma.md",
-    "Kauravas.md",
-    "Index.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/b17771201.pdf",
-    "HUMANITIES/Divinity",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita",
-    "HUMANITIES/Divinity/Vedic Study",
-    "NATURAL SCIENCE/Biology/Neuroscience/Soma.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Register Memory.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
     "Untitled 1.canvas",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/img/MIPS Five Stage Datapath.png",

@@ -1,0 +1,1 @@
+Biology is a branch of [[Natural Science|the natural sciences]] dealing with living organisms and their vital processes.

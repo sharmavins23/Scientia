@@ -1,0 +1,1 @@
+Natural sciences are a branch of sciences dealing with the physical world we live in.
