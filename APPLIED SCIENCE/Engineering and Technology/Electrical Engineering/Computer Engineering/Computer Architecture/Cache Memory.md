@@ -1,4 +1,4 @@
-Cache memory is specialized memory designed solely for speedup. Instead of paying the latency penalty of looking in slower memory every time, a computer may store recent results of memory lookups in cache and retrieve them from this super-fast memory instead.
+Cache memory is specialized memory designed solely for [[speedup]]. Instead of paying the latency penalty of looking in slower memory every time, a computer may store recent results of memory lookups in cache and retrieve them from this super-fast memory instead.
 
 ## Hierarchy
 
