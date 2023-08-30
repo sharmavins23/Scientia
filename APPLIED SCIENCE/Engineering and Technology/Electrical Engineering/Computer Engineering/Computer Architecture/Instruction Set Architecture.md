@@ -4,7 +4,7 @@ ISAs generally specify the instructions, data types, registers, and other quirks
 
 ## Dynamic-Static Interface (DSI)
 
-A dynamic-static interface, or DSI, is the contract that the computer architect and programmer make. Also referred to as the hardware-software interface, or HSI, this contract states what assumptions the programmer may make about the underlying hardware and what the programmer must compensate for.
+A dynamic-static interface, or DSI (also known as the Hardware/Software Interface, or HSI), is the contract that the computer architect and programmer make. Also referred to as the hardware-software interface, or HSI, this contract states what assumptions the programmer may make about the underlying hardware and what the programmer must compensate for.
 
 The DSI and what functionality is embedded within the hardware is a topic of extreme and current debate within many scientific communities, including the security community. For instance, the [[Spectre/Meltdown]] software [[vulnerability]] occurred due to [[branch prediction]] mechanisms handled within the hardware.
 

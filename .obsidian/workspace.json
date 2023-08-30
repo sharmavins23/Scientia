@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03e576b796cc198c",
+        "id": "3518f3859f58e93c",
         "type": "tabs",
         "children": [
           {
-            "id": "1e9d77d36489a6d8",
+            "id": "f0b8baa589f14e3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,10 +139,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e9d77d36489a6d8",
+  "active": "f0b8baa589f14e3d",
   "lastOpenFiles": [
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Node.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Instruction Set Architecture.md",
+    "NATURAL SCIENCE/Biology/Genetics/Ribonucleic Acid (RNA).md",
+    "NATURAL SCIENCE/Biology/Genetics",
+    "Index.md",
+    "FORMAL SCIENCE/Computer Science/Operating Systems",
     "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Network.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Node.md",
     "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Adjacency Matrix.md",
     "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology",
     "FORMAL SCIENCE/Mathematics/Mathematics.md",
@@ -182,11 +178,6 @@
     "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Arjuna Vishadayoga - Arjuna's Despair.md",
     "Sankhyayoga.md",
     "HUMANITIES/Divinity/Theology/Hindu Ethics/Karma.md",
-    "HUMANITIES/Divinity/Theology/Hindu Ethics/Samsara.md",
-    "HUMANITIES/Divinity/Theology/Hindu Ethics/Moksha.md",
-    "HUMANITIES/Divinity/Theology/Hindu Ethics/Purushartha.md",
-    "HUMANITIES/Divinity/Theology/Hindu Ethics",
-    "HUMANITIES/Divinity/Theology",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
     "Untitled 1.canvas",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/img/MIPS Five Stage Datapath.png",

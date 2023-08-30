@@ -1,0 +1,3 @@
+RNA is a [[polymer]] molecule responsible for most biological functions. It can either perform biological functions itself (as non-coding RNA), or form a template for production of proteins (messenger RNA). It is a [[nucleic acid|nucleic acid]].
+
+RNA is assembled as a chain of [[nucleotides]]. Cells may communicate with RNA, conveying genetic information through the bases G, U, A, C in order to direct synthesis of particular proteins. Many viruses also encode their reproduction using an RNA genome.

@@ -4,7 +4,7 @@ The soma is not responsible for any input or output to the cell. As such, it is 
 
 ## Nucleus
 
-The nucleus of the neuron is the source of most of the [[RNA|RNA]] within the cell. This RNA acts as messages passed throughout the cell, or genetic information. On top of maintenance for the cell, this RNA can also be used to trigger synaptic plasticity changes (such as in the weights).
+The nucleus of the neuron is the source of most of the [[Ribonucleic Acid (RNA)|Ribonucleic Acid (RNA)]] within the cell. This RNA acts as messages passed throughout the cell, or genetic information. On top of maintenance for the cell, this RNA can also be used to trigger synaptic plasticity changes (such as in the weights).
 
 ## Nissl Granules
 
