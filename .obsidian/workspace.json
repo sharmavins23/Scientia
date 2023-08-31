@@ -11,8 +11,13 @@
             "id": "0f851c61d6f47199",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Synapse.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Synapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Synapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Synapse.md"
+              }
             }
           }
         ],
@@ -141,6 +150,9 @@
   },
   "active": "0f851c61d6f47199",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Axon.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Dendrites.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Synapse.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Neuron.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Neocortex/Neocortex.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Brain.md",
@@ -153,7 +165,6 @@
     "NATURAL SCIENCE/Biology/Neuroscience/Neuron",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Neocortex",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Pearson's diagram of the lobes of the neocortex.png",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Dendrites.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Instruction Set Architecture.md",
     "NATURAL SCIENCE/Biology/Genetics/Ribonucleic Acid (RNA).md",
     "NATURAL SCIENCE/Biology/Genetics",
@@ -178,8 +189,6 @@
     "Untitled.canvas",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Read-Only Memory (ROM).md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Datapath.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Cache Memory.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Arithmetic Logic Unit (ALU).md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
     "Untitled 1.canvas",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/img/MIPS Five Stage Datapath.png",
