@@ -1,1 +1,1 @@
-Graph theory is the study of [[Network|graphs]], which are mathematical structures used to model pair-wise relations between objects. It is a field of [[Mathematics|mathematics]].
+Graph theory is the study of [[Graph (Network)|graphs]], which are mathematical structures used to model pair-wise relations between objects. It is a field of [[Mathematics|mathematics]].

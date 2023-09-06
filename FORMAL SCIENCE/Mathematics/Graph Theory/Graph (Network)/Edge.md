@@ -1,0 +1,1 @@
+In [[Graph (Network)|graphs]], edges are ordered pairs of two [[Node|vertices]] indicating a connection, or link, between the two. For instance, in an undirected graph, the ordered pair $(v_1, v_2)$ refers to the edge between $v_1$ and $v_2$. In directed graphs, the pair $(v_1, v_2)$ refers to the connection $v_1 \to v_2$.
