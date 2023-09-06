@@ -1,0 +1,1 @@
+Applied science is the use of the scientific method in order to attain practical goals. It is the application of other fields of science in order to solve problems and design structures.

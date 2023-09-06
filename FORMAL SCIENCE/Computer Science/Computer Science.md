@@ -1,0 +1,1 @@
+Computer science is the study of computation, information, and automation in the modern day. It is one of the [[Formal Science|formal sciences]], and is heavily based on [[Mathematics|mathematics]].

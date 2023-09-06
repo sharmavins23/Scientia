@@ -1,1 +1,1 @@
-Coding theory is the study of [[codes]] and their respective fitness for data transmission, [[cryptography]], [[error detection]]/[[error correction|correction]], and [[Memory|data storage]].
+Coding theory is the study of [[codes]] and their respective fitness for data transmission, [[cryptography]], [[error detection]]/[[error correction|correction]], and [[Memory|data storage]]. It is a sub-field of [[Computer Science|computer science]].

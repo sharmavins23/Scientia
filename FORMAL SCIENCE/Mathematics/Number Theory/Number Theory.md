@@ -1,0 +1,1 @@
+Number theory (also known as arithmetic, or higher arithmetic) is a branch of [[Mathematics|pure mathematics]] devoted to the study of the integers and arithmetic functions.

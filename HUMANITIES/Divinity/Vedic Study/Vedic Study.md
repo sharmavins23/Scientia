@@ -1,0 +1,1 @@
+Vedic study is a part of the [[Divinity|study of the divine]] focused on the Vedas, or the religious texts of [[Hinduism]].

@@ -1,0 +1,1 @@
+In [[Computer Science|theoretical computer science]], the theory of computation is the branch that deals with what problems can be solved on a model of computation, using an algorithm, how efficiently they may be solved, or to what degree.

@@ -1,0 +1,1 @@
+In [[Theory of Computation|computational theory]], number representations denote how numbers are stored in computer systems.

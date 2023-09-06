@@ -2,11 +2,13 @@ An instruction set architecture (ISA) is a model of computation. It can also be 
 
 ISAs generally specify the instructions, data types, registers, and other quirks about the hardware and software and define the [[Instruction Set Architecture#Dynamic-Static Interface|Dynamic-Static Interface]] contract.
 
+Several design choices for ISAs are ultimately trade-offs, such as interactions with the [[Iron Law of Performance and Power]].
+
 ## Dynamic-Static Interface (DSI)
 
 A dynamic-static interface, or DSI (also known as the Hardware/Software Interface, or HSI), is the contract that the computer architect and programmer make. Also referred to as the hardware-software interface, or HSI, this contract states what assumptions the programmer may make about the underlying hardware and what the programmer must compensate for.
 
-The DSI and what functionality is embedded within the hardware is a topic of extreme and current debate within many scientific communities, including the security community. For instance, the [[Spectre/Meltdown]] software [[vulnerability]] occurred due to [[branch prediction]] mechanisms handled within the hardware.
+The DSI and what functionality is embedded within the hardware is a topic of extreme and current debate within many scientific communities, including the security community. For instance, the [[Spectre/Meltdown]] software [[vulnerability]] occurred due to [[Branch Predictors|Branch Predictors]] mechanisms handled within the hardware.
 
 ## Assembly Language
 

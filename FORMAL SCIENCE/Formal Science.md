@@ -1,0 +1,1 @@
+Formal science is a branch of science studying disciplines concerned with abstract structures described by formal systems.

@@ -1,0 +1,1 @@
+A branch target buffer (BTB) is a small [[Cache Memory|cache-like]] structure in the [[Pipelining (Computation)#Instruction Fetch (IF)|instruction fetch]] stage of a datapath. It remembers previously executed branches, their addresses, any information to aid target prediction, and most recent target addresses. They are used in [[Branch Predictors|branch predictors]].

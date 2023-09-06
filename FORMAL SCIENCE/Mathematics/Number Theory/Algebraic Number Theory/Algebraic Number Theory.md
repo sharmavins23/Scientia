@@ -1,0 +1,1 @@
+Algebraic number theory is a branch of [[Number Theory|number theory]] using the techniques of [[abstract algebra]] to study integers, rational numbers, and their generalizations.

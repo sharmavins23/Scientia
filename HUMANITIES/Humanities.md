@@ -1,0 +1,1 @@
+Humanities are academic disciplines that study aspects of human society and culture. Today, humanities are used more generally as a catch-all for knowledge domains outside of the other major sciences.

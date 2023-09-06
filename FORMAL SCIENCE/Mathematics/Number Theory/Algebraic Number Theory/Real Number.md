@@ -1,0 +1,1 @@
+In [[Algebraic Number Theory|algebraic number theory]], a real number is a number that can measure any continuous one-dimensional quantity, such as distance, temperature, or time. As they are continuous measures, they can have arbitrarily small differences. The set of real numbers is referred to as $\mathbb{R}$.

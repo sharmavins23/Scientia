@@ -1,0 +1,1 @@
+An integer refers to a number within the set of integers, represented by $\mathbb{Z}$. This set is composed of zero $0$, any positive [[Natural Number|natural number]] (1, 2, 3, ...), or negative integers, which are additive inverses of their corresponding positive numbers.

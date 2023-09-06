@@ -1,1 +1,1 @@
-Mathematics is the science and study of quality, structure, space, and change. It is a vast area of knowledge that has extreme applications to many disciplines.
+Mathematics is the science and study of quality, structure, space, and change. It is a vast area of knowledge that has extreme applications to many disciplines. It is one of the [[Formal Science|formal sciences]].

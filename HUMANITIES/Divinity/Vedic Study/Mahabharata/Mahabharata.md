@@ -1,0 +1,5 @@
+The Mahabharata (lit. Great Epic of the Bharata/Indian Dynasty) is one of the two major Samskrtam epics of ancient India revered in [[Hinduism]] and [[Vedic Study|vedic study]]. It narrates the events leading up to, during, and after the [[Kurukshetra]] War, a war of succession between two familial groups - The [[Pandava|Pandavas]] and the [[Kaurava|Kauravas]].
+
+The Mahabharata is known as the longest poem ever written, and consists of over 200,000 verses (coupled into 100,000 [[sloka]]). At 1.8 million words total, the Mahabharata is four times the length of the [[Ramayana]] and roughly ten times the length of the Iliad and Odyssey combined. In [[Hinduism|Indian tradition]], it is sometimes called the fifth [[Vedas|Veda]].
+
+The authorship of the Mahabharata is typically attributed to [[Vyasa]]. The oldest parts of the story are dated to 400 BCE.

@@ -1,0 +1,1 @@
+Electrical engineering is an [[Engineering and Technology|engineering]] discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.

@@ -1,0 +1,1 @@
+A natural number is the set of counting numbers, sometimes including 0, but definitely including 1, 2, 3, ... Some definitions include 0, corresponding to non-negative [[Integer|integers]]; Others exclude 0 and instead refer to the set of positive integers $\mathbb{Z}$. The set of natural numbers is referred to as $\mathbb{N}$.
