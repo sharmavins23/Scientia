@@ -1,0 +1,1 @@
+Social science is a branch of science dealing with the study of societies and relationships among individuals within those societies.

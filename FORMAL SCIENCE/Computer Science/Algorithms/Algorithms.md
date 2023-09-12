@@ -1,0 +1,1 @@
+Algorithms are a sub-field of [[Computer Science|computer science]] dealing with rigorous instructions for computations. They are generally used for calculations and data processing, and are extremely concerned with runtime.

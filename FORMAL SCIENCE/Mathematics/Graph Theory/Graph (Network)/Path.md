@@ -18,4 +18,24 @@ $$
 \end{align}
 $$
 
+## Distance
+
 The distance between vertices $v_i$ and $v_j$, or $d_{ij}$, can also be computed. This is simply the length of the *shortest* path. If for some $x,y$, if there exists no path between $v_x$ and $v_y$, then we say that $d_{xy}=\infty$.
+
+## Average Path Length
+
+The average path length for a graph can be defined as:
+
+$$
+\bar{d} = \sum_{i,j\in\{1,...,n\},i\neq j}{\frac{d_{ij}}{n(n-1)}}
+$$
+
+## Important Paths
+
+### Eulerian Path
+
+The Eulerian path is a path that, by definition, traverses each edge exactly once.
+
+### Hamiltonian Path
+
+A Hamiltonian path is defined similarly, and travels each node exactly once.

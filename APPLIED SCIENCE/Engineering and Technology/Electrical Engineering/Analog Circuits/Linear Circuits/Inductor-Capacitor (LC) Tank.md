@@ -1,4 +1,4 @@
-The LC tank (also known as resonant circuits, tank circuits, or tuned circuits) are simple designs of [[inductors]] and [[capacitors]] together.
+The LC tank (also known as resonant circuits, tank circuits, or tuned circuits) are simple designs of [[inductors]] and [[capacitors]] together. It is a [[Linear Circuits|linear]] [[Analog Circuits|analog]] electronic [[filter]] circuit.
 
 ## Design
 

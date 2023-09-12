@@ -1,0 +1,1 @@
+[[Degree]] centrality refers to the level of connected-ness of the node. The more connected a node is, the more 'important' it is for a particular network - As such, this measure categorizes the importance of a node in a network well.

@@ -1,6 +1,4 @@
-#ComputerArchitecture
-
-An electronic crystal oscillator (or clock generator), is a chip that generates a symmetrical square wave for computer systems.
+An electronic crystal oscillator (or clock generator), is a chip that generates a symmetrical square wave for computer systems. It is an [[Integrated Circuits (Analog)|analog integrated circuit]].
 
 ## Construction
 

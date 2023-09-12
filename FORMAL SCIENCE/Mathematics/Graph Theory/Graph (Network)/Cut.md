@@ -1,0 +1,1 @@
+In [[Graph (Network)|graphs]], a cut is a partition of the vertices such that it splits the graph into two separate (disjoint) subsets.

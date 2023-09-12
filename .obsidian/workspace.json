@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3518f3859f58e93c",
+        "id": "f8591429a6b7681b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f851c61d6f47199",
+            "id": "f2994871d1cf6757",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#ComputerArchitecture",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md"
+              }
             }
           }
         ],
@@ -140,47 +149,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f851c61d6f47199",
+  "active": "f2994871d1cf6757",
   "lastOpenFiles": [
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Path.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Degree.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Graph (Network).md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Node.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Vertex.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Edge.md",
     "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Adjacency Matrix.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Network Topology/Vertex.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph Theory.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Degree.md",
+    "FORMAL SCIENCE/Mathematics/Mathematical Logic/Mathematical Logic.md",
     "FORMAL SCIENCE/Mathematics/Mathematical Logic/Boolean Algebra.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Synapse.md",
-    "HUMANITIES/Humanities.md",
-    "HUMANITIES/Divinity/Vedic Study/Vedic Study.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Mahabharata.md",
-    "HUMANITIES/Divinity/Divinity.md",
-    "FORMAL SCIENCE/Mathematics/Number Theory/Algebraic Number Theory/Real Number.md",
-    "FORMAL SCIENCE/Mathematics/Number Theory/Algebraic Number Theory/Natural Number.md",
-    "FORMAL SCIENCE/Mathematics/Number Theory/Algebraic Number Theory/Integer.md",
-    "FORMAL SCIENCE/Mathematics/Number Theory/Algebraic Number Theory/Algebraic Number Theory.md",
-    "FORMAL SCIENCE/Mathematics/Number Theory/Number Theory.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Neurotransmitter.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Graph (Network).md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Degree Centrality.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Neuron.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Clustering Coefficient.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Monoamine.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Soma.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/norepinephrine.md",
+    "NATURAL SCIENCE/Biology/Genetics/Ribonucleic Acid (RNA).md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Menger's Theorem.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Cut.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Connectivity.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Node.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws/Amdahl's Law.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws/Iron Law of Performance and Power.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Engineering.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Computer Architecture.md",
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Arjuna Vishadayoga - The Distress of Arjuna.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad Gita.md",
+    "FORMAL SCIENCE/Computer Science/Algorithms",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Untitled",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Von Neumann Architecture",
     "FORMAL SCIENCE/Mathematics/Number Theory/Algebraic Number Theory",
     "FORMAL SCIENCE/Mathematics/Number Theory",
-    "FORMAL SCIENCE/Mathematics/Mathematical Logic/Mathematical Logic.md",
-    "FORMAL SCIENCE/Mathematics/Mathematical Logic",
-    "FORMAL SCIENCE/Formal Science.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Integer (Computer Science).md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Number Representations (Computer Science).md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Hexadecimal.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation",
-    "FORMAL SCIENCE/Computer Science/Logic (Computer Science)",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum",
-    "NATURAL SCIENCE/Biology/Neuroscience/img/Kandel's diagram of the brain.png",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Pearson's diagram of the lobes of the neocortex.png",
-    "Untitled.canvas",
+    "NATURAL SCIENCE/Biology/Neuroscience/img/Kandel's diagram of the brain.png",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
     "Untitled 1.canvas",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/img/MIPS Five Stage Datapath.png",

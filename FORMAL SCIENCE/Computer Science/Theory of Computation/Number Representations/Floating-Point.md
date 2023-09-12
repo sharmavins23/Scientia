@@ -22,7 +22,7 @@ $$
 E = E' - B = E' - (2^{k-1} - 1)
 $$
 
-This is defined where $E'$ is the original exponent field's unsigned value, and $k$ is the number of exponent bits. For single precision, this means our bias $b$ (the parentheses portion)
+This is defined where $E'$ is the original exponent field's unsigned value, and $k$ is the number of exponent bits. For single precision, this means our bias $b$ (the parentheses portion) is 127.
 
 ## Normalization
 

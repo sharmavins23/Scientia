@@ -15,6 +15,19 @@ $$
 
 The degree of a node in a network represents the number of connections it has, and the degree distribution is the probability distribution of these degrees over the whole network.
 
+## Minimum Node Degree
+
+The value $k_{min}$ refers to the minimum node degree in the graph, or the node with the minimum number of edges:
+
+$$
+k_{min} = min_{i\in\{1, ..., n\}}{k_i}
+$$
+
+The value $k_{min}$ is related to [[Connectivity#Vertex-Connectivity and Edge-Connectivity|vertex- and edge-connectivity]] in a general way: $\kappa_E\leq k_{min}$. Conceptually, the number of edges you must cut off to disconnect a node is always lower than or equal to the minimal node connectivity. Because of this, $\kappa_V\leq k_{min}$ as well (by the same proof). By the proof from connectivity, this means:
+
+$$
+\kappa_V \leq \kappa_E \leq k_{min}
+$$
 ## Average Degree
 
 One can compute the average degree, or average connectivity.

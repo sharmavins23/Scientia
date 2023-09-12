@@ -1,4 +1,4 @@
-fThe Iron Law of Performance and Power is derived off the equation for power:
+The Iron Law of Performance and Power is derived off the equation for power:
 
 $$
 P=\alpha C V^2 f
