@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "da72d38c9e827e04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Grid Cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Grid Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Grid Cell.md"
               }
             }
           }
@@ -163,8 +149,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da72d38c9e827e04",
+  "active": "02b56717040b8a66",
   "lastOpenFiles": [
+    "Index.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Head Direction Cell.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Grid Cell.md",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
@@ -175,7 +162,6 @@
     "NATURAL SCIENCE/Biology/Biology.md",
     "NATURAL SCIENCE/Natural Science.md",
     "SOCIAL SCIENCE/Social Science.md",
-    "Index.md",
     "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Graph (Network).md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Hippocampus (Archicortex).md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Hippocampus Proper.md",
