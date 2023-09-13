@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f8591429a6b7681b",
+        "id": "322dff2aecd8bf83",
         "type": "tabs",
         "children": [
           {
-            "id": "f2994871d1cf6757",
+            "id": "02b56717040b8a66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Grid Cell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da72d38c9e827e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md"
+                "file": "Index.md"
               }
             }
           }
@@ -149,46 +163,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2994871d1cf6757",
+  "active": "da72d38c9e827e04",
   "lastOpenFiles": [
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Adjacency Matrix.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Degree.md",
-    "FORMAL SCIENCE/Mathematics/Mathematical Logic/Mathematical Logic.md",
-    "FORMAL SCIENCE/Mathematics/Mathematical Logic/Boolean Algebra.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Betweenness Centrality.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Neurotransmitter.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Head Direction Cell.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Grid Cell.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Speed Cell.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Boundary Cell.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Place Cell.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Trisynaptic Circuit.md",
+    "NATURAL SCIENCE/Biology/Biology.md",
+    "NATURAL SCIENCE/Natural Science.md",
+    "SOCIAL SCIENCE/Social Science.md",
+    "Index.md",
     "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Graph (Network).md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Degree Centrality.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Neuron.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Clustering Coefficient.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Monoamine.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/Soma.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/norepinephrine.md",
-    "NATURAL SCIENCE/Biology/Genetics/Ribonucleic Acid (RNA).md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Menger's Theorem.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Cut.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features/Connectivity.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Node.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws/Amdahl's Law.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws/Iron Law of Performance and Power.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Engineering.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Computer Architecture.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Arjuna Vishadayoga - The Distress of Arjuna.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad Gita.md",
-    "FORMAL SCIENCE/Computer Science/Algorithms",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Network Features",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)",
-    "Excalidraw",
-    "Untitled.canvas",
-    "Untitled",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Von Neumann Architecture",
-    "FORMAL SCIENCE/Mathematics/Number Theory/Algebraic Number Theory",
-    "FORMAL SCIENCE/Mathematics/Number Theory",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Hippocampus (Archicortex).md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Hippocampus Proper.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Multipolar Neurons/Pyramidal Cells.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Multipolar Neurons/Multipolar Neurons.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Dendrites.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neuron.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neuron/Bipolar Neurons/Bipolar Neurons.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Unipolar Neurons",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Bipolar Neurons",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Multipolar Neurons",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neural/Pyramidal Cells.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neural/Pyramidal",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neural",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/glia.md",
+    "NATURAL SCIENCE/Biology/Developmental Biology/Stem Cell/Progenitor Cell/Radial Glial Cell (RGP).md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/neurotransmission.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Entorhinal Cortex.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Pearson's diagram of the lobes of the neocortex.png",
+    "Untitled.canvas",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Kandel's diagram of the brain.png",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
     "Untitled 1.canvas",

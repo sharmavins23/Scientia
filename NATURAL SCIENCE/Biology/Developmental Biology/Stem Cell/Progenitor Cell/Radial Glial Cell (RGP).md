@@ -1,0 +1,1 @@
+Radial glial progenitor cells (RGPs) are [[Bipolar Neurons|bipolar]] [[Progenitor Cell|progenitor cells]] that are responsible for producing all [[Neuron|neurons]] within the [[Cerebral Cortex|cerebral cortex]], as well as certain lineages of [[Neuroglia|glia]] including [[astrocyte|astrocytes]] and [[oligodendrocyte|oligodendrocytes]].

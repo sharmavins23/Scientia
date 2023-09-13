@@ -1,0 +1,1 @@
+The periallocortex is one of the three sub-types of the [[Allocortex|allocortex]], and is formed at transitionary areas between the neocortex and the paleo/archicortex. As such, it is divided into two particular types: The [[Periarchicortex|periarchicortex]] and [[peripaleocortex|peripaleocortex]].

@@ -98,3 +98,18 @@ P_l = \frac{|v_i \text{ where } k_i=l|}{n}
 $$
 
 One interpretation of $P_l$ is the probability that a randomly selected node has a degree of $l$. There are many cases where degree distribution is the key to understanding the outcome of a spreading process in a graph.
+
+There may also be other particular degree distributions. For instance, the Poisson degree distribution is:
+
+$$
+P_l=\frac{e^{-\bar{k}}(\bar{k})^l}{l!}
+$$
+
+For this, degree variance can simply be $\bar{k}$. There is not a lot of degree variation for these kinds of networks.
+
+The power law distribution, or Pareto distribution, is another such important distribution.
+
+$$
+P_l = cl^{-\gamma} \text{ for } l=1,2,3,...
+$$
+

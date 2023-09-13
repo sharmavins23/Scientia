@@ -1,0 +1,3 @@
+The temporal lobe is one of the four lobes of the [[Cerebrum|cerebrum]] and is sometimes (erroneously) referred to as the neocortex. On the brain, it is beneath the [[Sylvian fissure]] on both cerebral hemispheres.
+
+The temporal lobe is responsible for processing sensory input into derived meanings for appropriate retention of visual memory, language comprehension, and emotion association. 'Temporal' refers to the head's temples.

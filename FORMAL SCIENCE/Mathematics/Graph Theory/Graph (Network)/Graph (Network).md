@@ -1,4 +1,4 @@
-Graphs (also known as networks) are representations, or models, of physical, [[Biology|biological]], [[Social Science|social]], and engineering-based systems. Often, they are visually depicted as graphs, and studied in a process known as [[Graph Theory|graph theory]]. Graphs can also be represented via [[Adjacency Matrix|adjacency matrices]].
+Graphs (also known as networks) are representations, or models, of physical, [[Biology|biological]], [[Social Science|social]], and [[Engineering and Technology|engineering]]-based systems. Often, they are visually depicted as graphs, and studied in a process known as [[Graph Theory|graph theory]]. Graphs can also be represented via [[Adjacency Matrix|adjacency matrices]].
 
 ## Formal Definition
 

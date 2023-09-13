@@ -6,12 +6,6 @@ When looking at an image of the brain, the vast majority of visible brain matter
 
 The neocortex is connected to other portions of the brain via [[Axon|nerve fibers]], and is primarily constructed out of [[Neuron|neurons]]. As the neocortex does not directly connect to muscle fibers or to sensory organs, it is responsible with interacting with other portions of the brain (such as the [[brain stem]] or [[thalamus]]).
 
-## Lobes
-
-The neocortex is divided into the following regions: [[Frontal Lobe|frontal]], [[Occipital Lobe|occipital]], [[Parietal Lobe|parietal]], and [[Temporal Lobe|temporal]]. These portions perform different functions, and are strongly correlated with doing so - Damage to the frontal lobe incurs loss of speech and motor function. Damage to the occipital lobe incurs loss of vision.
-
-![[Pearson's diagram of the lobes of the neocortex.png]]
-
 ## Layer Structure
 
 Unlike older (inner) portions of the brain, the neocortex does not contain extremely obvious subdivisions; However, it is (in older research) comprised of six layers, labelled from the outermost (I) to the innermost (VI). These layers are most generally segregated by cell type.

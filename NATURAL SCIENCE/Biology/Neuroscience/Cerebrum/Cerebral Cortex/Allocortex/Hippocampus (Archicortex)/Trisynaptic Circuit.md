@@ -1,0 +1,1 @@
+The tri-synaptic circuit, or tri-synaptic loop, is a [[neural circuit|neural circuit]] relay of [[Neurotransmitter#Mechanism|neurotransmission]] within the [[Hippocampus (Archicortex)|hippocampus]].

@@ -1,0 +1,3 @@
+The dentate gyrus is a portion of the [[Hippocampus (Archicortex)|hippocampal formation]] in the temporal lobe of the brain. It is part of the [[Trisynaptic Circuit|trisynaptic circuit]] and is thought to contribute to the formation of new episodic memories.
+
+The dentate gyrus also (notably) has significant rates of adult [[neurogenesis]], and is thought to contain [[Neural Stem Cell|neural stem cells]].

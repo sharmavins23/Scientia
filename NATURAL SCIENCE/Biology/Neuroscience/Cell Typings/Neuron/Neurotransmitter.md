@@ -1,4 +1,4 @@
-A neurotransmitter is a type of signalling [[molecule]] secreted by a [[Neuron|neuron]] to affect another cell across a [[Synapse|synapse]]. The receiving cell may be another neuron or potentially a [[gland]] or [[muscle cell]].
+A neurotransmitter is a type of signalling [[molecule]] secreted by a [[Neuron|neuron]] to affect another cell across a [[Synapse|synapse]] in the process of [[Neurotransmitter#Mechanism|neurotransmission]]. The receiving cell may be another neuron or potentially a [[gland]] or [[muscle cell]].
 
 Common neurotransmitters in the brain include [[glutamate]], [[GABA]], [[acetylcholine]], [[glycine]], and [[norepinephrine]].
 
@@ -28,4 +28,8 @@ After being released, neurotransmitters will interact with receptors on the targ
 
 ### Elimination
 
-In order to ensure the 
+In order to ensure the receptors on the post-synaptic cell are not constantly activated, neurotransmitters must be removed from the synaptic cleft. They can be removed in one of three ways:
+
+1. Neurotransmitters drift out of the synaptic cleft and may be absorbed by [[glial cells|glial cells]] (usually [[astrocyte|astrocytes]]). This is called **diffusion**.
+2. [[Protein|Proteins]] called [[enzymes]] may break the neurotransmitters down in a process known as **enzyme degradation**.
+3. Neurotransmitters may be re-absorbed back into the pre-synaptic neuron. [[Membrane transport proteins|Membrane transport proteins]] may pump neurotransmitters back into axon terminals in the pre-synaptic neuron where they may be re-used. This process is known as reuptake.

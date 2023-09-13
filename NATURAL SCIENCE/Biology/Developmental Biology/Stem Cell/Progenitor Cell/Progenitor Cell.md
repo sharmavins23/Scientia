@@ -1,0 +1,1 @@
+In [[Developmental Biology|developmental biology]], a progenitor [[cell]] is a biological cell that can [[Stem Cell#Differentiation|differentiate]] into a specific cell type. Unlike [[Stem Cell|stem cells]], progenitor cells can only differentiate into a 'target' cell type, and progenitor cells may only divide a limited number of times.

@@ -1,0 +1,3 @@
+The hippocampus, or hippocampal formation, is a compound structure in the medial [[Temporal Lobe|temporal lobe]] of the brain. There is no consistency in definition, but most authors define it as the [[Dentate Gyrus|dentate gyrus]], [[Hippocampus Proper|Hippocampus Proper]], and [[subiculum|subiculum]]. The hippocampus is a part of the [[allocortex|allocortex]].
+
+In 1971, John O'Keefe discovered the existence of [[Place Cell|place cells]] within the hippocampal formation, cells where the activity closely related to an animal's surrounding environment. With this discovery and many others, the hippocampal formation is thought to play a large role in memory, spatial navigation, and control of attention.

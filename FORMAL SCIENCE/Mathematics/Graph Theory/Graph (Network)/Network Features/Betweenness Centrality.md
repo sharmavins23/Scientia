@@ -15,7 +15,7 @@ $$
 More generally, when $v_s$ and $v_t$ have more than one shortest path:
 
 $$
-x_i = \sum_{v_s, v_t}{\frac{n_i(s, t)}{g(s,t)}}
+x_i = \sum_{v_s, v_t}{\frac{n_i(s, t)}{g(s,t)}} \text{ for } v_s\neq v_t
 $$
 
 Where $n_i(s,t)$ is the number of shortest paths between $v_s$ and $v_t$ that contain $v_i$, and $g(s,t)$ is the number of shortest paths between $v_s$ and $v_t$.

@@ -1,0 +1,1 @@
+Developmental [[Biology|biology]] is the study of the process by which animals and plants grow and develop. It encompasses the biology of [[regeneration]], [[asexual reproduction]], [[metamorphosis]], as well as the growth and [[Stem Cell#Differentiation|differentiation]] of [[Stem Cell|stem cells]].

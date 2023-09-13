@@ -1,0 +1,3 @@
+A neural [[Stem Cell|stem cell]] is a self-renewing [[Stem Cell#Potency|multipotent]] cell that firstly generates [[Radial Glial Cell (RGP)|radial glial progenitor cells]]. Adult NSCs are found within the sub-ventricular zone (SVZ) of the lateral ventricle wall and the sub-granular zone (SGZ) of the [[Dentate Gyrus|Dentate Gyrus]].
+
+Neural stem cells are the primary method in which cells perform [[neurogenesis]]. NSCs are thought to be contained within the [[Dentate Gyrus|hippocampal dentate gyrus]].

@@ -1,4 +1,4 @@
-The axon, or nerve fiber/fibre, is a long, slender projection of a [[Neuron|neuron]] in vertebrates that typically conducts [[Action Potential|electrical impulses]] away from the nerve cell body.
+The axon, or nerve fiber/fibre, is a long, slender projection of a [[Neuron|neuron]] in vertebrates that typically conducts [[Action Potential|electrical impulses]] away from the nerve cell body. It is connected to the neuron at the [[axon hillock|axon hillock]].
 
 Unlike their counterpart, the axon is considered a neuronal output; It sends electrical signals away from the pre-[[Synapse|synaptic]] neuron and towards the synapse, where it enters the post-synaptic cell.
 

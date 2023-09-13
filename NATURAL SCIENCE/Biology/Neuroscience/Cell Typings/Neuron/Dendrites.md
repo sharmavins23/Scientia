@@ -6,7 +6,6 @@ The dendrites project out from the soma, and usually receive input from the axon
 
 There are different unique types of neurons based on their configurations of axon and dendrite.
 
-- [[Multipolar neurons]] are composed of one axon and many dendritic trees.
-	- [[Pyramidal cells]] are multipolar cortical neurons with pyramid-shaped cell bodies and large [[apical dendrites]] that extend to the surface of the cortex.
-- [[Bipolar neurons]] have one axon and one dendritic tree at opposing ends of the cell body.
+- [[Multipolar Neurons|Multipolar Neurons]] are composed of one axon and many dendritic trees.
+- [[Bipolar Neurons|Bipolar neurons]] have one axon and one dendritic tree at opposing ends of the cell body.
 - [[Unipolar neurons]] have a stalk extending to the cell body that separates into two branches, with one containing dendrites and the other with terminal buttons. These buttons are used to detect sensory stimuli.

@@ -1,0 +1,3 @@
+The speed cell is a [[Neuron|neuron]] whose firing rates depend on an animal's speed throughout its environment. Alongside the [[Boundary Cell|boundary cell]], [[Grid Cell|grid cell]], [[Head Direction Cell|head direction cell]], and [[Place Cell|place cell]], they form a larger set of [[Neuron|neurons]] involved in cognitive mapping of an environment.
+
+The speed cell firing in response to the movement of the animal provides instantaneous running speed to the grid cell. The grid cell in turn uses this information (alongside head direction) in order to calculate the location of the animal in the cognitive map.
