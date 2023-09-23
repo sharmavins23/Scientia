@@ -105,7 +105,7 @@ $$
 P_l=\frac{e^{-\bar{k}}(\bar{k})^l}{l!}
 $$
 
-For this, degree variance can simply be $\bar{k}$. There is not a lot of degree variation for these kinds of networks.
+For this, degree variance can simply be $\bar{k}$. There is not a lot of degree variation for these kinds of networks, and Poisson distributed networks do not contain 'hubs'.
 
 The power law distribution, or Pareto distribution, is another such important distribution.
 
@@ -113,3 +113,4 @@ $$
 P_l = cl^{-\gamma} \text{ for } l=1,2,3,...
 $$
 
+The power law distribution contains hubs with degree much larger than $\bar{k}$, and if $2<\gamma \leq 3$, the mean degree is finite, but the variance will be infinite.

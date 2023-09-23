@@ -1,0 +1,3 @@
+DNA is a [[polymer]] composed of two chains forming a double helix structure. It is a [[nucleic acid]]. DNA is widely regarded as the storage unit of genetic information, and may be replicated upon splitting the double helix structure.
+
+The two DNA strands are known as [[polynucleotide|polynucleotides]] as they are composed of simpler [[monomer|monomeric]] [[nucleotides|nucleotide]] units consisting of the following nitrogen-containing [[nucleobases]]: [[guanine|guanine (G)]], [[cytosine|cytosine (C)]], [[adenine|adenine (A)]], and [[thymine|thymine (T)]]. Both strands encode the same information (as complements - G and C pair, and A and T pair). When split, they can 'replicate' and encode the same information in two separate positions.

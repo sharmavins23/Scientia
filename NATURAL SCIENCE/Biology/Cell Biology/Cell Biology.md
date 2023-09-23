@@ -1,0 +1,1 @@
+Cell [[Biology|biology]], also known as cytology, is a branch of biology that studies the structure, function, and behavior of [[Cell|cells]].

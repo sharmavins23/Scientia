@@ -1,0 +1,1 @@
+Glutamate is (by a wide margin) the most abundant excitatory [[Neurotransmitter|neurotransmitter]]. It acts in over 90% of the synaptic connections of the brain, and also serves as the primary neurotransmitter in localized brain regions (such as [[cerebellum granule]] cells).

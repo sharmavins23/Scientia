@@ -1,0 +1,3 @@
+A CNN is a type of [[Feedforward Neural Network (FNN)|feedforward]] [[Artificial Neural Network (ANN)|ANN]] that learns features by itself via kernel optimization. They are also known as Shift Invariant or Space Invariant ANNs (SIANNs).
+
+Importantly, ANNs can extract the same number of features that CNNs can; The convolutional step allows for significantly fewer neurons, allowing for much larger networks with far more complicated feature inputs.

@@ -1,0 +1,1 @@
+x86 assembly language is the name for the family of [[Instruction Set Architecture#Assembly Language|assembly languages]] which provide some level of backward compatibility for CPUs back to the Intel 8008 microprocessor, which was launched in April 1972.

@@ -1,4 +1,4 @@
-The soma (or perikaryon/neurocyton) is the cell body of the neuron, and contains the [[nucleus]] as well as most of the [[cell]]'s [[organelles]], such as the [[endoplasmic reticulum]] and [[golgi apparatus]].
+The soma (or perikaryon/neurocyton) is the cell body of the [[Neuron|neuron]], and contains the [[Cell Nucleus|cell's nucleus]] as well as most of the [[Cell|cell]]'s [[Organelle|organelles]], such as the [[endoplasmic reticulum]] and [[golgi apparatus]].
 
 The soma is not responsible for any input or output to the cell. As such, it is often referred to as the 'non-process' portion of the cell, and is instead responsible for survival and production of the cell.
 

@@ -1,0 +1,1 @@
+An SNN is a type of [[Artificial Neural Network (ANN)|ANN]] that more closely mimics [[Biology|biological]] [[Neuron|neurons]]. Instead of having neurons as point integrators, spiking neurons may emit information encoded as spike rates or spike timings. These neurons are better for hardware implementation due to their (relatively speaking) lower power requirements.

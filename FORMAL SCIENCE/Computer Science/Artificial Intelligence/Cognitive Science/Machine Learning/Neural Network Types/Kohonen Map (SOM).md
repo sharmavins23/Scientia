@@ -1,0 +1,1 @@
+A Kohonen map, or Self-Organizing Map (SOM), is an unsupervised [[Machine Learning|ML]] technique to produce a lower-dimensional representation of a higher-dimensional dataset. They are [[Artificial Neural Network (ANN)|ANNs]] that are trained via [[competitive learning]] rather than [[Backpropagation|error-correction learning]].

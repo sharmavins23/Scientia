@@ -1,0 +1,3 @@
+An array is a [[Data Structures|data structure]] of contiguous and similar items. Each item has the same sizing and structure; As such, they can easily be concatenated together in a contiguous portion of [[Memory|memory]].
+
+Arrays may have indices for the number of elements they have, and these indices correspond to consistent offsets from the 'head' of the array. With these, accessing a value takes $O(1)$ time, but the array takes up $O(n)$ space.

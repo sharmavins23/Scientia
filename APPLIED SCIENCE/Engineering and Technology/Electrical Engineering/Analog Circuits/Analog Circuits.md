@@ -1,1 +1,1 @@
-In [[Electrical Engineering|electrical engineering]], analog circuits (or analog electronics) are electronic systems with continuously variable signals. This is in contrast to [[digital circuits|digital circuits]], which usually contains voltages with two discrete levels.
+In [[Electrical Engineering|electrical engineering]], analog circuits (or analog electronics) are electronic systems with [[Analog Signals|continuously variable signals]]. This is in contrast to [[digital circuits|digital circuits]], which usually contains voltages with two discrete levels.

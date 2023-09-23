@@ -1,0 +1,1 @@
+FNNs are the most basic type of [[Artificial Neural Network (ANN)|ANN]], where data is fed forward and simply trained via [[Backpropagation|backpropagation]]. They are also colloquially referred to as 'vanilla' neural networks.

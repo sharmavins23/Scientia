@@ -1,0 +1,1 @@
+The cortical homunculus is a depiction of the [[Cerebral Cortex|cerebral cortex's]] mappings to the remainder of the human body. Effectively, every portion of the human body is enlarged or shrank depending on the amount of nerve endings within the [[Parietal Lobe|parietal lobe]].

@@ -11,7 +11,7 @@
       "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering\"",
       "color": {
         "a": 1,
-        "rgb": 20415
+        "rgb": 1060779
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 9.96103751530669,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 0.27606079928145655,
+  "scale": 0.34443762213092044,
   "close": true
 }

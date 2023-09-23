@@ -1,0 +1,3 @@
+IST, also known as Independent Subnet Training, is a class of [[Machine Learning|NN]] training [[Algorithms|algorithms]] dealing with the decomposition of a neural network into a set of individual smaller networks. These smaller networks may be trained separately before being synchronized together.
+
+IST is not necessarily an alternative to other training methods, but may be used in conjunction with them. For instance, a [[Gamification Training|gamified approach]] maybe used to train a particular sub-portion of the network by 'mocking' the input and generating an expected output.

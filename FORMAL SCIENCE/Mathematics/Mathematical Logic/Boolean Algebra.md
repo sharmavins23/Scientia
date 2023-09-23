@@ -1,4 +1,4 @@
-In [[Mathematical Logic|mathematical logic]], Boolean algebra is a branch of algebra. It differs from elementary algebra in both its values and operators:
+In [[Logic (Mathematics)|mathematical logic]], Boolean algebra is a branch of algebra. It differs from elementary algebra in both its values and operators:
 
 - Boolean algebra only uses variables as values, and these values may only take the state of `true` or `false`.
 - Boolean algebra uses logical operators instead of normal operators.

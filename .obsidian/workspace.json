@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b81503195c1e3db6",
+        "id": "bc2a34f056490835",
         "type": "tabs",
         "children": [
           {
-            "id": "ab086903529cfc83",
+            "id": "12948bd75c354b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Place Cell.md",
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ComputerArchitecture",
+                "query": "superposition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5086555480957
+    "width": 313.50390243530273
   },
   "right": {
     "id": "4b2df34686e9c55e",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Place Cell.md",
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Place Cell.md",
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Place Cell.md"
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md"
               }
             }
           },
@@ -159,52 +159,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab086903529cfc83",
+  "active": "12948bd75c354b4f",
   "lastOpenFiles": [
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Trisynaptic Circuit.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Grid Cell.md",
-    "Index.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Head Direction Cell.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Speed Cell.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Boundary Cell.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Place Cell.md",
-    "NATURAL SCIENCE/Biology/Biology.md",
-    "NATURAL SCIENCE/Natural Science.md",
-    "SOCIAL SCIENCE/Social Science.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Graph (Network).md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Hippocampus (Archicortex).md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Hippocampus Proper.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Multipolar Neurons/Pyramidal Cells.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Multipolar Neurons/Multipolar Neurons.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Dendrites.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neuron.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neuron/Bipolar Neurons/Bipolar Neurons.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Unipolar Neurons",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Bipolar Neurons",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Multipolar Neurons",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neural/Pyramidal Cells.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neural/Pyramidal",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cells/Neural",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/glia.md",
-    "NATURAL SCIENCE/Biology/Developmental Biology/Stem Cell/Progenitor Cell/Radial Glial Cell (RGP).md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuron/neurotransmission.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Entorhinal Cortex.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex",
-    "NATURAL SCIENCE/Biology/Neuroscience/img/Pearson's diagram of the lobes of the neocortex.png",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Reservoir Computing.md",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws/Amdahl's Law.md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Organelle/Cell Nucleus.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Soma.md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Prokaryote.md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Eukaryote.md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Cell.md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Organelle/Organelle.md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Organelle",
+    "NATURAL SCIENCE/Biology/Cell Biology/Cell Biology.md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Archaea.md",
+    "NATURAL SCIENCE/Biology/Genetics/Deoxyribonucleic Acid (DNA).md",
+    "NATURAL SCIENCE/Biology/Cell Biology/Cellular Division.md",
+    "NATURAL SCIENCE/Biology/Developmental Biology/Stem Cell/Stem Cell.md",
+    "NATURAL SCIENCE/Biology/Developmental Biology/Stem Cell/Progenitor Cell/Progenitor Cell.md",
+    "NATURAL SCIENCE/Biology/Cell Biology",
+    "NATURAL SCIENCE/Biology/Genetics/Ribonucleic Acid (RNA).md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Brain.md",
+    "2023-09-19.md",
+    "APPLIED SCIENCE/Applied Science.md",
+    "FORMAL SCIENCE/Computer Science/Coding Theory/Coding Theory.md",
+    "FORMAL SCIENCE/Computer Science/Data Structures/Array.md",
+    "FORMAL SCIENCE/Computer Science/Data Structures/Linked List.md",
+    "FORMAL SCIENCE/Computer Science/Data Structures/Data Structures.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/x86/x86 Assembly.md",
+    "FORMAL SCIENCE/Computer Science/Data Structures",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/x86",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neural Network Types",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter",
+    "Z - img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
+    "Z - img/Pearson's diagram of the lobes of the neocortex.png",
     "Untitled.canvas",
-    "NATURAL SCIENCE/Biology/Neuroscience/img/Kandel's diagram of the brain.png",
+    "Z - img/Kandel's diagram of the brain.png",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/img/Inductor-Capacitor (LC) Tank.png",
     "Untitled 1.canvas",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/img/MIPS Five Stage Datapath.png",
-    "NATURAL SCIENCE/Biology/Neuroscience/img/Wikipedia's Diagram of the Neuron.png",
+    "Z - img/MIPS Five Stage Datapath.png",
+    "Z - img/Wikipedia's Diagram of the Neuron.png",
     "NATURAL SCIENCE/Biology/Neuroscience/img/Diagram of the Neuron.png",
     "Neuroscience/img/Diagram of the neuron.png"
   ]

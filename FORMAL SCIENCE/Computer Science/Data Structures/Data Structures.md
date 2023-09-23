@@ -1,0 +1,1 @@
+Data structures in [[Computer Science|computer science]] are data organization methods usually chosen for efficient access of data. It is (in effect) an algebraic structure about data. Data structures are often utilized in implementation of [[Algorithms|algorithms]].

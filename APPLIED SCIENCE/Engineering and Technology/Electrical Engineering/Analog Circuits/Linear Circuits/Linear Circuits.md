@@ -1,4 +1,4 @@
-Linear circuits are a type of [[Analog Circuits|analog circuit]] which obeys the principle of superposition:
+Linear circuits are a type of [[Analog Circuits|analog circuit]] which obeys the [[System#Linear (Principle of Superposition)|principle of superposition]]:
 
 $$
 F(ax_1+bx_2) = aF(x_1) + bF(x_2)

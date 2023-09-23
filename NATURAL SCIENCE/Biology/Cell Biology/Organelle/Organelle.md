@@ -1,0 +1,1 @@
+An organelle is a specialized sub-unit within a [[Cell|cell]] having a specific function.

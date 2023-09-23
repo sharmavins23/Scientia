@@ -1,0 +1,1 @@
+Cognitive science is the interdisciplinary scientific study of the mind and its processes, generally in the quest to develop [[Artificial Intelligence|artificial intelligence]].

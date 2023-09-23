@@ -1,0 +1,1 @@
+The central nervous system consists of the [[Brain|brain]] and the [[Spinal Cord|spinal cord]], and makes up the majority of sensorimotor processing in an animal.

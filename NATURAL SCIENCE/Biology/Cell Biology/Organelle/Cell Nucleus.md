@@ -1,0 +1,1 @@
+The cell nucleus is a [[Plasma Membrane|membrane]]-bound [[Organelle|organelle]] found only in [[Eukaryote|eukaryotic cells]]. It contains nearly all of the cell's [[Genome|genome]].

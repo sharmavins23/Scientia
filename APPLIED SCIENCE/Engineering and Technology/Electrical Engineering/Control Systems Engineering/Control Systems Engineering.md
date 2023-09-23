@@ -1,0 +1,1 @@
+Control systems engineering is a sub-field of [[Electrical Engineering|electrical engineering]] dealing with control systems, applying control theory and designing equipment/systems with desired behaviors in control environments. The discipline has many overlaps and is often taught in [[Mechanical Engineering|mechanical engineering]] as well.
