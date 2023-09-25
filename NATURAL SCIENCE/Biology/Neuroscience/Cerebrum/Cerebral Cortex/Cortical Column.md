@@ -1,0 +1,3 @@
+A cortical column is a grouping of [[Neuron|neurons]] forming a cylindrical structure throughout the [[Cerebral Cortex|cerebral cortex]] of the brain. Perpendicular to the cortical surface, these individual cylinders are thought to be the canonical microcircuit implementing [[Predictive Coding|predictive coding]], which is thought to be the basis for all cognition.
+
+The cortical column was discovered in 1957 by Mountcastle, who further discovered cortical mini-columns, or groupings of 80-120 vertically-oriented neurons. There are an (estimated) $2\times 10^7 \to 2\times 10^8$ mini-columns within the brain.

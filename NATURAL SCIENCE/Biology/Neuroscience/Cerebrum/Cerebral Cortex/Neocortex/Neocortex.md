@@ -10,7 +10,7 @@ The neocortex is connected to other portions of the brain via [[Axon|nerve fiber
 
 Unlike older (inner) portions of the brain, the neocortex does not contain extremely obvious subdivisions; However, it is (in older research) comprised of six layers, labelled from the outermost (I) to the innermost (VI). These layers are most generally segregated by cell type.
 
-As of today, we know there are dozens of types of cells (when classifying neurons by connectivity). Instead, the neocortex is thought to be constructed out of [[Cortical Column|columns]], or large layered copies of the same basic circuits. Mountcastle summarizes the important point of this theory:
+As of today, we know there are dozens of types of cells (when classifying neurons by connectivity). Instead, the neocortex is thought to be constructed out of [[NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Neocortex/Cortical Column|columns]], or large layered copies of the same basic circuits. Mountcastle summarizes the important point of this theory:
 
 > *Put shortly, there is nothing intrinsically motor about the motor cortex, nor sensory about the sensory cortex. Thus the elucidation of the mode of operation of the local modular circuit anywhere in the neocortex will be of great generalizing significance.*
 
