@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5973415
       }
+    },
+    {
+      "query": "path:\"SOCIAL SCIENCE/Psychology\" ",
+      "color": {
+        "a": 1,
+        "rgb": 15512033
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 9.96103751530669,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 0.5300458966049933,
+  "scale": 0.2925813461635393,
   "close": true
 }

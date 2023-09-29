@@ -1,0 +1,1 @@
+In computer science, a neuron is an approximation of a cognitive [[Neuron|neuron]], and generally acts as some arbitrary function $\lambda(i_1, i_2, ..., i_n)$. It is some integration of inputs to an output.

@@ -1,0 +1,1 @@
+Neuropsychology is a sub-field of [[Psychology|psychology]] concerned with how [[Cognition|cognition]] and [[Behavior|behavior]] are related to the [[Brain|brain]] and the remainder of the [[Central Nervous System|nervous system]].

@@ -1,0 +1,1 @@
+Psychology is the study of the [[Mind|mind]] and [[Behavior|behavior]] in humans and non-humans. It is a [[Social Science|social science]].
