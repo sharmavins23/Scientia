@@ -1,0 +1,1 @@
+A random geometric [[Random Graph|graph]] is a type of random graph where [[Node|nodes]] are arbitrarily placed within a physical region, and proximity between nodes (and distance being below a threshold) determines their linkage.

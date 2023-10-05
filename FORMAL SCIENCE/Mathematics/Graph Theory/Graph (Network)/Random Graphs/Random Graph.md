@@ -1,0 +1,3 @@
+A random [[Graph (Network)|graph]] is a general term referring to a [[Probability]] [[Probability Distribution|distribution]] over a graph. Random graphs are usually described by probability distributions or otherwise by [[Stochastic Process|random processes]] which generated them.
+
+Oftentimes and in mathematical contexts, the term 'random graph' refers almost exclusively to [[Erdos-Renyi Model|Erdos-Renyi random graphs]]; However, there are many other types of random graph.

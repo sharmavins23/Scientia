@@ -1,0 +1,1 @@
+Random K-Out graphs are [[Random Graph|random graphs]] with a simple [[Algorithms|algorithm]] - Every node or edge selects $k$ others and tries to form an edge. An edge is thus formed between two parties if either party has 'accepted' the 'connection'.
