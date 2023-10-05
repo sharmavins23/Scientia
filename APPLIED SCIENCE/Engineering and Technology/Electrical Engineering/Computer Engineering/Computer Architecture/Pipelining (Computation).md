@@ -66,7 +66,7 @@ This stage contains the 'bread and butter' of a computer, sporting an [[Arithmet
 
 ### Memory Access (MEM)
 
-This stage is usually the longest stage of a pipeline, as it incurs the cost of going to memory and interfacing with the [[Memory|memory]] hierarchy.
+This stage is usually the longest stage of a pipeline, as it incurs the cost of going to memory and interfacing with the [[Memory (Computing)|memory]] hierarchy.
 
 #### Operand Store (OS)
 

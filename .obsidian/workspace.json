@@ -14,8 +14,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0b03b221e3909f0f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "superposition",
+                "query": "norepineph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,15 +159,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a57bb5bd90a25dc0",
+  "active": "0b03b221e3909f0f",
   "lastOpenFiles": [
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
-    "SOCIAL SCIENCE/Psychology/Psychology.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Serotonin.md",
+    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Major Depressive Disorder.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Memory (Computing).md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
+    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/SSRI/Selective Serotonin Reuptake Inhibitor (SSRI).md",
+    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Pharmaceutical Science.md",
+    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/SSRI",
+    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Mood Disorder.md",
+    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mental Disorder.md",
+    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science",
+    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder",
+    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Psychiatry.md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Neuropsychology.md",
+    "SOCIAL SCIENCE/Psychology/Psychology.md",
+    "APPLIED SCIENCE/Medicine and Health/Medicine and Health.md",
+    "Index.md",
+    "APPLIED SCIENCE/Medicine and Health/Psychiatry",
+    "APPLIED SCIENCE/Medicine and Health",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/neurotransmitters.md",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "SOCIAL SCIENCE/Psychology/Mind.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Artificial Intelligence.md",
-    "Index.md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology",
     "SOCIAL SCIENCE/Psychology",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types/Spiking Neuron.md",
@@ -172,23 +197,7 @@
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neural Network Types/Artificial Neural Network (ANN).md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neural Network Types/Convolutional Neural Network (CNN).md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Cortical Column.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Speed Cell.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Boundary Cell.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Reservoir Computing.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Laws/Amdahl's Law.md",
-    "NATURAL SCIENCE/Biology/Cell Biology/Organelle/Cell Nucleus.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Soma.md",
-    "NATURAL SCIENCE/Biology/Cell Biology/Prokaryote.md",
-    "NATURAL SCIENCE/Biology/Cell Biology/Eukaryote.md",
-    "NATURAL SCIENCE/Biology/Cell Biology/Cell.md",
-    "NATURAL SCIENCE/Biology/Cell Biology/Organelle",
-    "NATURAL SCIENCE/Biology/Cell Biology",
-    "FORMAL SCIENCE/Computer Science/Data Structures",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/x86",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neural Network Types",
     "Z - img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
     "Z - img/Pearson's diagram of the lobes of the neocortex.png",
     "Untitled.canvas",

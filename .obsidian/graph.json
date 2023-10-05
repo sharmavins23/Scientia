@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 15512033
       }
+    },
+    {
+      "query": "path:\"APPLIED SCIENCE/Medicine and Health\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 9.96103751530669,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 0.25907127117246836,
+  "scale": 0.2484027010022113,
   "close": true
 }

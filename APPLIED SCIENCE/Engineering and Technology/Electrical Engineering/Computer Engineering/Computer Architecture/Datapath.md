@@ -17,7 +17,7 @@ A datapath consists of many individual components which are necessary for comput
 - An [[Read-Only Memory (ROM)|instruction memory]];
 - A [[control unit]];
 - A set of [[Register Memory|registers]];
-- Some [[Memory|data memory]];
+- Some [[Memory (Computing)|data memory]];
 - An [[Arithmetic Logic Unit (ALU)]], primarily utilized for processing.
 
 Other complicated datapaths may contain other components. Non-traditional datapaths may also forego these individual components in favor of more problem-specific solutions.

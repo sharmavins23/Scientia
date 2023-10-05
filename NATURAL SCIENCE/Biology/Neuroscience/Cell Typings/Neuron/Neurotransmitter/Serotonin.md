@@ -1,0 +1,3 @@
+Serotonin is a [[Monoamine|monoamine]] [[Neurotransmitter|neurotransmitter]] utilized for modulating [[Emotion|mood]], [[Cognition|cognition]], [[Reward|reward]], [[Learning|learning]], [[Memory|memory]], and physical processes such as [[Vomiting|vomiting]] and [[Vasoconstriction|vasoconstriction]]. The vast majority of bodily serotonin is within the [[Gastrointenstinal Tract|gastrointestinal tract's]] [[Enterochromaffin|enterochromaffin cells]].
+
+Serotonin is often referred to as the 'reward' chemical or the 'happy' chemical. However, this theory is fundamentally untrue - Serotonin is responsible for a wide variety of [[Central Nervous System|nervous]] processes.

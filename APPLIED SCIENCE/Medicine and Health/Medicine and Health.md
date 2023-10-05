@@ -1,0 +1,1 @@
+Medicine and health are fields of [[Applied Science|applied science]] taking into account a wide variety of [[Biology|biological]] and [[Chemistry|chemical]] [[Natural Science|scientific]] advances in order to elongate human lifespan and cure ailments.

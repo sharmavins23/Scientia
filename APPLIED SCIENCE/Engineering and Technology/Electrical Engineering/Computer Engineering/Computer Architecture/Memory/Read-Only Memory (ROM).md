@@ -1,4 +1,4 @@
-ROM is generally [[Memory#Volatility|non-volatile]] memory used in computers. As the name suggests, it cannot be modified, and is instead pre-loaded with particular information.
+ROM is generally [[Memory (Computing)#Volatility|non-volatile]] memory used in computers. As the name suggests, it cannot be modified, and is instead pre-loaded with particular information.
 
 ROM is often used for security purposes (such as storing [[cryptographic keys]] or [[Media Access Control ID|MAC IDs]]). It also stores device firmware or other data that is seldom changed in the system.
 

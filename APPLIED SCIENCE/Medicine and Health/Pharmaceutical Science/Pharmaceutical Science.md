@@ -1,0 +1,1 @@
+The pharmaceutical sciences are interdisciplinary efforts to generate [[Medicine and Health|medicines (drugs)]] that can treat ailments.

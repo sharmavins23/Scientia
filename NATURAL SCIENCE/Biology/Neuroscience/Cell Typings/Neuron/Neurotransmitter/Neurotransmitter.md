@@ -1,6 +1,6 @@
 A neurotransmitter is a type of signalling [[molecule]] secreted by a [[Neuron|neuron]] to affect another cell across a [[Synapse|synapse]] in the process of [[Neurotransmitter#Mechanism|neurotransmission]]. The receiving cell may be another neuron or potentially a [[gland]] or [[muscle cell]].
 
-Common neurotransmitters in the brain include [[Glutamate (Neurotransmitter)|glutamate]], [[Gamma-Aminobutyric Acid (GABA)|GABA]], [[acetylcholine]], [[glycine]], and [[norepinephrine]].
+Common neurotransmitters in the brain include [[Glutamate (Neurotransmitter)|glutamate]], [[Gamma-Aminobutyric Acid (GABA)|GABA]], [[acetylcholine]], [[glycine]], and [[Norepinephrine|norepinephrine]].
 
 ## Mechanism
 
@@ -8,8 +8,8 @@ Common neurotransmitters in the brain include [[Glutamate (Neurotransmitter)|glu
 
 Neurotransmitters are generally synthesized within the [[Soma|cell body]] (though smaller molecules are made within the pre-synaptic terminal) and are made up of, or derived from, precursor molecules that are found abundantly in the cell. There are a series of classes of neurotransmitters that are synthesized:
 
-- [[Amino Acid|Amino acid]] neurotransmitters such as [[glycine]] and [[Glutamate (Neurotransmitter)|glutamate]];
-- [[Monoamine|Monoamines]] such as [[serotonin]], [[epinephrine]], and [[dopamine]];
+- [[Amino Acid|Amino acid]] neurotransmitters such as [[Glycine|glycine]] and [[Glutamate (Neurotransmitter)|glutamate]];
+- [[Monoamine|Monoamines]] such as [[Serotonin|serotonin]], [[Epinephrine|epinephrine]], and [[Dopamine|dopamine]];
 - [[Peptide|Peptides]] such as [[substance P]] or [[opioid|opioids]];
 - [[Purine|Purines]] such as [[ATP]] or [[GTP]];
 - Other neurotransmitters such as [[nitric oxide]] and [[carbon monoxide]].

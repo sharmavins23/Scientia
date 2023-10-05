@@ -2,7 +2,7 @@ The Von Neumann architecture, or model, or Princeton architecture, is a computer
 
 - A [[Processing Units (PUs)|processing unit]] with both an [[Arithmetic Logic Unit (ALU)]] and processor registers;
 - A [[control unit]] that includes an instruction [[Register Memory|register]] and program counter;
-- [[Memory]] that stores data and instructions, as well as some external mass storage;
+- [[Memory (Computing)]] that stores data and instructions, as well as some external mass storage;
 - Input and output mechanisms.
 
 The term has since evolved to refer to any stored-program computer in which an instruction fetch and a data write operation cannot occur at the same time. This is referred to as the Von Neumann bottleneck, which limits the performance of the system. These problems are also called [[Pipelining (Computation)#Hazards|hazards]].
