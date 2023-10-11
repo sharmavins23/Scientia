@@ -1,0 +1,1 @@
+Physiology is the [[Biology|biological]] study of functions and mechanisms in a living system.

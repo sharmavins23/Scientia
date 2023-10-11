@@ -1,0 +1,1 @@
+The spinal cord is an extension of the [[Brain|brain]] which connects to the [[Brain Stem|brain stem]].

@@ -4,13 +4,13 @@ The neocortex is thought to be the primary unit for human thought. It also has b
 
 When looking at an image of the brain, the vast majority of visible brain matter is the neocortex. It occupies roughly 70% of the brain, by volume. It is considered the newest portion of the brain (in an evolutionary sense), and wraps around the other portions of the brain. Folds in the neocortex exist to increase its surface area; When 'unwrapped', it would appear as a flat sheet of cells the size of a dinner napkin, with no significant spatial distinctions.
 
-The neocortex is connected to other portions of the brain via [[Axon|nerve fibers]], and is primarily constructed out of [[Neuron|neurons]]. As the neocortex does not directly connect to muscle fibers or to sensory organs, it is responsible with interacting with other portions of the brain (such as the [[brain stem]] or [[thalamus]]).
+The neocortex is connected to other portions of the brain via [[Axon|nerve fibers]], and is primarily constructed out of [[Neuron|neurons]]. As the neocortex does not directly connect to muscle fibers or to sensory organs, it is responsible with interacting with other portions of the brain (such as the [[Brain Stem|brain stem]] or [[Thalamus|thalamus]]).
 
 ## Layer Structure
 
 Unlike older (inner) portions of the brain, the neocortex does not contain extremely obvious subdivisions; However, it is (in older research) comprised of six layers, labelled from the outermost (I) to the innermost (VI). These layers are most generally segregated by cell type.
 
-As of today, we know there are dozens of types of cells (when classifying neurons by connectivity). Instead, the neocortex is thought to be constructed out of [[NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Neocortex/Cortical Column|columns]], or large layered copies of the same basic circuits. Mountcastle summarizes the important point of this theory:
+As of today, we know there are dozens of types of cells (when classifying neurons by connectivity). Instead, the neocortex is thought to be constructed out of [[NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Cortical Column|columns]], or large layered copies of the same basic circuits. Mountcastle summarizes the important point of this theory:
 
 > *Put shortly, there is nothing intrinsically motor about the motor cortex, nor sensory about the sensory cortex. Thus the elucidation of the mode of operation of the local modular circuit anywhere in the neocortex will be of great generalizing significance.*
 

@@ -1,0 +1,3 @@
+Myelin is a substance that encases most (Group A and B) [[Axon|axons]], insulating their firing. This increases the rate at which action potentials are passed along the axon. Rather than fully encasing the wire, myelin ensheaths the axon in segments, called nodes of Ranvier.
+
+Myelin is strongly white in color. As such, this gives [[White Matter|white matter]] its hue. As [[Grey Matter|grey matter]] has unmyelinated axons, it is therefore grey (lacking the white hue from myelin).

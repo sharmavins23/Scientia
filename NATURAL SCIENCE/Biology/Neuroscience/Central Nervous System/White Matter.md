@@ -1,0 +1,1 @@
+"White matter" refers to areas of the [[Central Nervous System|CNS]] made up of [[Myelin|myelinated]] axons (also called [[Nerve Tract|tracts]]). White matter was long thought to be passive tissue, but more likely, white matter acts as a 'relay' coordinating information between different brain regions.

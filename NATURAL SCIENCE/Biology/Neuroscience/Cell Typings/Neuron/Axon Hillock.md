@@ -1,0 +1,1 @@
+The axon hillock is a part of the [[Soma|soma]] connecting to the [[Axon|axon]]. It can be identified from its sparse distribution of [[Nissl Bodies|nissl bodies]]. Within the hillock, [[Plasma Membrane|membrane]] [[Action Potential|potentials]] from synaptic inputs are [[Summation (Neurophysiology)|summated]] before being transmitted to the axon.

@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "66201a0bd720ec80",
+        "id": "c09d599c44750a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "a57bb5bd90a25dc0",
+            "id": "fafd7aaecca869bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
+                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Neurophysiology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d832722b32c833f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "branch predictor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
+                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
+                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md"
+                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md"
               }
             }
           },
@@ -160,45 +173,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a57bb5bd90a25dc0",
+  "active": "d832722b32c833f2",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Action Potential.md",
+    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
+    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Summation (Neurophysiology).md",
+    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Neurophysiology.md",
+    "NATURAL SCIENCE/Biology/Physiology/Physiology.md",
+    "Index.md",
+    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology",
+    "NATURAL SCIENCE/Biology/Physiology",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon Hillock.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/White Matter.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Grey Matter.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Myelin.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Dendrite.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Autapse.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Brain.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Central Nervous System.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon/Thalamus.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Spinal Cord/Spinal Cord.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Brain Stem.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Neocortex.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Head Direction Cell.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon/Diencephalon.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Cache Memory.md",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Dynamic Random-Access Memory (DRAM).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/capacitors.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/Inductor-Capacitor (LC) Tank.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Random-Access Memory (RAM).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Memory (Computing).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Static Random-Access Memory (SRAM).md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Cortical Column.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
-    "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Serotonin.md",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Major Depressive Disorder.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
-    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/SSRI/Selective Serotonin Reuptake Inhibitor (SSRI).md",
-    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Pharmaceutical Science.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/SSRI",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Mood Disorder.md",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mental Disorder.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science",
     "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Psychiatry.md",
-    "SOCIAL SCIENCE/Psychology/Neuropsychology/Neuropsychology.md",
-    "SOCIAL SCIENCE/Psychology/Psychology.md",
-    "APPLIED SCIENCE/Medicine and Health/Medicine and Health.md",
-    "Index.md",
     "APPLIED SCIENCE/Medicine and Health/Psychiatry",
     "APPLIED SCIENCE/Medicine and Health",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/neurotransmitters.md",
-    "SOCIAL SCIENCE/Psychology/Mind.md",
-    "SOCIAL SCIENCE/Psychology/Neuropsychology",
-    "SOCIAL SCIENCE/Psychology",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Activation Functions",
     "Z - img/Hodgkin-Huxley model of a neuron.png",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training",
     "Z - img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
     "Z - img/Pearson's diagram of the lobes of the neocortex.png",
     "Untitled.canvas",

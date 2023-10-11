@@ -1,0 +1,1 @@
+In the [[Brain|brain]], the diencephalon (or interbrain, or 'tweenbrain' in older English) is a division of the rostral portion of the brain. It consists of structures on either side of the [[Third Ventricle|third ventricle]], and is one of the main [[Vesicle|vesicles]] formed during [[Human Embryogenesis|embryogenesis]].

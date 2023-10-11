@@ -1,0 +1,1 @@
+Grey matter in the [[Central Nervous System|CNS]] consists of [[Soma|neuronal cell bodies]], [[Dendrite|dendrites]], [[Myelin|unmyelinated]] [[Axon|axons]], [[Neuroglia|glial cells]], [[Synapse|synapses]], and [[Capillary|capillaries]]. Grey matter has a very light gray hue with yellowish or pinkish highlights, coming from capillary blood vessels and cell bodies.

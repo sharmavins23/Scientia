@@ -23,6 +23,6 @@ Multiple neurons functionally connected together form a [[neural circuit]].
 The neuron is made up of a series of individual parts:
 
 - The [[Soma|soma]], or the body of the neuron.
-- The [[Dendrites|dendrites]], or the tree-like branching growths. These are inputs to the cell.
+- The [[Dendrite|dendrites]], or the tree-like branching growths. These are inputs to the cell.
 - The [[Axon|axon]], or output from the cell. It is orders of magnitude longer than the diameter of the soma.
 - The [[Plasma Membrane|plasma membrane]] is a covering for the neuron cell.

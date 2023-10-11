@@ -1,4 +1,4 @@
-Periarchicortex is one of the two subtypes of [[periallocortex]].
+Periarchicortex is one of the two subtypes of [[Periallocortex]].
 
 ## Areas
 

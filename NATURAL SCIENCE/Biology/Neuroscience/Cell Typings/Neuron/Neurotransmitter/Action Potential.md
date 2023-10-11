@@ -1,0 +1,1 @@
+An action potential occurs when the [[Plasma Membrane|membrane]] potential of a [[Neuron|cell]] rapidly rises and falls. This also occurs in other types of [[Cell|cell]], such as [[muscle cell|muscle cells]] and some [[Plant Cell|plant cells]].

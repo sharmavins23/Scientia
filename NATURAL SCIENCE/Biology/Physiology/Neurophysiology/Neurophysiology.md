@@ -1,0 +1,1 @@
+Neurophysiology is a cross-domain branch of [[Physiology|physiology]] and [[Neuroscience|neuroscience]] dealing with [[Central Nervous System|nervous system]] *function* rather than nervous system *architecture*.
