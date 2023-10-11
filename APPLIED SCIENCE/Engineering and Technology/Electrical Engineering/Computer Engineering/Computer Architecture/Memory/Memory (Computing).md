@@ -7,7 +7,7 @@ There are several ways of categorizing memory. One of the popular ones is by rea
 1. [[Read-Only Memory (ROM)]];
 2. [[Hard Disk Memory]];
 3. [[Solid-State Memory]];
-4. [[Random Access Memory (RAM)]];
+4. [[Random-Access Memory (RAM)]];
 5. [[Cache Memory]];
 6. [[Register Memory]].
 

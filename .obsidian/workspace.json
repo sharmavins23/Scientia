@@ -11,20 +11,16 @@
             "id": "a57bb5bd90a25dc0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b03b221e3909f0f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "norepineph",
+                "query": "branch predictor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md"
+              }
             }
           },
           {
@@ -159,11 +160,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b03b221e3909f0f",
+  "active": "a57bb5bd90a25dc0",
   "lastOpenFiles": [
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Cache Memory.md",
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Dynamic Random-Access Memory (DRAM).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/capacitors.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Linear Circuits/Inductor-Capacitor (LC) Tank.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Random-Access Memory (RAM).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Memory (Computing).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Static Random-Access Memory (SRAM).md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cerebrum/Cerebral Cortex/Cortical Column.md",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+    "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Serotonin.md",
     "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Major Depressive Disorder.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Memory (Computing).md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/SSRI/Selective Serotonin Reuptake Inhibitor (SSRI).md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Pharmaceutical Science.md",
@@ -180,23 +192,12 @@
     "APPLIED SCIENCE/Medicine and Health/Psychiatry",
     "APPLIED SCIENCE/Medicine and Health",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/neurotransmitters.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
-    "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "SOCIAL SCIENCE/Psychology/Mind.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Artificial Intelligence.md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology",
     "SOCIAL SCIENCE/Psychology",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types/Spiking Neuron.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types/Artificial Neuron.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Backpropagation.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Activation Functions/Activation Function.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Activation Functions",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types/Neuron (Computer Science).md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types/Hodgkin-Huxley Neuron.md",
     "Z - img/Hodgkin-Huxley model of a neuron.png",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neural Network Types/Artificial Neural Network (ANN).md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neuron Types",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Neural Network Types/Convolutional Neural Network (CNN).md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training",
     "Z - img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
     "Z - img/Pearson's diagram of the lobes of the neocortex.png",

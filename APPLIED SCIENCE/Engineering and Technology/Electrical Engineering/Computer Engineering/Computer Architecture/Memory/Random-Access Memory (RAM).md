@@ -2,4 +2,4 @@ Random-access memory is computer memory that can be read and changed in any orde
 
 Generally, RAM is [[Memory (Computing)#Volatility|volatile]], though non-volatile forms have been designed (such as most forms of [[Read-Only Memory (ROM)|ROM]], as well as [[NOR Flash Memory|NOR flash memory]]).
 
-There are two types of RAM: [[SRAM|SRAM]] and [[DRAM|DRAM]].
+There are two types of RAM: [[Static Random-Access Memory (SRAM)|SRAM]] and [[Dynamic Random-Access Memory (DRAM)|DRAM]].
