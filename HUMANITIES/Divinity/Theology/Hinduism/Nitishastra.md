@@ -1,0 +1,1 @@
+Nitishastra is the sanskrit word for ethics in [[Vedas|ancient texts]] of [[Hinduism]].

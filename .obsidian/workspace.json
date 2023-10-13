@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c09d599c44750a8c",
+        "id": "2c0b0ffbe52837fc",
         "type": "tabs",
         "children": [
           {
-            "id": "fafd7aaecca869bc",
+            "id": "ac5d018182857618",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Neurophysiology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d832722b32c833f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md"
+                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md"
               }
             }
           },
@@ -173,44 +159,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d832722b32c833f2",
+  "active": "ac5d018182857618",
   "lastOpenFiles": [
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Action Potential.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Samkhyayoga - The Book of Doctrines.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad Gita.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Astika/Astika.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Samsara.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Astika",
+    "HUMANITIES/Divinity/Theology/Hinduism/Nitishastra.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Karma.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Purushartha.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha",
+    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Dharma.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Hinduism.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Mahabharata.md",
+    "HUMANITIES/Divinity/Vedic Study/Vedic Study.md",
+    "HUMANITIES/Divinity/Theology/Theology.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Moksha.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Kama.md",
+    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Artha.md",
+    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Neurophysiology.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Pipelining (Computation).md",
+    "Index.md",
     "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Action Potential.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
     "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Summation (Neurophysiology).md",
-    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Neurophysiology.md",
     "NATURAL SCIENCE/Biology/Physiology/Physiology.md",
-    "Index.md",
     "NATURAL SCIENCE/Biology/Physiology/Neurophysiology",
     "NATURAL SCIENCE/Biology/Physiology",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon Hillock.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/White Matter.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Grey Matter.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Myelin.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Dendrite.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Autapse.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Brain.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Central Nervous System.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon/Thalamus.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Spinal Cord/Spinal Cord.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Brain Stem.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Neocortex.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Allocortex/Periallocortex/Periarchicortex/Entorhinal Cortex/Head Direction Cell.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon/Diencephalon.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Branch Predictors.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Cache Memory.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/SSRI",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science",
     "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry",
-    "APPLIED SCIENCE/Medicine and Health",
     "Z - img/Hodgkin-Huxley model of a neuron.png",
     "Z - img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
     "Z - img/Pearson's diagram of the lobes of the neocortex.png",

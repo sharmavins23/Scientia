@@ -11,60 +11,74 @@
       "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering\"",
       "color": {
         "a": 1,
-        "rgb": 1060779
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"NATURAL SCIENCE/Chemistry\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     },
     {
       "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering\"",
       "color": {
         "a": 1,
-        "rgb": 12550148
+        "rgb": 14725458
       }
     },
     {
       "query": "path:\"NATURAL SCIENCE/Biology\"",
       "color": {
         "a": 1,
-        "rgb": 8433166
-      }
-    },
-    {
-      "query": "path:\"HUMANITIES/Divinity\"",
-      "color": {
-        "a": 1,
-        "rgb": 1022875
-      }
-    },
-    {
-      "query": "path:\"FORMAL SCIENCE/Computer Science\"",
-      "color": {
-        "a": 1,
-        "rgb": 11210853
-      }
-    },
-    {
-      "query": "path:\"FORMAL SCIENCE/Mathematics\"",
-      "color": {
-        "a": 1,
-        "rgb": 5973415
-      }
-    },
-    {
-      "query": "path:\"SOCIAL SCIENCE/Psychology\" ",
-      "color": {
-        "a": 1,
-        "rgb": 15512033
+        "rgb": 11657298
       }
     },
     {
       "query": "path:\"APPLIED SCIENCE/Medicine and Health\"",
       "color": {
         "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"SOCIAL SCIENCE\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"HUMANITIES\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"FORMAL SCIENCE/Mathematics\"",
+      "color": {
+        "a": 1,
         "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"FORMAL SCIENCE/Computer Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"NATURAL SCIENCE/Astronomy\"",
+      "color": {
+        "a": 1,
+        "rgb": 7209179
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.50496122305095,
@@ -74,6 +88,6 @@
   "repelStrength": 9.96103751530669,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 0.2008581213622185,
+  "scale": 0.21495393311606295,
   "close": true
 }

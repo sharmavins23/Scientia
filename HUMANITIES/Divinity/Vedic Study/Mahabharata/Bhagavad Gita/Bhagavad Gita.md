@@ -9,7 +9,7 @@ The Gita forms chapters 23-40 of book 6 of the Mahabharata called the [[Bhishma 
 The Gita has 18 chapters and 700 verses in total:
 
 1. [[Arjuna Vishadayoga - The Distress of Arjuna]]
-2. [[Sankhyayoga - The Book of Doctrines]]
+2. [[Samkhyayoga - The Book of Doctrines]]
 3. [[Karmayoga - Virtue in Work]]
 4. [[Gyana Karma Sanyasayoga - The Religion of Knowledge]]
 5. [[Karma Sanyasayoga - Religion by Renouncing Fruits of Works]]

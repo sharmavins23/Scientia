@@ -1,0 +1,1 @@
+Hinduism refers to the Indian religion of [[Dharma|dharma]]. It is the world's third-largest religion (after [[Christianity]] and [[Islam]]), and has approximately 15% of the world's population as followers (as of 2023). The word *Hindu* is an exonym, and the religion instead has been referred to as sanathana dharma.

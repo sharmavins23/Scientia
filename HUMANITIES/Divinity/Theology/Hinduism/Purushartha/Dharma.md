@@ -1,0 +1,3 @@
+Although no single-word transliteration exists in European languages, the term is understood as referring to "order and custom" that sustain life, "virtue", or "religious and moral duties."
+
+In [[Hinduism]], dharma denotes behaviors that are accordance with [[Rta|rta]], or the natural order of things. It is one of the four [[Purushartha|purusharthas]]. In [[Buddhism]], dharma refers to 'cosmic law and order' as expressed by the [[Buddha]]. Dharma also refers to the teachings of [[Tirthankara]] in [[Jainism]], and in [[Sikhism]] dharma indicates the path of righteousness, proper religious practices, and performing one's own moral duties.

@@ -1,10 +1,10 @@
 ## Overview
 
-Krishna looks at Arjuna, and speaks the following phrase: "Whence has come to thee this stain (this dejection) of spirit in this hour of crisis? It is unknown to men of noble mind; It does not lead to heaven; It causes disgrace, O Arjuna." Krishna urges Arjuna to cease his current state of mind.
+[[Krishna]] looks at [[Arjuna]] and speaks the following phrase: "Whence has come to thee this stain (this dejection) of spirit in this hour of crisis? It is unknown to men of noble mind; It does not lead to heaven; It causes disgrace, O Arjuna." Krishna urges Arjuna to cease his current state of mind.
 
 Arjuna replies, asking how he could possibly counterattack his respected peers. He states how it is better to live as a beggar than to taint the [[Artha|artha]] he may enjoy from winning such a war with their blood. After complaining, Arjuna asks Krishna for advice, before continuing to complain. "Even if I gain a substantial kingdom beyond compare and the power of the demigods, I see nothing that can remove this grief that is eroding my senses. O Krishna, O Govinda, I will not fight!"
 
-To this Krishna smiles and responds: "While you speak words of wisdom, you are mourning for that which is not worthy of grief. The wise lament neither for the living nor the dead." 
+To this Krishna smiles and responds: "While you speak words of wisdom, you are mourning for that which is not worthy of grief. The wise lament neither for the living nor the dead."
 
 Krishna explains that all of the warriors here have always existed, and will always continue to exist. As the [[Atman|soul]] passes through childhood, youth, adulthood and old age, so too shall it transfer to another body. Those who are wise shouldn't feel saddened about this - It's the natural order of things.
 
@@ -18,13 +18,13 @@ Krishna explains further that the soul cannot be destroyed; It simply changes bo
 
 "Even if you believe that the individual consciousness is eternally subject to birth and death, still you have no reason to lament, O Arjuna." Krishna proposes a new argument here - If one does experience birth, they must eventually die; One who dies must eventually be reborn. Thus, Arjuna should not grieve over inevitabilities.
 
-"Moreover," Krishna states, "considering your natural duty, you should not waver, as there is no better course of action for a warrior than a war of righteousness." Krishna states here that such a war is lucky for a warrior to have - It is a free ticket to betterment. 
+"Moreover," Krishna states, "considering your natural duty, you should not waver, as there is no better course of action for a warrior than a war of righteousness." Krishna states here that such a war is lucky for a warrior to have - It is a free ticket to betterment.
 
 But by abstaining, Arjuna's principles of [[Dharma|dharma]] will be lost, alongside his fame, and he will incur negative [[Karma|karma]]. For time to come, people could speak of Arjuna's infamy, of his cowardice. Krishna argues that if Arjuna is killed in battle, he simply attains positive [[Karma|karma]], and if he is a victor he enjoys the earth. Therefore, he should be confident in his choice to fight.
 
 Krishna ceases to argue, mentioning that He has stated His case. "Now hear how to act upon this knowledge, through which you will be able to release yourself from the bondage of action."
 
-Krishna states that there is no downside to performing dharma. "Even the slightest effort saves one from the greatest fear." 
+Krishna states that there is no downside to performing dharma. "Even the slightest effort saves one from the greatest fear."
 
 He describes that those "of small intelligence" misinterpret the [[Vedas]] and claim that there are many rituals to award higher birth, wealth, power, and enjoyment. Through these ideas these people lose focus of the Supreme.
 
