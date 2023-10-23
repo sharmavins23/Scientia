@@ -1,0 +1,1 @@
+Algebra (reunion of broken parts, or 'bonesetting' in Arabic) is the study of [[Variable|variables]] and the rules for manipulating them in [[Formula|formulas]]. It is a unifying thread of almost all [[Mathematics|mathematics]].

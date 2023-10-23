@@ -1,0 +1,1 @@
+Chemistry is the scientific study of the properties and behavior of [[Matter|matter]]. It is one of the [[Natural Science|natural sciences]].

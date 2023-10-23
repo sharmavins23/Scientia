@@ -1,0 +1,1 @@
+The strong [[Force|force]] is the strongest of the fundamental forces, and confines [[Quark|quarks]] into [[Proton|protons]], [[Neutron|neutrons]], and other [[Hadron|hadron]] particles. It also binds neutrons and protons to create [[Atom|atomic nuclei]], where it is referred to as the [[Nuclear Physics|nuclear]] force.

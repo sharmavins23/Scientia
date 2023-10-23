@@ -1,0 +1,1 @@
+Gravity is a [[Force|fundamental interaction]] in [[Kinematics|classical mechanics]] that causes mutual attraction between all things that have [[Mass|mass]]. It is, by far, the weakest of the four fundamental interactions.

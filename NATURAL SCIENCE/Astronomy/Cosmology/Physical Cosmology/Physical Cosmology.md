@@ -1,0 +1,1 @@
+Physical [[Cosmology|cosmology]] is a study of cosmological models, which are descriptions of the largest-scale structures and dynamics of the [[Universe|universe]], as well as its [[Big Bang|origin]], structure, [[Chronology of the Universe|evolution]], and [[Ultimate Fate of the Universe|ultimate fate]].

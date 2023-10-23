@@ -1,0 +1,1 @@
+Mechanics is an area of [[Mathematics|mathematics]] and [[Physics|physics]] concerned with the relationship between [[Force|force]], [[Matter|matter]], and [[Motion|motion]] among [[Physical Body|physical objects]].

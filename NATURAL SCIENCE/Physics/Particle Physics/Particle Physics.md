@@ -1,0 +1,1 @@
+Particle [[Physics|physics]], or high-energy physics, is the study of [[Elementary Particle|fundamental particles]] and [[Force|forces]] that constitute [[Matter|matter]] and [[Radiation|radiation]].

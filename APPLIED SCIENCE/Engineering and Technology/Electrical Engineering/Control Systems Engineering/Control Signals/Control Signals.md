@@ -9,7 +9,7 @@ There are many individual types of signals. Here are some:
 - [[Analog Signals|Analog signals]], whose values are not restricted to countable numbers.
 - [[Digital Signals|Digital signals]], where the vertical amplitude axis is sampled and contains only a finite set of discrete values.
 - [[Periodic Signals|Periodic signals]], which have repeating waveforms over some time period.
-- [[Energy and Power Signals|Energy and power signals]], which deal with energy and power of a system.
+- [[Energy and Power Signals|Energy and power signals]], which deal with [[Energy|energy]] and [[Power|power]] of a system.
 - [[Deterministic Signals|Deterministic signals]], which can be modelled easily mathematically.
 - [[Random Signals|Random signals]], which cannot be modelled mathematically easily.
 ## Operations

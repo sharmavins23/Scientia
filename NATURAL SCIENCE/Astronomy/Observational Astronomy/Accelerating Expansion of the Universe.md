@@ -1,0 +1,1 @@
+[[Observational Astronomy|Observations]] demonstrate that the [[Expansion of the Universe|expansion of the universe]] is accelerating, such that the [[Velocity|velocity]] of a distant [[Galaxy|galaxy]] receding from the observer is continuously increasing with [[Time|time]].

@@ -1,0 +1,1 @@
+Observational [[Astronomy|astronomy]] is a subfield concerned with recording [[Data|data]] about the [[Universe|observable universe]].

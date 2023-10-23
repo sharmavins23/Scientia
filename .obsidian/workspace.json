@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0b0ffbe52837fc",
+        "id": "6016ba651648991f",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5d018182857618",
+            "id": "116105fd2f9bf442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,44 +150,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac5d018182857618",
+  "active": "116105fd2f9bf442",
   "lastOpenFiles": [
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Samkhyayoga - The Book of Doctrines.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad Gita.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Astika/Astika.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Samsara.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Astika",
-    "HUMANITIES/Divinity/Theology/Hinduism/Nitishastra.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Karma.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Purushartha.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha",
-    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Dharma.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Hinduism.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Mahabharata.md",
-    "HUMANITIES/Divinity/Vedic Study/Vedic Study.md",
-    "HUMANITIES/Divinity/Theology/Theology.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Moksha.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Kama.md",
-    "HUMANITIES/Divinity/Theology/Hinduism/Purushartha/Artha.md",
-    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Neurophysiology.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Pipelining (Computation).md",
-    "Index.md",
-    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Functional Integration (Neurophysiology).md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Action Potential.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
-    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology/Summation (Neurophysiology).md",
-    "NATURAL SCIENCE/Biology/Physiology/Physiology.md",
-    "NATURAL SCIENCE/Biology/Physiology/Neurophysiology",
-    "NATURAL SCIENCE/Biology/Physiology",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon Hillock.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon",
-    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/SSRI",
-    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Ultimate Fate of the Universe.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Big Bang.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chemical Element.md",
+    "NATURAL SCIENCE/Physics/Nuclear Physics/Strong Interaction.md",
+    "NATURAL SCIENCE/Physics/Mechanics/Kinematics/Kinematics.md",
+    "NATURAL SCIENCE/Physics/Nuclear Physics/Weak Interaction.md",
+    "NATURAL SCIENCE/Physics/Mechanics/Kinematics/Gravity.md",
+    "NATURAL SCIENCE/Physics/Mechanics/Kinematics/Motion.md",
+    "NATURAL SCIENCE/Physics/Mechanics/Kinematics",
+    "NATURAL SCIENCE/Physics/Mechanics/Mechanics.md",
+    "NATURAL SCIENCE/Physics/Theoretical Physics/Quintessence.md",
+    "NATURAL SCIENCE/Physics/Theoretical Physics/Theoretical Physics.md",
+    "NATURAL SCIENCE/Astronomy/Observational Astronomy/Observational Astronomy.md",
+    "NATURAL SCIENCE/Physics/Force.md",
+    "NATURAL SCIENCE/Physics/Mechanics",
+    "NATURAL SCIENCE/Astronomy/Observational Astronomy/Accelerating Expansion of the Universe.md",
+    "NATURAL SCIENCE/Astronomy/Observational Astronomy",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Expansion of the Universe.md",
+    "NATURAL SCIENCE/Physics/Theoretical Physics",
+    "NATURAL SCIENCE/Physics/Field.md",
+    "NATURAL SCIENCE/Physics/Nuclear Physics/Nuclear Physics.md",
+    "NATURAL SCIENCE/Physics/Electromagnetism/Electromagnetism.md",
+    "NATURAL SCIENCE/Physics/Particle Physics/Standard Model.md",
+    "NATURAL SCIENCE/Physics/Electromagnetism",
+    "NATURAL SCIENCE/Physics/Particle Physics/Elementary Particle.md",
+    "NATURAL SCIENCE/Physics/Particle Physics/Matter.md",
+    "NATURAL SCIENCE/Physics/Particle Physics/Particle Physics.md",
+    "NATURAL SCIENCE/Physics/Particle Physics",
+    "NATURAL SCIENCE/Physics/Physics.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Autapse.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Control Systems Engineering/Control Signals/Control Signals.md",
+    "NATURAL SCIENCE/Physics/Nuclear Physics",
+    "NATURAL SCIENCE/Physics",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology",
+    "NATURAL SCIENCE/Astronomy/Cosmology",
     "Z - img/Hodgkin-Huxley model of a neuron.png",
     "Z - img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
     "Z - img/Pearson's diagram of the lobes of the neocortex.png",

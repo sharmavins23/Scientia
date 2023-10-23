@@ -1,0 +1,1 @@
+In [[Physics|physics]], a field is a quantity represented by a [[Scalar|scalar]], [[Vector|vector]], or [[Tensor|tensor]], which has a value for each point in [[Spacetime|space and time]]. 

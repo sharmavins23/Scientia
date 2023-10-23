@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 7209179
       }
+    },
+    {
+      "query": "path:\"NATURAL SCIENCE/Physics\"",
+      "color": {
+        "a": 1,
+        "rgb": 786158
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 9.96103751530669,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 0.21495393311606295,
+  "scale": 0.2341727505372059,
   "close": true
 }

@@ -1,0 +1,1 @@
+Theoretical [[Physics|physics]] concerns itself with [[Mathematics|mathematical models]] and abstractions of physical objects and systems in order to rationalize, explain, and predict [[Natural Phenomena|natural phenomena]].

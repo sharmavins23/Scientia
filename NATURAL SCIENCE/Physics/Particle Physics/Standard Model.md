@@ -1,0 +1,1 @@
+The standard model of [[Particle Physics|particle physics]] is the [[Theoretical Physics|theory]] describing three of the four known fundamental [[Force|forces]] (the [[Electromagnetism|electromagnetic]], [[Weak Interaction|weak]], and [[Strong Interaction|strong]] interactions) in the [[Universe|universe]] and classifying all known [[Elementary Particle|elementary particles]].

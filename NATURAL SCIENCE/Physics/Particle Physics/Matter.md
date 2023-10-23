@@ -1,0 +1,1 @@
+In [[Particle Physics|physics]] and [[Chemistry|chemistry]], matter is any substance that has [[Mass|mass]] and takes up space by having [[Volume|volume]]. All everyday objects that can be touched are ultimately composed of [[Atom|atoms]], which themselves are composed of [[Elementary Particle|sub-atomic particles]].

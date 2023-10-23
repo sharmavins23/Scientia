@@ -1,0 +1,1 @@
+Astronomy is a [[Natural Science|natural science]] studying [[Astronomical Object|celestial bodies]] and related phenomena. It is a cross-domain field that heavily utilizes [[Mathematics|mathematics]], [[Physics|physics]], and [[Chemistry|chemistry]] to explain their origin and [[Chronology of the Universe|evolution]].

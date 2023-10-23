@@ -1,0 +1,1 @@
+Physics is the [[Natural Science|natural science]] of [[Matter|matter]], which generally involves studying its [[Elementary Particle|constituents]], its [[Motion|motion]] and behavior through [[Spacetime|space and time]], and the related entities of [[Energy|energy]] and [[Force|force]].

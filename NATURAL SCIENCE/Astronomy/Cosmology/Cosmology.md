@@ -1,0 +1,1 @@
+Cosmology, or study of the cosmos, is a branch of [[Astronomy|astronomy]] dealing with the nature of the [[Universe|universe]]. It heavily draws from [[Physics|physics]] and [[Astrophysics|astrophysics]]. It was also called celestial mechanics.
