@@ -11,11 +11,25 @@
             "id": "116105fd2f9bf442",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be316c050263056c",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md"
+              }
             }
           },
           {
@@ -150,8 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "116105fd2f9bf442",
+  "active": "be316c050263056c",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Messier Object.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Science.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science",
     "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Ultimate Fate of the Universe.md",
     "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
     "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Big Bang.md",
@@ -181,13 +203,9 @@
     "NATURAL SCIENCE/Physics/Particle Physics/Matter.md",
     "NATURAL SCIENCE/Physics/Particle Physics/Particle Physics.md",
     "NATURAL SCIENCE/Physics/Particle Physics",
-    "NATURAL SCIENCE/Physics/Physics.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Autapse.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Control Systems Engineering/Control Signals/Control Signals.md",
     "NATURAL SCIENCE/Physics/Nuclear Physics",
     "NATURAL SCIENCE/Physics",
     "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology",
-    "NATURAL SCIENCE/Astronomy/Cosmology",
     "Z - img/Hodgkin-Huxley model of a neuron.png",
     "Z - img/Wikipedia's Autocorrelation of Grid Cells in Physical Space.jpg",
     "Z - img/Pearson's diagram of the lobes of the neocortex.png",
