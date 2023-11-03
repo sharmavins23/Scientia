@@ -1,1 +1,1 @@
-Computer architecture is a sub-field of [[Computer Engineering]] dealing with the design of computer systems from the chip-level and processing units.
+Computer architecture is a sub-field of [[Computer Engineering|computer engineering]] dealing with the design of computer systems from the [[Central Processing Unit (CPU)|chip level]], as well as other [[Processing Units (PUs)|processing units]].
