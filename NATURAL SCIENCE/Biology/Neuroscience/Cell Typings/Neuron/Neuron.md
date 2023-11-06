@@ -26,3 +26,7 @@ The neuron is made up of a series of individual parts:
 - The [[Dendrite|dendrites]], or the tree-like branching growths. These are inputs to the cell.
 - The [[Axon|axon]], or output from the cell. It is orders of magnitude longer than the diameter of the soma.
 - The [[Plasma Membrane|plasma membrane]] is a covering for the neuron cell.
+
+## Connectivity
+
+It has been suggested ([Wiring Optimization in Cortical Circuits - Chklovskii, Schikorski, Stevens](https://pubmed.ncbi.nlm.nih.gov/11988166/)) that the spatial layout of neurons is arranged to minimize the axonal volume and reduce axon size throughout evolution. This is further seen through [[Functional Magnetic Resonance Imaging|fMRI]] studies of functional neuron activity through age-variant studies - Older age groups show stronger signs of small-world properties with significantly reduced cost efficiency and significantly greater redundancy ([Complex Brain Networks: Graph Theoretical Analysis of Structural and Functional Systems - Bullmore, Sporns](https://www.nature.com/articles/nrn2575)).

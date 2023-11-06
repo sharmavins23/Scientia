@@ -1,0 +1,3 @@
+The parietal lobe is one of the four major lobes of the [[Cerebral Cortex|cerebral cortex]] in the brain of mammals. It is positioned above the [[Temporal Lobe|temporal]], and behind the [[Frontal Lobe|frontal lobe]] and [[Central Sulcus|central sulcus]].
+
+The parietal lobe primarily integrates sensory information among various modalities, including spatial and navigational. Within the medial portion, the [[Precuneus|precuneus]] exists (and is positioned towards the frontal portion of the lobe).

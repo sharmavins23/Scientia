@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6016ba651648991f",
+        "id": "a7b47d541048b066",
         "type": "tabs",
         "children": [
           {
-            "id": "116105fd2f9bf442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be316c050263056c",
+            "id": "bba347b71d4d59cb",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "parietal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +150,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be316c050263056c",
+  "active": "bba347b71d4d59cb",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neuron.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Parietal Lobe.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebrum.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Central Nervous System.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Axon.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Configuration Model.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Erdos-Renyi Model.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Watts-Strogatz 'Small-World' Model.md",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Messier Object.md",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Astronomical Object.md",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Science.md",
@@ -192,16 +182,8 @@
     "NATURAL SCIENCE/Physics/Mechanics",
     "NATURAL SCIENCE/Astronomy/Observational Astronomy/Accelerating Expansion of the Universe.md",
     "NATURAL SCIENCE/Astronomy/Observational Astronomy",
-    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Expansion of the Universe.md",
     "NATURAL SCIENCE/Physics/Theoretical Physics",
-    "NATURAL SCIENCE/Physics/Field.md",
-    "NATURAL SCIENCE/Physics/Nuclear Physics/Nuclear Physics.md",
-    "NATURAL SCIENCE/Physics/Electromagnetism/Electromagnetism.md",
-    "NATURAL SCIENCE/Physics/Particle Physics/Standard Model.md",
     "NATURAL SCIENCE/Physics/Electromagnetism",
-    "NATURAL SCIENCE/Physics/Particle Physics/Elementary Particle.md",
-    "NATURAL SCIENCE/Physics/Particle Physics/Matter.md",
-    "NATURAL SCIENCE/Physics/Particle Physics/Particle Physics.md",
     "NATURAL SCIENCE/Physics/Particle Physics",
     "NATURAL SCIENCE/Physics/Nuclear Physics",
     "NATURAL SCIENCE/Physics",
