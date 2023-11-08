@@ -6,12 +6,12 @@ Neuroglia maintain [[homeostasis]], form [[Myelin|myelin]] in the peripheral ner
 
 In the [[Central Nervous System|central nervous system]], glial cells include the following:
 
-- [[oligodendrocyte|Oligodendrocytes]],
-- [[astrocyte|Astrocytes]],
-- [[Ependymal cells|Ependymal cells]],
+- [[Oligodendrocyte|Oligodendrocytes]],
+- [[Astrocyte|Astrocytes]],
+- [[Ependymal Cell|Ependymal cells]],
 - [[Microglia|Microglia]].
 
-In the [[peripheral nervous system]], glial cells include the following:
+In the [[peripheral nervous system]], glial cells also include the following:
 
 - [[Schwann cells|Schwann cells]],
 - [[Satellite cells|Satellite cells]].

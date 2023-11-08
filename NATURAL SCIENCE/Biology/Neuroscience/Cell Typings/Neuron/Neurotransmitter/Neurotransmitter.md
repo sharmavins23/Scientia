@@ -11,7 +11,7 @@ Neurotransmitters are generally synthesized within the [[Soma|cell body]] (thoug
 - [[Amino Acid|Amino acid]] neurotransmitters such as [[Glycine|glycine]] and [[Glutamate (Neurotransmitter)|glutamate]];
 - [[Monoamine|Monoamines]] such as [[Serotonin|serotonin]], [[Epinephrine|epinephrine]], and [[Dopamine|dopamine]];
 - [[Peptide|Peptides]] such as [[substance P]] or [[opioid|opioids]];
-- [[Purine|Purines]] such as [[ATP]] or [[GTP]];
+- [[Purine|Purines]] such as [[Adenosine Triphosphate (ATP)|ATP]] or [[Guanosine Triphosphate (GTP)|GTP]];
 - Other neurotransmitters such as [[nitric oxide]] and [[carbon monoxide]].
 
 ### Storage
@@ -30,6 +30,6 @@ After being released, neurotransmitters will interact with receptors on the targ
 
 In order to ensure the receptors on the post-synaptic cell are not constantly activated, neurotransmitters must be removed from the synaptic cleft. They can be removed in one of three ways:
 
-1. Neurotransmitters drift out of the synaptic cleft and may be absorbed by [[Neuroglia|glial cells]] (usually [[astrocyte|astrocytes]]). This is called **diffusion**.
+1. Neurotransmitters drift out of the synaptic cleft and may be absorbed by [[Neuroglia|glial cells]] (usually [[Astrocyte|astrocytes]]). This is called **diffusion**.
 2. [[Protein|Proteins]] called [[enzymes]] may break the neurotransmitters down in a process known as **enzyme degradation**.
 3. Neurotransmitters may be re-absorbed back into the pre-synaptic neuron. [[Membrane transport proteins|Membrane transport proteins]] may pump neurotransmitters back into axon terminals in the pre-synaptic neuron where they may be re-used. This process is known as reuptake.
