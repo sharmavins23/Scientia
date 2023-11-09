@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "aae49bc94899971f",
+        "id": "de91e4c34c699eca",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ce9be546c0635b",
+            "id": "83878793692d99d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -149,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9ce9be546c0635b",
+  "active": "83878793692d99d8",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon/Diencephalon.md",
     "NATURAL SCIENCE/Chemistry/Chemical Elements/Chemical Element.md",
     "NATURAL SCIENCE/Chemistry/Chemical Elements/Alkali Metals/Alkali Metals.md",
     "NATURAL SCIENCE/Chemistry/Chemical Elements/Alkali Metals",
