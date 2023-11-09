@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "471a02f6a54796ca",
+        "id": "aae49bc94899971f",
         "type": "tabs",
         "children": [
           {
-            "id": "482c7fdf26eb7e31",
+            "id": "f9ce9be546c0635b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,10 +149,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "482c7fdf26eb7e31",
+  "active": "f9ce9be546c0635b",
   "lastOpenFiles": [
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
+    "NATURAL SCIENCE/Chemistry/Chemical Elements/Chemical Element.md",
+    "NATURAL SCIENCE/Chemistry/Chemical Elements/Alkali Metals/Alkali Metals.md",
+    "NATURAL SCIENCE/Chemistry/Chemical Elements/Alkali Metals",
+    "NATURAL SCIENCE/Chemistry/Chemical Elements/Periodic Table of the Elements.md",
+    "NATURAL SCIENCE/Chemistry/Chemical Elements",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Semiconductors",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Graphics Processing Unit (GPU)/Graphics Processing Unit (GPU).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Graphics Processing Unit (GPU)/Streaming Multiprocessor (SM).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Graphics Processing Unit (GPU)/Tensor Core.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Processing Units (PUs).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Cache Memory.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Central Processing Unit (CPU)/Central Processing Unit (CPU).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Integrated Circuits/Electronic Crystal Oscillator.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Central Processing Unit (CPU)",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Graphics Processing Units (GPUs).md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Datapath.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Graphics Processing Unit (GPU)",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/ATP.md"
   ]

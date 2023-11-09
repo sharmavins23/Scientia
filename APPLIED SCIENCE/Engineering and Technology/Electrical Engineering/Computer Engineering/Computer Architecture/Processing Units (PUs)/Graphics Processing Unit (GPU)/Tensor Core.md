@@ -1,0 +1,1 @@
+A tensor core (as defined by NVIDIA in their [[Volta]] architecture) is an on-board [[Graphics Processing Unit (GPU)|GPU]] [[Artificial Intelligence|AI]] accelerator. They implement [[Fused Multiply-Add (FMA)|FMA]] operations, which are widely utilized for [[Machine Learning|ML]] tasks.
