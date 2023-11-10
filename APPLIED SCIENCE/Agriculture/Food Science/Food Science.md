@@ -1,0 +1,1 @@
+Food science as an application of [[Agriculture|agricultural methodologies]] is the basic and applied science of food.

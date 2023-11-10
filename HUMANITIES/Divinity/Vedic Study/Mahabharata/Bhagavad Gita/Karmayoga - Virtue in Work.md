@@ -13,3 +13,5 @@ Krishna elaborates on a series of concrete principles that one can focus on:
 
 - Be satisfied in the self. Krishna discusses how the liberated man, who cares not for the world nor what the world offers to him, but simply does work for the welfare of others, attains to the highest.
 - Set an example to others. Krishna points out king [[Janaka]], father of [[Sita]], as as one who attained perfection by works - Whatever a great man does, others will follow.
+- The self is no doer. As all work is completed as a consequence of natural order, one should be unattached to the work as well as the reward, for they did not really perform it.
+- The enemy is desire and anger. Craving and desire confound the senses, mind, intelligence, and soul. Wrath is the progenitor of sin.

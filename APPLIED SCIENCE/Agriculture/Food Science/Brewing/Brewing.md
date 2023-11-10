@@ -1,0 +1,1 @@
+Brewing is the production of [[Beer|beer]] by steeping a [[Starch|starch]] source (commonly cereal grains, most popularly [[Barley|barley]]) in water, and [[Fermentation|fermenting]] the resulting sweet liquid with [[Yeast|yeast]]. It is one of the popular methodologies for making [[Alcohol|alcoholic beverages]] in [[Food Science|food science]].

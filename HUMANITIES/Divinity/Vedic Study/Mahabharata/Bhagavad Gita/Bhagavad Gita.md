@@ -1,8 +1,8 @@
-The [[gita_transcript.pdf|Bhagavad Gita]] (lit. Divine Song) is a 700-verse interlude of the [[Mahabharata]], and is (roughly) a transcription of the word of the lord [[Krishna|God]] to [[Arjuna]], an archer of the [[Pandava|Pandavas]]. The Gita details a conversation between the two.
+The Bhagavad Gita (lit. Divine Song) is a 700-verse interlude of the [[Mahabharata]], and is (roughly) a transcription of the word of the lord [[Krishna|God]] to [[Arjuna]], an archer of the [[Pandava|Pandavas]]. The Gita details a conversation between the two.
 
-The Gita is considered a [[Hinduism|Hindu]] holy scripture and is the founding text for the Hindu orthodox school of thought ([[shad-darsana]]) of [[Yoga]]. As it contains Krishna, an [[avatara]] of [[Vishnu]], it is a text within the [[Vaishnavite]] sect of Hinduism.
+The Gita is considered a [[Hinduism|Hindu]] holy scripture and is the founding text for the Hindu orthodox school of thought ([[Shad-Darsana|shad-darsana]]) of [[Yoga|yoga]]. As it contains Krishna, an [[Avatar|avatara]] of [[Vishnu|Vishnu]], it is a text within the [[Vaishnavite|vaishnavite]] sect of Hinduism.
 
-The Gita forms chapters 23-40 of book 6 of the Mahabharata called the [[Bhishma Parva]]. It's dated to the second half of the first millennium, BCE (from 1000 BC to 1 BC) encompassing the [[Iron Age]] in the old world.
+The Gita forms chapters 23-40 of book 6 of the Mahabharata called the [[Bhishma Parva|Bhishma Parva]]. It's dated to the second half of the first millennium, BCE (from 1000 BC to 1 BC) encompassing the [[Iron Age|iron age]] in the old world.
 
 ## Chapters
 

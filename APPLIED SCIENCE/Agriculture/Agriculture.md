@@ -1,0 +1,1 @@
+Agriculture is an [[Applied Science|application of science]] towards crop and livestock production, aquaculture, fisheries and forestry for both food and non-food products.

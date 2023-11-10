@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 786158
       }
+    },
+    {
+      "query": "path:\"APPLIED SCIENCE/Agriculture\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 87559
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.28041116932314125,
+  "scale": 0.4707529401049673,
   "close": true
 }

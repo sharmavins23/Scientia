@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "de91e4c34c699eca",
+        "id": "d9efdc4251a02511",
         "type": "tabs",
         "children": [
           {
-            "id": "83878793692d99d8",
+            "id": "fb4282eaeaf55d7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -149,8 +149,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83878793692d99d8",
+  "active": "fb4282eaeaf55d7d",
   "lastOpenFiles": [
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad Gita.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Gyana Karma Sanyasayoga - The Religion of Knowledge.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
+    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Samkhyayoga - The Book of Doctrines.md",
+    "APPLIED SCIENCE/Agriculture/Food Science/Brewing/Brewing.md",
+    "APPLIED SCIENCE/Agriculture/Food Science/Food Science.md",
+    "APPLIED SCIENCE/Agriculture/Food Science/Brewing",
+    "APPLIED SCIENCE/Agriculture/Agriculture.md",
+    "APPLIED SCIENCE/Agriculture/Food Science",
+    "APPLIED SCIENCE/Agriculture",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon/Diencephalon.md",
     "NATURAL SCIENCE/Chemistry/Chemical Elements/Chemical Element.md",
     "NATURAL SCIENCE/Chemistry/Chemical Elements/Alkali Metals/Alkali Metals.md",
