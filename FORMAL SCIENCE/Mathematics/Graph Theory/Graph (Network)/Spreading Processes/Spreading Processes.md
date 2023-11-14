@@ -1,0 +1,1 @@
+Spreading processes, or spreading models, are applications of [[Graph Theory|graph theory]] towards understanding the spread of viruses, information, misinformation, influence, opinions, or failures throughout a network.
