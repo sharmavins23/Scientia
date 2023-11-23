@@ -1,0 +1,1 @@
+In [[Chemistry|chemistry]], volatility is a material quantity describing how readily a substance [[Vaporization|vaporizes]]. At a given [[Temperature|temperature]] and [[Pressure|pressure]], a substance of high volatility is more likely to exist as a [[Vapor|vapor]], whereas a substance with low volatility is more likely to exist as a [[Liquid|liquid]] or [[Solid|solid]].

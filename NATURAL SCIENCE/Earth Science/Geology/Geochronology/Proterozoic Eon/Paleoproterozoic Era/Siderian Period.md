@@ -1,0 +1,3 @@
+The Siderian Period (from Greek *sideros*, 'iron') is the first period of the [[Paleoproterozoic Era]] lasting from 2500 Mya to 2300 Mya. Deposition of banded [[Iron|iron]] formations increased, as [[Anaerobic Organism|anaerobic]] [[Cyanobacteria|cyanobacteria]] produced waste [[Oxygen|oxygen]] combining with iron to form [[Magnetite|magnetite]]. This process removed iron from the [[Earth|Earth's]] [[Ocean|oceans]], turning greenish seas clear.
+
+Once iron was removed from the ocean, free oxygen entered the [[Atmosphere|atmosphere]], triggering the [[Great Oxidation Event|oxygen catastrophe]] and [[Huronian Glaciation|Huronian glaciation]]. As this period is well-defined by oxygen-rich iron layers, the period is also referred to as the Oxygenian Period.

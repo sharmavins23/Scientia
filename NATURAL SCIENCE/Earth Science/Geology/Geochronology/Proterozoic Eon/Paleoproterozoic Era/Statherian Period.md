@@ -1,0 +1,5 @@
+The Statherian Period (Greek: *statheros*: 'stable, firm') is the final period of the [[Paleoproterozoic Era]] lasting from 1800 Mya to 1600 Mya. It marks the beginning of the 'boring billion', a time period between (roughly) 2000 Mya and 1000 Mya where no significant geological changes occurred.
+
+The period was characterized by new [[Platform|platforms]] or final [[Craton|cratonization]] of [[Fold and Thrust Belt|fold belts]]. [[Oxygen]] levels in the [[Atmosphere|atmosphere]] were 10% to 20% of current values. [[Rafatazmia]] may have been present in Statherian beds in [[India]], and may be the oldest known confirmably [[Eukaryote|eukaryotic]] fossil organisms.
+
+Approximately 1700 Mya, a series of [[Natural Nuclear Fission Reactor|natural nuclear fission reactors]] were operational in what is now [[Oklo]], [[Gabonese Republic|Gabon]].

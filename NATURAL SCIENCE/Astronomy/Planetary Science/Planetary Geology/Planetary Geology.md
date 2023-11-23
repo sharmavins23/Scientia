@@ -1,0 +1,1 @@
+Planetary geology, also known as astrogeology or exogeology, is a [[Planetary Science|planetary science]] concerned with the [[Geology|geology]] of [[Astronomical Object|celestial bodies]].

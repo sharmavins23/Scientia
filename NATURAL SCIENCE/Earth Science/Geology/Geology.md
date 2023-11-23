@@ -1,0 +1,1 @@
+Geology is a branch of the [[Earth Science|earth sciences]] dealing with the [[Earth|Earth]] and other [[Astronomical Object|objects]], the [[Rock|rocks]] of which it is composed, and the processes by which they change over time.

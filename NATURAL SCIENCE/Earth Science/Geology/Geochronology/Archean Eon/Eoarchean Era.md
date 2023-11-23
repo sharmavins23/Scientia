@@ -1,0 +1,3 @@
+The Eoarchean era is the first era of the [[Archean Eon]], spanning 431 million years from 4031 Mya to 3600 Mya. The beginnings of [[Life|life]] on [[Earth]] date to this era, and evidence of [[Archaea|archaea]] and [[Cyanobacteria|cyanobacteria]] date to 3500 Mya around [[Geothermal Vent|geothermal vents]].
+
+This era begins with heavy [[Asteroid|asteroid]] [[Lunar Cataclysm|bombardment]], followed by periods of significant [[Carbonate|carbonate]] [[Rain|precipitation]] forming the [[Ocean|oceans]] and turning the Earth into a [[Ocean World|water world]]. 3850 Mya Greenland [[Apatite|apatite]] shows evidence of [[Atmosphere|atmospheric]] [[Carbon-12]] enrichment, sparking debates on whether there may have been [[Photosynthesis|photosynthetic]] life during this period.

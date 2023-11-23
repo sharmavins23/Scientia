@@ -1,0 +1,1 @@
+A [[Planetary Science|planetary]] system is a set of [[Gravity|gravitationally]] bound non-[[Star|stellar]] objects in or out of [[Orbit|orbit]] around a [[Star|star]] or [[Star System|star system]]. The term 'exoplanetary system' is used to refer to other planetary systems than our [[Solar System]].

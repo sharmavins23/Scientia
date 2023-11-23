@@ -1,0 +1,1 @@
+Geochronology is a [[Geology|geological science]] concerned with determining the age of [[Rock|rocks]], [[Fossil|fossils]], and [[Sediment|sediments]] using signatures innate to the rocks themselves. The science of geochronology is the prime tool for deriving the geological [[History of the Earth|history of the Earth]].

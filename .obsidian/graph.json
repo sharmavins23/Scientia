@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 87559
       }
+    },
+    {
+      "query": "path:\"NATURAL SCIENCE/Earth Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 9894038
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277592,
+  "scale": 0.13873223932666814,
   "close": true
 }

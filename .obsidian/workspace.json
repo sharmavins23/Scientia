@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd8a91ecbde2cb08",
+        "id": "119e0552e81b8976",
         "type": "tabs",
         "children": [
           {
-            "id": "0c76cb3eb29faed0",
+            "id": "9573b7f80faa8c3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/SIR Model.md",
+                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "astrocyte",
+                "query": "milky way",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/SIR Model.md",
+                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/SIR Model.md",
+                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/SIR Model.md"
+                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md"
               }
             }
           }
@@ -158,43 +158,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c76cb3eb29faed0",
+  "active": "9573b7f80faa8c3e",
   "lastOpenFiles": [
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Erdos-Renyi Model.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Configuration Model.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Barabasi-Albert Model.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/SIR Model.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/SI Model.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/Spreading Processes.md",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes/Untitled",
-    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Spreading Processes",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Bhagavad Gita.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Gyana Karma Sanyasayoga - The Religion of Knowledge.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Karmayoga - Virtue in Work.md",
-    "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Samkhyayoga - The Book of Doctrines.md",
-    "APPLIED SCIENCE/Agriculture/Food Science/Brewing/Brewing.md",
-    "APPLIED SCIENCE/Agriculture/Food Science/Food Science.md",
-    "APPLIED SCIENCE/Agriculture/Food Science/Brewing",
-    "APPLIED SCIENCE/Agriculture/Agriculture.md",
-    "APPLIED SCIENCE/Agriculture/Food Science",
-    "APPLIED SCIENCE/Agriculture",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Diencephalon/Diencephalon.md",
-    "NATURAL SCIENCE/Chemistry/Chemical Elements/Chemical Element.md",
-    "NATURAL SCIENCE/Chemistry/Chemical Elements/Alkali Metals/Alkali Metals.md",
-    "NATURAL SCIENCE/Chemistry/Chemical Elements/Alkali Metals",
-    "NATURAL SCIENCE/Chemistry/Chemical Elements/Periodic Table of the Elements.md",
-    "NATURAL SCIENCE/Chemistry/Chemical Elements",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Semiconductors",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Graphics Processing Unit (GPU)/Graphics Processing Unit (GPU).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Graphics Processing Unit (GPU)/Streaming Multiprocessor (SM).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Graphics Processing Unit (GPU)/Tensor Core.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Processing Units (PUs).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Cache Memory.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Central Processing Unit (CPU)/Central Processing Unit (CPU).md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Analog Circuits/Integrated Circuits/Electronic Crystal Oscillator.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Processing Units (PUs)/Central Processing Unit (CPU)",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Graphics Processing Units (GPUs).md"
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Cellular Automata.md",
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Lenia.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Archean Eon.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Hadean Eon/Hadean Eon.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Statherian Period.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Paleoproterozoic Era.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Orosirian Period.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Rhyacian Period.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Siderian Period.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Great Oxidation Event.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Huronian Glaciation.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Huronian Supergroup.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Proterozoic Eon.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Geochronology.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Paleoarchean Era.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Neoarchean Era.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Kenorland.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Mesoarchean Era.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Vaalbara.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Theia.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Natural Satellite.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Moon.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Inner Solar System.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Kuiper Belt/Kuiper Belt.md",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Oceanography",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Geology",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Kuiper Belt"
   ]
 }

@@ -1,0 +1,1 @@
+The inner [[Solar System|solar system]] contains the four [[Telluric Planet|telluric planets]] of [[Mercury]], [[Venus]], [[Earth]], and [[Mars]].

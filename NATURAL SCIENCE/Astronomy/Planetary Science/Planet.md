@@ -1,0 +1,1 @@
+A planet is a large round [[Astronomical Object|celestial body]] that is neither a [[Star|star]] nor its [[Stellar Remnant|remnant]]. Generally, planets have 'cleared' their orbit of all significantly sized debris, and contain fairly regular orbits around a sun. The word planet comes from [[Greek|greek]] *planetai* (lit: 'wanderers').

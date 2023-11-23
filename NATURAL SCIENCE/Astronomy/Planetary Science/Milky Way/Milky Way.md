@@ -1,0 +1,1 @@
+The milky way is a barred spiral [[Galaxy|galaxy]] including the [[Solar System]]. The name describes the galaxy's appearance from the [[Earth]]. It was [[Planetary Science|discovered]] in 1610 by Galileo Galilei; Following a debate in 1920, astronomer Edwin Hubble observed that the Milky Way is just one of many galaxies.

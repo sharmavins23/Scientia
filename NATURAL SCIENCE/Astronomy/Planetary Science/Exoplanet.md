@@ -1,0 +1,1 @@
+An exoplanet or extrasolar [[Planet|planet]] is simply a planet outside of the [[Solar System]]. As of November 1, 2023, there are 5,521 confirmed exoplanets within 4,070 [[Planetary System|planetary systems]], with 885 of those systems containing more than one planet.

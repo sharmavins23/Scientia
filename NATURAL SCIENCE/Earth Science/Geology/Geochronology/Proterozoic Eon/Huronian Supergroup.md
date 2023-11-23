@@ -1,0 +1,1 @@
+The Huronian Supergroup is a [[Proterozoic Eon|Proterozoic]] assemblage of geologic formations of the [[Superior Craton]] of the [[Canadian Shield]] in [[Ontario]] and [[Quebec]]. It consists of low grade metamorphic sedimentary [[Rock|rocks]] or igneous rocks.

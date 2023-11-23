@@ -1,0 +1,1 @@
+Earth [[Natural Science|science]], or geoscience, includes all fields related to the planet [[Earth|Earth]]. It deals with the [[Physics|physical]], [[Chemistry|chemical]], and [[Biology|biological]] constitutions and linkages of the Earth's [[Biosphere|biosphere]], [[Hydrosphere|hydrosphere]], [[Cryosphere|cryosphere]], [[Atmosphere|atmosphere]], and [[Lithosphere|lithosphere]].

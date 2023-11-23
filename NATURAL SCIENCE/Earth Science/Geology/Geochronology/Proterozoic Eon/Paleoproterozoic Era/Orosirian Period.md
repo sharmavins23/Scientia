@@ -1,0 +1,3 @@
+The Orosirian Period (Greek: *oroseira*: 'mountain range') is the third period in the [[Paleoproterozoic Era]] lasting from 2050 Mya to 1800 Mya. The [[Vredefort Impact Structure|Vredefort impact structure]] was created during a [[Impact Event|meteoric collision]]. The [[Sudbury Basin|Sudbury basin]] was also created by a theorized similar collision.
+
+During this time, the [[Supercontinent|supercontinent]] [[Columbia]] formed, and an episode of intensive [[Orogeny|mountain formation]] occurred on virtually all [[Continent|continents]].

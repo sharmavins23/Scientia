@@ -1,0 +1,3 @@
+Lenia (Latin: *lenis*, "smooth") is a family of [[Cellular Automata|cellular automata]] created by Bert Wang-Chak Chan. It is a continuous generalization of [[Conway's Game of Life]], with continuous states, space, and time. The complex autonomous patterns described model [[Biology|biological]] patterns and behaviors to an extreme level.
+
+Over 400 unique 'species' of life have been discovered through simulation, and their own unique taxonomic structure has been observed based on features and characteristics.

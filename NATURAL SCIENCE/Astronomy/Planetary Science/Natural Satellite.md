@@ -1,0 +1,1 @@
+A natural satellite is an [[Astronomical Object|astronomical body]] that [[Orbit|orbits]] a [[Planet|planet]], [[Dwarf Planet|dwarf]], or [[Small Solar System Bodies (SSSBs)|SSSB]]. They are colloquially referred to as moons, which is derived from the [[Moon|moon of Earth]].

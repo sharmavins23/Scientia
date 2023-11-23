@@ -1,0 +1,1 @@
+A minor [[Planet|planet]] is an [[Astronomical Object|astronomical object]] in direct orbit around a [[Star|sun]] that is exclusively classified as not a [[Planet|planet]]. [[Dwarf Planet|Dwarf planets]], [[Comet|comets]], and [[Small Solar System Bodies (SSSBs)|SSSBs]] are also categorized as minor planets.

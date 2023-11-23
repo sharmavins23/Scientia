@@ -1,0 +1,1 @@
+The outer [[Solar System|solar system]] contains the four [[Giant Planet|giant planets]] of [[Jupiter]], [[Saturn]], [[Uranus]], and [[Neptune]].

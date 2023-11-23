@@ -1,0 +1,1 @@
+The Huronian Glaciation was an event within the [[Paleoproterozoic Era]] where several [[Ice Age|ice ages]] occurred during the deposition of the [[Huronian Supergroup]]. This event coincided with the [[Great Oxidation Event]], led to the deposition of several [[Diamictite|diamictites]], and was namely limited to the [[North America|North American]] Midwest.

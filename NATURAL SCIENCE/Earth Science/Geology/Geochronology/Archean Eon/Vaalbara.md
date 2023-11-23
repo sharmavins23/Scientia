@@ -1,0 +1,1 @@
+Vaalbara is a hypothetical [[Archean Eon|Archean]] [[Supercontinent|supercontinent]] consisting of the [[Kaapvaal Craton]] (now in eastern [[South Africa]]) and the [[Pilbara Craton]] (now in north-western [[Western Australia]]). The two cratons consist of crust dating from 2700 to 3600 Mya, making Vaalbara one of [[Earth|Earth's]] earliest supercontinents.

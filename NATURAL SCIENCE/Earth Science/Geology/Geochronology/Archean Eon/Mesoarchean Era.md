@@ -1,0 +1,5 @@
+The Mesoarchean era is the third era in the [[Archean Eon]], spanning 3200 to 2800 Mya. This contains the first evidence of modern-style [[Subduction|tectonic plate subduction]] and expansion of [[Microorganism|microbial]] [[Life|life]].
+
+Analysis of [[Oxygen Isotope|oxygen isotopes]] in Mesoarchean [[Chert|cherts]] estimate oceanic temperatures of 55 to 85 celsius. The [[Atmosphere|atmosphere]] contained high levels of [[Methane|methane]] and [[Carbon Dioxide|carbon dioxide]], but atmospheric [[Dinitrogen|dinitrogen]] content is thought to have been similar to today's, suggesting that nitrogen did not play a significant role in the [[Thermal Energy Storage|thermal budget]] of today.
+
+Around 2900 Mya, the Pongola [[Glacial Period|glaciation]] occurred, from which there is evidence of ice extending to a [[Palaeolatitude|palaeolatitude]] of 48 degrees. Microbial life expanded significantly, and [[Cyanobacteria|cyanobacteria]] produced [[Oxygen|oxygen gas]], which did not accumulate in the atmosphere until significantly later. Small oases of [[Environmental Oxygenation|oxygenated]] [[Water|water]] did exist in shallow marine environments.
