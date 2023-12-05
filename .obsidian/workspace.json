@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "119e0552e81b8976",
+        "id": "f08cb0f01dade5c9",
         "type": "tabs",
         "children": [
           {
-            "id": "9573b7f80faa8c3e",
+            "id": "58f1a29482accef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md"
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md"
               }
             }
           }
@@ -158,11 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9573b7f80faa8c3e",
+  "active": "58f1a29482accef9",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Physics/Optics/Snell's Law.md",
+    "NATURAL SCIENCE/Physics/Optics/Visible Light.md",
+    "NATURAL SCIENCE/Physics/Optics/Optics.md",
+    "Index.md",
+    "NATURAL SCIENCE/Physics/Optics",
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Cellular Automata.md",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Lenia.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Archean Eon.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
@@ -185,16 +191,10 @@
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Mesoarchean Era.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Vaalbara.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Theia.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Natural Satellite.md",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Moon.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Inner Solar System.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Kuiper Belt/Kuiper Belt.md",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Oceanography",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Geology",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Kuiper Belt"
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Geology"
   ]
 }

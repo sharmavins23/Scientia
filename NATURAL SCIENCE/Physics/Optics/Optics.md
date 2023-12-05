@@ -1,0 +1,1 @@
+Optics is a branch of [[Physics|physics]] studying the behavior and properties of [[Visible Light|light]], including (but not limited to) its interactions with [[Matter|matter]] and the construction of instruments that use or detect it.
