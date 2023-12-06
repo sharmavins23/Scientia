@@ -30,7 +30,7 @@ At 370,000 years, neutral [[Hydrogen|hydrogen]] atoms finish forming, and the un
 
 This period exists from 370,000 years to 1 billion years.
 
-As clouds of recombined hydrogen only collapsed very slowly to form [[Star|stars]] and [[Galaxy|galaxies]], there were no new sources of [[Light|light]]. The only [[Photon|photons]] in the universe were those released from prior decoupling or recombination, or from [[21cm Radio Emission|21cm radio emissions]] emitted from hydrogen atoms.
+As clouds of recombined hydrogen only collapsed very slowly to form [[Star|stars]] and [[Galaxy|galaxies]], there were no new sources of [[Visible Light|light]]. The only [[Photon|photons]] in the universe were those released from prior decoupling or recombination, or from [[21cm Radio Emission|21cm radio emissions]] emitted from hydrogen atoms.
 
 After 3 million years, the pale orange light would gradually [[Redshift|redshift]] to non-visible wavelengths, turning the universe completely dark.
 

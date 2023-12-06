@@ -36,8 +36,8 @@ NCAL STDP sets a series of cases based on the timing of the input spike $t_i$ an
 
 $$
 \Delta w_{ij} = \begin{cases}
-B(\mu_c) &\text{ if } t_i\leq t_j, &t_i\neq \infty, &t_j\neq\infty\\
--B(\mu_b) &\text{ if } t_i > t_j, & &t_j\neq\infty\\
+B(\mu_c) &\text{ if } t_i\leq t_j, & &t_j\neq\infty\\
+-B(\mu_b) &\text{ if } t_i > t_j & &\\
 B(\mu_s) &\text{ if } &t_i\neq \infty, &t_j=\infty
 \end{cases}
 $$
@@ -45,7 +45,7 @@ $$
 The notation of $B(\mu_*)$ refers to the choosing of a [[Bernoulli]] random variable, where $\mu_*$ is a parameter.
 
 1. **Capture:** If the pre-synaptic spike comes first, then the weight is increased with a chance of $\mu_c$.
-2. **Back-off 1:** If the pre-synaptic spike comes later (or never comes), the input didn't 'matter', so the weight is decreased with a chance of $\mu_b$.
+2. **Back-off:** If the pre-synaptic spike comes later (or never comes), the input didn't 'matter', so the weight is decreased with a chance of $\mu_b$.
 3. **Search:** If the post-synaptic cell never spikes, the weight is increased very rarely. This encourages excitative behavior.
 
 Note that with the mathematics prescribed, $\infty$ is greater than any value excluding $\infty$. This STDP structure also only allows for discrete increments and completely ignores floating-point values whatsoever (due to their poor hardware power efficiency).
