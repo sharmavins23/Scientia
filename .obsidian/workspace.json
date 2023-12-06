@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "119e0552e81b8976",
+        "id": "1e9361ad5e3126df",
         "type": "tabs",
         "children": [
           {
-            "id": "9573b7f80faa8c3e",
+            "id": "d5baf40a31b535ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.50390243530273
   },
   "right": {
     "id": "095fe31e0e5f5039",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +149,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9573b7f80faa8c3e",
+  "active": "d5baf40a31b535ac",
   "lastOpenFiles": [
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Zobrist Hashing.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Erdos-Renyi Model.md",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Barabasi-Albert Model.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Graph (Network).md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph Theory.md",
+    "FORMAL SCIENCE/Mathematics/Algebra/Algebra.md",
+    "FORMAL SCIENCE/Mathematics/Algebra/Linear Algebra/Linear Algebra.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Physical Cosmology.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Big Bang.md",
+    "NATURAL SCIENCE/Chemistry/Chemical Elements/Chemical Element.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+    "NATURAL SCIENCE/Natural Science.md",
+    "FORMAL SCIENCE/Formal Science.md",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Cellular Automata.md",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Lenia.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Archean Eon.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
@@ -173,28 +182,10 @@
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Rhyacian Period.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Siderian Period.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Great Oxidation Event.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Huronian Glaciation.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Huronian Supergroup.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Proterozoic Eon.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Geochronology.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Paleoarchean Era.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Neoarchean Era.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Kenorland.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Mesoarchean Era.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Vaalbara.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Theia.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Natural Satellite.md",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Moon.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Inner Solar System.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Kuiper Belt/Kuiper Belt.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Oceanography",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Geology",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Kuiper Belt"
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth"
   ]
 }
