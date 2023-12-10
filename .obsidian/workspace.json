@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "646333370618e4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4957cec04edbc61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a748632f2d73ae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e78ae4eef0588310",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f398031d39ebedc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742e4b44e0a23e89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eea0533468edd3f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "milky way",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1d729f2c82af689",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.50390243530273
+  },
+  "right": {
+    "id": "095fe31e0e5f5039",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a892118798d034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ab04f41b1d6bc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34ec60ca9c5424fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "846cc427f2cec524",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f8a3a33dda42f87",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "5d74a7f1a5f27a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a748632f2d73ae8",
+  "lastOpenFiles": [
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Tripartite Synapse.md",
+    "NATURAL SCIENCE/Physics/Optics/Visible Light.md",
+    "NATURAL SCIENCE/Physics/Optics/Snell's Law.md",
+    "NATURAL SCIENCE/Physics/Optics/Optics.md",
+    "NATURAL SCIENCE/Physics/Optics",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Zobrist Hashing.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Erdos-Renyi Model.md",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Random Graphs/Barabasi-Albert Model.md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph (Network)/Graph (Network).md",
+    "FORMAL SCIENCE/Mathematics/Graph Theory/Graph Theory.md",
+    "FORMAL SCIENCE/Mathematics/Algebra/Algebra.md",
+    "FORMAL SCIENCE/Mathematics/Algebra/Linear Algebra/Linear Algebra.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Physical Cosmology.md",
+    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Big Bang.md",
+    "NATURAL SCIENCE/Chemistry/Chemical Elements/Chemical Element.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+    "NATURAL SCIENCE/Natural Science.md",
+    "FORMAL SCIENCE/Formal Science.md",
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Cellular Automata.md",
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata/Lenia.md",
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Archean Eon.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Hadean Eon/Hadean Eon.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era/Statherian Period.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon",
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled"
+  ]
+}
