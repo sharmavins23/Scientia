@@ -1,0 +1,1 @@
+The heap is managed by the [[Operating System|OS]] and represents a portion of dynamically allocated [[Memory (Computing)|memory]]. Generically, the program utilized to allocate space on the heap is referred to as `malloc()`.

@@ -1,0 +1,3 @@
+An [[Operating System|operating system]] maintains a stack, which handles all local and global variables, within its memory. The stack is a core part of the [[Memory (Computing)|memory system]], and grows "downwards", decrementing its addresses.
+
+A singular stack 'frame' may contain any arrays or integers initialized on the stack (variables). It also contains the return address for the function, which is usually the first thing pushed onto the stack. As such, jumping to a function is as simple as pushing any registers onto the stack, pushing the return address, and changing the instruction pointer to the next function.
