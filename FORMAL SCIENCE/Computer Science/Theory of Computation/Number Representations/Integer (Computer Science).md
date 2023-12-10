@@ -49,3 +49,11 @@ Thus, the value $-23$ is `0b101001` in binary. We can return back to positive no
 |3.|Add , ignoring overflow.|`0b010111`|
 
 We've returned back to the same value.
+
+### Examples
+
+#### Extrema
+
+Suppose we have a 6-bit signed integer. What is the most negative number? Well, notably, with signed integers the most negative number is always `100...000`. This value is not representable with a positive number. For this question, that's `100000`, which has a value of $-32$. In 6 bits, we can only represent $-32 \to 31$, which has a value of $011111$.
+
+What about a 5-bit signed integer? We can represent $-16\to 15$. As such, our most extremely negative value is `10000`.

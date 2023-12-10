@@ -1,0 +1,1 @@
+In [[Computer Science]], an operating system is a piece of software that manages computer hardware and software resources, and provides common services for other programs.

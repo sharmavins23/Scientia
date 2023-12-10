@@ -1,0 +1,3 @@
+A thread is a particular process handled by an [[Operating System|OS]]. Usually, all threads will interlace their computations across one core in a process known as context switching. However, several threads may have their work split across several [[CPU Cores|cores]].
+
+All threads share resources with one another - Including processor state, [[Memory (Computing)|memory]], and any [[File|file descriptors]].
