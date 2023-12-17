@@ -1,1 +1,1 @@
-Neuroscience, or neural science, is the study of the brain as well as the nerves, altogether encompassing the [[nervous system]]. It is a subfield of [[Biology|biology]].
+Neuroscience, or neural science, is the study of the brain as well as the nerves, altogether encompassing the [[Nervous System|nervous system]]. It is a subfield of [[Biology|biology]].

@@ -2,7 +2,7 @@ The LC tank (also known as resonant circuits, tank circuits, or tuned circuits) 
 
 ## Design
 
-![[Inductor-Capacitor (LC) Tank.png]]
+![[Inductor-Capacitor (LC) Tank 1.png]]
 
 The capacitor has the following time-dependent [[current]] relationship:
 

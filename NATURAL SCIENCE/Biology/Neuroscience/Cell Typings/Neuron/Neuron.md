@@ -1,4 +1,4 @@
-Neurons, or nerve [[Cell|cells]], are specialized cells that make up the building blocks of the [[nervous system]], including the brain and the spinal cord.
+Neurons, or nerve [[Cell|cells]], are specialized cells that make up the building blocks of the [[Nervous System|nervous system]], including the brain and the spinal cord.
 
 The neuron is the main component of [[nervous tissue]] in all animals except sponges and [[placozoa]]. Non-animals like plants and fungi do not contain neurons.
 
