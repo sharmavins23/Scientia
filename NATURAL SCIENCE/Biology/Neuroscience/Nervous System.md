@@ -1,0 +1,3 @@
+The nervous system is the highly complex part of an animal coordinating its actions and sensory information by transmitting signals to and from different parts of the body. It detects environmental changes that impact the body, and works in tandem with the [[Endocrine System|endocrine system]] to respond to such events.
+
+The nervous system is divided into two portions - the [[Central Nervous System|CNS]] and [[Peripheral Nervous System|PNS]], which together make up all nervous tissue.
