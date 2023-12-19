@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering\"",
@@ -99,10 +99,24 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"APPLIED SCIENCE\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431380
+        "rgb": 16711782
+      }
+    },
+    {
+      "query": "path:\"NATURAL SCIENCE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
+    {
+      "query": "path:\"FORMAL SCIENCE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -116,6 +130,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5911860033854849,
+  "scale": 0.15302179069128619,
   "close": false
 }

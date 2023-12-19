@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "98d66c0f0b9c2d07",
+        "id": "3b9608c2393c4955",
         "type": "tabs",
         "children": [
           {
-            "id": "9df18fff4644e593",
+            "id": "0b10f9509f11f2c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md"
+              }
             }
           }
         ]
@@ -148,13 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9df18fff4644e593",
+  "active": "0b10f9509f11f2c7",
   "lastOpenFiles": [
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "SOCIAL SCIENCE/Economics/Economics.md",
     "Index.md",
     "SOCIAL SCIENCE/Economics",
     "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Synapse.md",
     "conflict-files-obsidian-git.md",
@@ -176,7 +185,6 @@
     "NATURAL SCIENCE/Biology/Neuroscience/Neuroscience.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neuron.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Brain.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
