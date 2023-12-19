@@ -1,4 +1,8 @@
-STDP is a training method based closely on [[Hebbian Theory|Hebbian learning]] that adjusts the strength of connections between neurons based on the *timing* of the pre-synaptic and post-synaptic spike.
+---
+annotation-note: https://arxiv.org/pdf/1611.01421.pdf
+---
+
+STDP is a training method based closely on [[Hebbian Theory|Hebbian learning]] that adjusts the strength of connections between neurons based on the _timing_ of the pre-synaptic and post-synaptic spike.
 
 STDP is usually described as an unsupervised training method for [[Spiking Neuron|spiking neurons]], as backpropagation does not function properly.
 
@@ -11,7 +15,7 @@ $$
 \begin{cases}
 \alpha^+ \cdot w_{ij}(1-w_{ij}) &\text{ if } t_i-t_j\leq 0 \\
 \alpha^- \cdot w_{ij}(1-w_{ij}) &\text{ if } t_i-t_j\gt 0 \\
- 
+
 \end{cases}
 $$
 
@@ -54,12 +58,12 @@ STDP can be used in the context of a weight incoming to a particular temporal ne
 
 ### R-STDP
 
-The NCA lab also designates a *supervised* form of STDP - Reinforcement Learning STDP, or R-STDP. R-STDP adds a new *reward* signal that is two bits. These two bits can encode $-1$, $0$, $1$, or *off* as 11, 00, 01, and 10 respectively. When R-STDP is off, unsupervised STDP is simply used.
+The NCA lab also designates a _supervised_ form of STDP - Reinforcement Learning STDP, or R-STDP. R-STDP adds a new _reward_ signal that is two bits. These two bits can encode $-1$, $0$, $1$, or _off_ as 11, 00, 01, and 10 respectively. When R-STDP is off, unsupervised STDP is simply used.
 
 The cases are modified as follows:
 
 1. If the neuron's output matches the desired output, $R=1$. STDP search is disabled, but the other rules are performed as normal.
-2. If the neuron's output *does not* match the desired output, $R=-1$. Case 2 is disabled; For case 1, the weight is decremented *instead* of increased.
+2. If the neuron's output _does not_ match the desired output, $R=-1$. Case 2 is disabled; For case 1, the weight is decremented _instead_ of increased.
 3. If the neuron never spikes, only case 3 operates (and $R=0$).
 
 R-STDP allows the temporal neuron to be trained to expect particular patterns, and is typically only applied for the final output column of a network. In this way, temporal neural networks are often treated as [[Liquid State Machine (LSM)|liquid state machines]] with particular arrangements, where training is mostly a black box (other than particular parameters).
