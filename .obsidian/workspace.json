@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "548e0024925e302d",
+        "id": "ee86c16e5349c4a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6b1606f10effdb5d",
+            "id": "72ece35ab40399b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b1606f10effdb5d",
+  "active": "72ece35ab40399b5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems/File.md",
