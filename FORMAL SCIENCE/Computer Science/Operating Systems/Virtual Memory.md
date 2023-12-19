@@ -1,5 +1,7 @@
 Virtual [[Memory (Computing)|memory]] addresses are utilized for security purposes in [[Operating System|OS]] design, and effectively 'mask' the underlying physical hardware. The translation is relatively similar, and is similar in construction to [[Cache Memory|cache addressing]].
 
+Virtual memory sizings do not have to correlate to physical address size. Oftentimes, virtual address spaces are much smaller - They can also be larger.
+
 ## Worked Example
 
 Suppose we have a design with a virtual address of 18 bits, a physical address of 12 bits, a page size of 512 bytes, an 8-way set associative TLB (with 2 indices), and a 2-way set associative cache (with 4 indices, and 4 byte blocks).

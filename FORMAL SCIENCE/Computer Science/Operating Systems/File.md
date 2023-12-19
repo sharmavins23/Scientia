@@ -26,14 +26,14 @@ int main(int argc, char* argv) {
 	write(fd0, buffer, 3);
 	write(fd0, buffer, 3); // File = abcabc
 	
-	read(fd1, buffer2, 2); // buffer2 = ab\0
+	read(fd1, buffer2, 2); // buffer2 = ab
 	write(1, buffer2, 2); // Print ab
 	
 	dup2(fd1, fd2); // fd2 <= fd1
 	
-	read(fd2, buffer2, 2); // buffer2 = ca\0
+	read(fd2, buffer2, 2); // buffer2 = ca
 	write(1, buffer2, 2); // Print ca
-	read(fd2, buffer2, 1); // buffer2 = b\0
+	read(fd2, buffer2, 1); // buffer2 = b
 	write(1, buffer2, 1); // Print b
 	
 	return 0;
