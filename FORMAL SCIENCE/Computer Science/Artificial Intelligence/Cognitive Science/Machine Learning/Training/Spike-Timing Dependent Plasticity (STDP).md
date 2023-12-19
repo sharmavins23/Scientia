@@ -1,7 +1,3 @@
----
-annotation-note: https://arxiv.org/pdf/1611.01421.pdf
----
-
 STDP is a training method based closely on [[Hebbian Theory|Hebbian learning]] that adjusts the strength of connections between neurons based on the _timing_ of the pre-synaptic and post-synaptic spike.
 
 STDP is usually described as an unsupervised training method for [[Spiking Neuron|spiking neurons]], as backpropagation does not function properly.
@@ -39,14 +35,17 @@ In their [2021 paper](https://arxiv.org/abs/2105.13262), the team at NCAL propos
 NCAL STDP sets a series of cases based on the timing of the input spike $t_i$ and output spike $t_j$. The cases are:
 
 $$
+\begin{equation} \label{nair}
+\tag{1}
 \Delta w_{ij} = \begin{cases}
 B(\mu_c) &\text{ if } t_i\leq t_j, & &t_j\neq\infty\\
 -B(\mu_b) &\text{ if } t_i > t_j & &\\
 B(\mu_s) &\text{ if } &t_i\neq \infty, &t_j=\infty
 \end{cases}
+\end{equation}
 $$
 
-The notation of $B(\mu_*)$ refers to the choosing of a [[Bernoulli]] random variable, where $\mu_*$ is a parameter.
+The notation in $\ref{nair}$ of $B(\mu_*)$ refers to the choosing of a [[Bernoulli]] random variable, where $\mu_*$ is a parameter.
 
 1. **Capture:** If the pre-synaptic spike comes first, then the weight is increased with a chance of $\mu_c$.
 2. **Back-off:** If the pre-synaptic spike comes later (or never comes), the input didn't 'matter', so the weight is decreased with a chance of $\mu_b$.
