@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c025223c9d141ac",
+        "id": "98d66c0f0b9c2d07",
         "type": "tabs",
         "children": [
           {
-            "id": "64a6805f165ee00d",
+            "id": "9df18fff4644e593",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,8 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64a6805f165ee00d",
+  "active": "9df18fff4644e593",
   "lastOpenFiles": [
+    "SOCIAL SCIENCE/Economics/Economics.md",
+    "Index.md",
+    "SOCIAL SCIENCE/Economics",
     "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
@@ -157,7 +160,6 @@
     "conflict-files-obsidian-git.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems/File.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems/Stack.md",
-    "Index.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Paleoarchean Era.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
@@ -175,7 +177,6 @@
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neuron.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Brain.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
@@ -184,7 +185,6 @@
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Oceanography",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth"
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Oceanography"
   ]
 }
