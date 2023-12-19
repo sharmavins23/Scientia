@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "065f4ac878371e69",
+        "id": "c2793b9519373bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9d5f36d5e32fe4",
+            "id": "25acca4715ff79e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,9 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9d5f36d5e32fe4",
+  "active": "25acca4715ff79e7",
   "lastOpenFiles": [
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Neuropsychology.md",
@@ -186,7 +178,6 @@
     "APPLIED SCIENCE/Agriculture/Food Science/Food Science.md",
     "APPLIED SCIENCE/Agriculture/Agriculture.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Dentate Gyrus.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Nervous System.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
