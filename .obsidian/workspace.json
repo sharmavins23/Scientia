@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "efcaff91aebfbc95",
+        "id": "6d8827fa110b1b25",
         "type": "tabs",
         "children": [
           {
-            "id": "f8bdf29bb650be0a",
+            "id": "24a027a770687249",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 378.5086555480957
   },
   "right": {
     "id": "095fe31e0e5f5039",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bdf29bb650be0a",
+  "active": "24a027a770687249",
   "lastOpenFiles": [
+    "FORMAL SCIENCE/Computer Science/Operating Systems/File.md",
+    "FORMAL SCIENCE/Computer Science/Operating Systems/Stack.md",
     "Index.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Paleoarchean Era.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
@@ -182,8 +176,6 @@
     "FORMAL SCIENCE/Computer Science/Operating Systems/Virtual Memory.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems/Thread.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Cache Memory.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Memory (Computing).md",
-    "FORMAL SCIENCE/Computer Science/Operating Systems/Heap.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",

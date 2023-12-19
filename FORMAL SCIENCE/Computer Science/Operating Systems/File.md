@@ -17,25 +17,25 @@ Let's look at the following code:
 int main(int argc, char* argv) {
 	char buffer[4] = "abc";
 	char buffer2[4];
-	
+
 	// Assume "file.txt" exists but is empty
 	int fd0 = open("file.txt", O_RDWR | O_CREAT, 0666);
 	int fd1 = open("file.txt", O_RDWR | O_CREAT, 0666);
 	int fd2 = 0;
-	
+
 	write(fd0, buffer, 3);
 	write(fd0, buffer, 3); // File = abcabc
-	
+
 	read(fd1, buffer2, 2); // buffer2 = ab
 	write(1, buffer2, 2); // Print ab
-	
+
 	dup2(fd1, fd2); // fd2 <= fd1
-	
+
 	read(fd2, buffer2, 2); // buffer2 = ca
 	write(1, buffer2, 2); // Print ca
 	read(fd2, buffer2, 1); // buffer2 = b
 	write(1, buffer2, 1); // Print b
-	
+
 	return 0;
 }
 ```
@@ -64,20 +64,20 @@ int main() {
     int fd0 = open("file.txt", O_RDWR); // Init to 3
     int fd1 = 0;                        // Init to 0
     int fd2 = open("file.txt", O_RDWR); // Init to 4
-    
+
     read(fd0, buffer, 1); // Empty, so no overwrite
-    
+
     dup2(fd0, fd1); // fd1 now points to the file
-    
+
     read(fd2, buffer+1, 2); // Empty, so no overwrite
     write(fd0, buffer, 3); // Writes "abc" to the file
-    
+
     read(fd2, buffer, 1); // Reads 'a' from the file
     write(fd1, buffer, 1); // Writes 'a' back
-	
+
 	// Buffer now has "abc"
 	// File now has "abca"
-    
+
     return 0;
 }
 ```
