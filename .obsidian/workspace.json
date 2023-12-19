@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "646333370618e4a0",
+    "id": "3c1de753f3f1e2e3",
     "type": "split",
     "children": [
       {
-        "id": "efcaff91aebfbc95",
+        "id": "b13a863d3a547c69",
         "type": "tabs",
         "children": [
           {
-            "id": "f8bdf29bb650be0a",
+            "id": "b6437ecf8a4c0afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "FORMAL SCIENCE/Computer Science/Operating Systems/Virtual Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e78ae4eef0588310",
+    "id": "2128e4facb8cf2ac",
     "type": "split",
     "children": [
       {
-        "id": "1f398031d39ebedc",
+        "id": "3e5b7c335ef6f70a",
         "type": "tabs",
         "children": [
           {
-            "id": "742e4b44e0a23e89",
+            "id": "ce654a204ad91f71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "eea0533468edd3f0",
+            "id": "712ca70d54981d67",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "cache",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "d1d729f2c82af689",
+            "id": "616a6aa5b987da88",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "095fe31e0e5f5039",
+    "id": "7be2bdb6750dfb39",
     "type": "split",
     "children": [
       {
-        "id": "e8a892118798d034",
+        "id": "5b030ade914a6575",
         "type": "tabs",
         "children": [
           {
-            "id": "79ab04f41b1d6bc2",
+            "id": "0177971fda28b439",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "FORMAL SCIENCE/Computer Science/Operating Systems/Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "34ec60ca9c5424fd",
+            "id": "994dfe9d81d3bd66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "FORMAL SCIENCE/Computer Science/Operating Systems/Virtual Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "846cc427f2cec524",
+            "id": "06e51b7b6c5058e6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,22 +120,12 @@
             }
           },
           {
-            "id": "1f8a3a33dda42f87",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "5d74a7f1a5f27a4b",
+            "id": "f2733bf6047ac604",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "FORMAL SCIENCE/Computer Science/Operating Systems/Virtual Memory.md"
               }
             }
           }
@@ -156,43 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bdf29bb650be0a",
+  "active": "b6437ecf8a4c0afd",
   "lastOpenFiles": [
-    "Index.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Paleoarchean Era.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Hadean Eon/Hadean Eon.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Theia.md",
-    "Chromosome.md",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Major Depressive Disorder.md",
-    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Zobrist Hashing.md",
-    "APPLIED SCIENCE/Agriculture/Food Science/Brewing/Brewing.md",
-    "APPLIED SCIENCE/Agriculture/Food Science/Food Science.md",
-    "APPLIED SCIENCE/Agriculture/Agriculture.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Dentate Gyrus.md",
+    "Z - img/Inductor-Capacitor (LC) Tank 1.png",
     "NATURAL SCIENCE/Biology/Neuroscience/Nervous System.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Neuroscience.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neuron.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Neuroglia.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Brain.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Tripartite Synapse.md",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Integer (Computer Science).md",
-    "FORMAL SCIENCE/Computer Science/Operating Systems/Virtual Memory.md",
-    "FORMAL SCIENCE/Computer Science/Operating Systems/Thread.md",
+    "FORMAL SCIENCE/Computer Science/Operating Systems/File.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Cache Memory.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Memory/Memory (Computing).md",
-    "FORMAL SCIENCE/Computer Science/Operating Systems/Heap.md",
-    "FORMAL SCIENCE/Computer Science/Operating Systems",
-    "NATURAL SCIENCE/Physics/Optics",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Planetary Oceanography",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth"
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Number Representations/Floating-Point.md",
+    "APPLIED SCIENCE/Agriculture/Food Science/Brewing/Brewing.md",
+    "FORMAL SCIENCE/Computer Science/Operating Systems/Virtual Memory.md"
   ]
 }

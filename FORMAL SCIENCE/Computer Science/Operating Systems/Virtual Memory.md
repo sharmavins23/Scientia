@@ -12,19 +12,19 @@ The TLB index is part of the VPN. This effectively tells the location in the TLB
 
 Our address now looks like this:
 
-| 17| 16| 15| 14| 13| 12| 11| 10|  9|  8|  7|  6|  5|  4|  3|  2|  1|  0|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|VPN|VPN|VPN|VPN|VPN|VPN|VPN|VPN|VPN|VPO|VPO|VPO|VPO|VPO|VPO|VPO|VPO|VPO|
-|TLT|TLT|TLT|TLT|TLT|TLT|TLT|TLT|TLI|   |   |   |   |   |   |   |   |   |
+| 17  | 16  | 15  | 14  | 13  | 12  | 11  | 10  | 9   | 8   | 7   | 6   | 5   | 4   | 3   | 2   | 1   | 0   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VPN | VPN | VPN | VPN | VPN | VPN | VPN | VPN | VPN | VPO | VPO | VPO | VPO | VPO | VPO | VPO | VPO | VPO |
+| TLT | TLT | TLT | TLT | TLT | TLT | TLT | TLT | TLI |     |     |     |     |     |     |     |     |     |
 
 Our physical page address is also similar. The physical page offset, or PPO, is the same as the VPO, so 9 bits are required. The PPN is everything else (so, $12-9=3$ bits).
 
 The cache offset (CO) is the offset in a block. Since there are four blocks, the least significant 2 bits of the page address is the CO. The cache index CI needs 2 bits for 4 indices, so the next 2 significant bits are our CI. The cache tag is everything else.
 
-| 11| 10|  9|  8|  7|  6|  5|  4|  3|  2|  1|  0|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|PPN|PPN|PPN|PPO|PPO|PPO|PPO|PPO|PPO|PPO|PPO|PPO|
-| CT| CT| CT| CT| CT| CT| CT| CT| CI| CI| CO| CO|
+| 11  | 10  | 9   | 8   | 7   | 6   | 5   | 4   | 3   | 2   | 1   | 0   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PPN | PPN | PPN | PPO | PPO | PPO | PPO | PPO | PPO | PPO | PPO | PPO |
+| CT  | CT  | CT  | CT  | CT  | CT  | CT  | CT  | CI  | CI  | CO  | CO  |
 
 ### Translating Addresses
 
