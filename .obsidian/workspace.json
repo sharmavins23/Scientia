@@ -11,8 +11,13 @@
             "id": "25acca4715ff79e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md"
+              }
             }
           }
         ]
