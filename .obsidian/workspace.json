@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c2793b9519373bc8",
+        "id": "89058ae8f2e6d8cc",
         "type": "tabs",
         "children": [
           {
-            "id": "25acca4715ff79e7",
+            "id": "84316daebf7f4dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "045d36156dbd58fc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cache",
+                "query": "astroc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md"
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md"
               }
             }
           }
@@ -168,14 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "045d36156dbd58fc",
+  "active": "84316daebf7f4dea",
   "lastOpenFiles": [
+    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Neuropsychology.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "SOCIAL SCIENCE/Economics/Economics.md",
