@@ -1,0 +1,1 @@
+The Medical Test Paradox is a popular math problem applying [[Bayes' Theorem|Bayes' theorem]]. 
