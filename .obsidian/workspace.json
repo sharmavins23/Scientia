@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Exponential Distribution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Exponential Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Exponential Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md"
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Exponential Distribution.md"
               }
             }
           }
@@ -159,9 +159,13 @@
   },
   "active": "84316daebf7f4dea",
   "lastOpenFiles": [
+    "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Standard Distribution.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Exponential Distribution.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Probability Distribution.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution",
+    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
-    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
     "Index.md",
     "FORMAL SCIENCE/Mathematics/Statistics",
@@ -186,14 +190,10 @@
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Hadean Eon/Hadean Eon.md",
     "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Theia.md",
-    "Chromosome.md",
-    "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Major Depressive Disorder.md",
-    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Zobrist Hashing.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon"
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon"
   ]
 }

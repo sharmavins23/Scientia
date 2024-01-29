@@ -1,0 +1,1 @@
+A probability distribution in [[Statistics|statistics]] is the mathematical function giving the probability of occurrence of different possible outcomes for an experiment.
