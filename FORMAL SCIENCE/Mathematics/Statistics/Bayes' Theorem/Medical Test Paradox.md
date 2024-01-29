@@ -6,6 +6,9 @@ Applying statistical notation, we state that women who *actually* have cancer is
 
 $$
 \begin{align}
-P(H\vert P) \approx \frac{9}{9+89}
+P(H\vert P) &\approx \frac{9}{9+89} \\
+&= 9.184\%
 \end{align}
 $$
+
+This value is denoted as the PPV, or Positive Predictive Value, for a medical test. However, looking at the test, we can compute its *accuracy*, usually broken down into [[Medical Test Sensitivity|sensitivity]] and [[Medical Test Specificity|specificity]]. Test sensitivity for our example is $90\%$. Test specificity for our example is $91.010\%$.
