@@ -1,1 +1,1 @@
-Statistics is the discipline concerning the collection, organization, analysis, interpretation, and presentation of data.
+Statistics is the discipline concerning the collection, organization, analysis, interpretation, and presentation of data. It is an extremely prevalent subfield of [[Mathematics|mathematics]].

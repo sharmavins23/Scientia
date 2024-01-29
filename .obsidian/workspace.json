@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md"
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md"
               }
             }
           }
@@ -159,10 +159,10 @@
   },
   "active": "84316daebf7f4dea",
   "lastOpenFiles": [
-    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
-    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
-    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
     "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
     "Index.md",
     "FORMAL SCIENCE/Mathematics/Statistics",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
