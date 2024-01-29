@@ -1,0 +1,1 @@
+Statistics is the discipline concerning the collection, organization, analysis, interpretation, and presentation of data.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes Theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md"
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes Theorem.md"
               }
             }
           }
@@ -160,6 +159,11 @@
   },
   "active": "84316daebf7f4dea",
   "lastOpenFiles": [
+    "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Bayes Theorem.md",
+    "Index.md",
+    "FORMAL SCIENCE/Mathematics/Statistics",
+    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
@@ -169,7 +173,6 @@
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "SOCIAL SCIENCE/Economics/Economics.md",
-    "Index.md",
     "SOCIAL SCIENCE/Economics",
     "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Synapse.md",
@@ -185,16 +188,12 @@
     "APPLIED SCIENCE/Medicine and Health/Psychiatry/Mood Disorder/Major Depressive Disorder.md",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Zobrist Hashing.md",
     "APPLIED SCIENCE/Agriculture/Food Science/Brewing/Brewing.md",
-    "APPLIED SCIENCE/Agriculture/Food Science/Food Science.md",
-    "APPLIED SCIENCE/Agriculture/Agriculture.md",
-    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Allocortex/Hippocampus (Archicortex)/Dentate Gyrus.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth"
+    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Untitled"
   ]
 }
