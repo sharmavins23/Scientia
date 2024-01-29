@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md"
+                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "84316daebf7f4dea",
   "lastOpenFiles": [
-    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
+    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
     "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
     "Index.md",
