@@ -1,0 +1,1 @@
+The Precentral Gyrus, also known as the primary motor cortex, is the region of the [[Neocortex|neocortex]] involved in planning, control, and execution of voluntary movements. The motor cortex is an area of the [[Frontal Lobe|frontal lobe]].

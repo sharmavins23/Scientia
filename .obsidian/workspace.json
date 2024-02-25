@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89058ae8f2e6d8cc",
+        "id": "ddb3571e1c7c5c91",
         "type": "tabs",
         "children": [
           {
-            "id": "84316daebf7f4dea",
+            "id": "9af8f0b36768d68f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md"
+                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md"
               }
             }
           }
@@ -157,8 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84316daebf7f4dea",
+  "active": "9af8f0b36768d68f",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Prefrontal Cortex.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Cerebral Cortex.md",
+    "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Exponential Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Probability Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Standard Distribution.md",
@@ -186,14 +191,9 @@
     "FORMAL SCIENCE/Computer Science/Operating Systems/File.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems/Stack.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Paleoarchean Era.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Eoarchean Era.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Hadean Eon/Hadean Eon.md",
-    "NATURAL SCIENCE/Astronomy/Planetary Science/Milky Way/Solar System/Inner Solar System/Earth/Theia.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
     "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon"
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era"
   ]
 }
