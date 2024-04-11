@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ddb3571e1c7c5c91",
+        "id": "0d8a96cf7cf2645a",
         "type": "tabs",
         "children": [
           {
-            "id": "9af8f0b36768d68f",
+            "id": "d03de77fc45aadf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7330485e145431e9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +152,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7330485e145431e9",
+  "active": "d03de77fc45aadf1",
   "lastOpenFiles": [
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Prefrontal Cortex.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
