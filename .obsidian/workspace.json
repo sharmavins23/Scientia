@@ -11,8 +11,13 @@
             "id": "d03de77fc45aadf1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
+                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
+                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md"
+                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md"
               }
             }
           }
@@ -154,6 +159,10 @@
   },
   "active": "d03de77fc45aadf1",
   "lastOpenFiles": [
+    "NATURAL SCIENCE/Physics/Temperature.md",
+    "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
+    "Index.md",
+    "NATURAL SCIENCE/Physics/Thermodynamics",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Prefrontal Cortex.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Cerebral Cortex.md",
@@ -167,7 +176,6 @@
     "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
-    "Index.md",
     "FORMAL SCIENCE/Mathematics/Statistics",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
@@ -184,11 +192,8 @@
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Synapse.md",
     "conflict-files-obsidian-git.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems/File.md",
-    "FORMAL SCIENCE/Computer Science/Operating Systems/Stack.md",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Archean Eon/Paleoarchean Era.md",
     "FORMAL SCIENCE/Computer Science/Operating Systems",
     "NATURAL SCIENCE/Physics/Optics",
-    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/Proterozoic Eon/Paleoproterozoic Era"
+    "FORMAL SCIENCE/Computer Science/Theory of Computation/Automata Theory/Cellular Automata"
   ]
 }

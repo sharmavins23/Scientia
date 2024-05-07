@@ -1,0 +1,1 @@
+Temperature is a [[Physics|physical]] quantity that expresses the attribute of hotness or coldness. Typically measured with a thermometer, the value reflects the average [[Kinetic Energy|kinetic energy]] of the vibrating and colliding [[Atom|atoms]] making up a substance.
