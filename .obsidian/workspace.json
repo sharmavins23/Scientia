@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
+                "file": "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "astroc",
+                "query": "chess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
+                "file": "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
+                "file": "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md"
+                "file": "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md"
               }
             }
           }
@@ -159,8 +160,8 @@
   },
   "active": "d03de77fc45aadf1",
   "lastOpenFiles": [
-    "NATURAL SCIENCE/Physics/Temperature.md",
     "NATURAL SCIENCE/Physics/Thermodynamics/Thermodynamics.md",
+    "NATURAL SCIENCE/Physics/Temperature.md",
     "Index.md",
     "NATURAL SCIENCE/Physics/Thermodynamics",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Prefrontal Cortex.md",
