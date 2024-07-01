@@ -35,11 +35,22 @@ C(S,t) &\to S-K \text{ as } S\to\infty \\
 C(S,T) &= \max{(S-K, 0)}
 \end{align}
 $$
+
 Solving for the value of a call option:
 
 $$
 \begin{align}
 C(S_t, t) &= N(d_+)S_t - N(d_-)Ke^{-r(T-t)} \\
-d_+ &= \frac{\ln{\left(\frac{S_t}{K}\right)}+\left(\)}{\sigma\sqrt{T-t}}
+d_+ &= \frac{\ln{\left(\frac{S_t}{K}\right)}+\left(r+\frac{\sigma^2}{2}\right)(T-t)}{\sigma\sqrt{T-t}} \\
+d_- &= d_+ - \sigma\sqrt{T-t}
+\end{align}
+$$
+
+Put-call parity states that a portfolio of a long call option and a short put option is equivalent (and hence has the same value as) a single call at the strike price and expiry. With a discount factor accounting for future inflation, the following price of a corresponding put is achieved:
+
+$$
+\begin{align}
+P(S_t, t) &= Ke^{-r(T-t)}-S_t+C(S_t,t)\\
+&= N(-d_-)Ke^{-r(T-t)}-N(-d_+)S_t
 \end{align}
 $$
