@@ -1,1 +1,1 @@
-Financial econometrics is the application of statistical methods to [[Financial Economics|financial market data]]
+Financial econometrics is the application of statistical methods to [[Financial Economics|financial market data]]. Generally, the emphasis is on price analysis of financial assets traded in competitive and liquid markets.

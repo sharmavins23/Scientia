@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md"
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   "active": "d91272c1e39e7eb3",
   "lastOpenFiles": [
     "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
+    "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics",
     "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
@@ -192,7 +193,6 @@
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Neuropsychology.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
-    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "SOCIAL SCIENCE/Economics",
     "FORMAL SCIENCE/Computer Science/Operating Systems"
   ]
