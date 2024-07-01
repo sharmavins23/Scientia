@@ -1,0 +1,1 @@
+Financial econometrics is the application of statistical methods to [[Financial Economics|financial market data]]

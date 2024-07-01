@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md"
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md"
               }
             }
           }
@@ -159,8 +159,10 @@
   },
   "active": "d91272c1e39e7eb3",
   "lastOpenFiles": [
-    "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
+    "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
+    "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics",
+    "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Economics.md",
     "SOCIAL SCIENCE/Economics/Economics.md",
     "SOCIAL SCIENCE/Economics/Financial Economics",
@@ -192,8 +194,6 @@
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "SOCIAL SCIENCE/Economics",
-    "NATURAL SCIENCE/Astronomy/Cosmology/Physical Cosmology/Chronology of the Universe.md",
-    "FORMAL SCIENCE/Computer Science/Operating Systems",
-    "NATURAL SCIENCE/Physics/Optics"
+    "FORMAL SCIENCE/Computer Science/Operating Systems"
   ]
 }

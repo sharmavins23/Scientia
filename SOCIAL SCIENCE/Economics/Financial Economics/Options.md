@@ -6,4 +6,8 @@ Traders tend to define options as "in the money" (ITM) or "out of the money" (OT
 
 ## Premiums
 
-As options are effectively 'bets' on the directional movement of a stock, an option charges a premium. This premium is directly equivalent to the amount of risk on the option. For instance, suppose a person buys a call option on $SPY at $400 for 100 shares (with a premium of $100 per share). A call bets that $SPY will go up, so in the event that $SPY goes down to $0, rather than losing $40,000, 
+As options are effectively 'bets' on the directional movement of a stock, an option charges a premium. This premium is directly equivalent to the amount of risk on the option. For instance, suppose a person buys a call option on $SPY at $400 for 100 shares (with a premium of $100 per share). A call bets that $SPY will go up, so in the event that $SPY goes down to $0, rather than losing $40,000, the buyer is only entitled to losing the initial $10,000 investment.
+
+## Leverage and Insurance
+
+Premiums fundamentally allow investors to trade stocks that they do not own. 
