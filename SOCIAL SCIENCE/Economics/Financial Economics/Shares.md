@@ -1,0 +1,1 @@
+In [[Financial Economics|financial markets]], shares are units of equity ownership in the capital stock of a corporation, and can refer to units of [[Mutual Fund|mutual funds]]

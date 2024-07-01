@@ -1,0 +1,1 @@
+Financial [[Economics|economics]] is a branch of economics concerned with purely monetary activities, in which money of one type is likely to appear on both sides of a trade.
