@@ -10,7 +10,7 @@ As options are effectively 'bets' on the directional movement of a stock, an opt
 
 Generally, premiums are priced via the [[Black-Scholes Model]].
 
-## Leverage and Insurance
+## Leverage
 
 Premiums fundamentally allow investors to trade stocks that they do not own. As such, their gains and losses can theoretically be amplified. In practice, a call option must be exercised to gain value from it even when ITM, but trading platforms (such as Robinhood) will buy option contracts close to expiry, which enables investors to net profits without exercising buying rights.
 
@@ -31,6 +31,8 @@ $$
 
 The buyer is effectively able to bet via 5.6 times his money's worth. As such, buying calls for $10,000 would return gains (or, and more likely, losses) equivalent to owning $55,000 worth of shares.
 
-Call options can be used to increase leverage, and put options can be used as insurance to hedge against a stock value going down. For example, suppose an investor buys a stock at $14 per share. In the event that the stock value plummets, the investor may pay a small fee of $7 (via a put option) to guarantee they can exercise a put option and sell at $10 within a one-year time frame.
+## Insurance
 
-If the value of the stock increases to $16, 
+Call options can be used to increase leverage, and put options can be used as insurance to hedge against a stock value going down. For example, suppose an investor buys a stock at $15 per share. The investor then buys a put with a premium of $5 per share, where they can sell the stock they bought (at $15 per share) for $10 per share.
+
+Suppose the stock increases to $20 per share. 
