@@ -1,2 +1,5 @@
 In [[Financial Economics|finance]], an option is a contract which conveys to its owner, the *holder*, the right, **but not the obligation,** to buy or sell a specific quantity of an [[Shares|underlying asset]] at a specified strike price on a specified date. Options are usually either European (as described previously), or American-style, where the buying/selling may be excised at a prior date.
 
+Options can either be placed as 'call' or 'put' options. Options that convey to the holder the right to buy stock at a specified price is a call, and one that conveys the right to sell at a specified price is a put (though, investors do not need to own the underlying shares to buy or sell a put).
+
+Traders tend to define options as "in the money" (ITM) or "out of the money" (OTM) by the strike price's position relative to the market value of the underlying stock. ITM options have strike prices that have been surpassed by the current stock price, whereas OTM options have strike prices that the underlying security has yet to reach. As such, OTM options have no intrinsic value.
