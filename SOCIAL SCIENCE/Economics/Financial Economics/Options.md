@@ -14,4 +14,21 @@ Generally, premiums are priced via the [[Black-Scholes Model]].
 
 Premiums fundamentally allow investors to trade stocks that they do not own. As such, their gains and losses can theoretically be amplified. In practice, a call option must be exercised to gain value from it even when ITM, but trading platforms (such as Robinhood) will buy option contracts close to expiry, which enables investors to net profits without exercising buying rights.
 
-This leverage can be calculated simplfy from the option delta $\Delta$, the option's price $P_o$, and the total share price $P
+This leverage can be calculated simplfy from the option delta $\Delta$, the option's price $P_o$, and the total share price $P_s$:
+
+$$
+L=\frac{\Delta P_s}{P_o}
+$$
+
+For example, a long-term call of $SPY with a strike price of $K=\$415$ has a marked option price of $P_o=\$41.82$ and a $\Delta=0.5629$. Performing the calculation:
+
+$$
+\begin{align}
+L &= \frac{0.5629 \times \$415}{\$41.82}\\
+&= 5.586
+\end{align}
+$$
+
+The buyer is effectively able to bet via 5.6 times his money's worth. As such, buying calls for $10,000 would return gains (or, and more likely, losses) equivalent to owning $55,000 worth of shares.
+
+Call options can be used to increase leverage, and put options can be used as insurance to hedge against a stock value going down. For example, suppose an investor buys a stock at $14 per share.
