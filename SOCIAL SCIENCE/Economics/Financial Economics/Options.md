@@ -12,4 +12,4 @@ Generally, premiums are priced via the [[Black-Scholes Model]].
 
 ## Leverage and Insurance
 
-Premiums fundamentally allow investors to trade stocks that they do not own. As such, their gains and losses can theoretically be amplified. In practice, a call option must be exercised to gain value from it even when ITM, but trading platforms (such as Robinhood) will buy ITM call options 
+Premiums fundamentally allow investors to trade stocks that they do not own. As such, their gains and losses can theoretically be amplified. In practice, a call option must be exercised to gain value from it even when ITM, but trading platforms (such as Robinhood) will buy option contracts close to expiry, which enables investors to net profits without exercising buying rights.
