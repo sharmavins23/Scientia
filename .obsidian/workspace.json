@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "683eaf0d43a7a13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "683eaf0d43a7a13b",
+  "active": "d91272c1e39e7eb3",
   "lastOpenFiles": [
     "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
