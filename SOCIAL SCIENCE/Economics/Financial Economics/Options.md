@@ -31,4 +31,6 @@ $$
 
 The buyer is effectively able to bet via 5.6 times his money's worth. As such, buying calls for $10,000 would return gains (or, and more likely, losses) equivalent to owning $55,000 worth of shares.
 
-Call options can be used to increase leverage, and put options can be used as insurance to hedge against a stock value going down. For example, suppose an investor buys a stock at $14 per share.
+Call options can be used to increase leverage, and put options can be used as insurance to hedge against a stock value going down. For example, suppose an investor buys a stock at $14 per share. In the event that the stock value plummets, the investor may pay a small fee of $7 (via a put option) to guarantee they can exercise a put option and sell at $10 within a one-year time frame.
+
+If the value of the stock increases to $16, 
