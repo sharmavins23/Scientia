@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md"
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "742e4b44e0a23e89",
+  "active": "683eaf0d43a7a13b",
   "lastOpenFiles": [
-    "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
+    "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Economics.md",
     "SOCIAL SCIENCE/Economics/Economics.md",
     "SOCIAL SCIENCE/Economics/Financial Economics",
