@@ -2,7 +2,7 @@ The Black-Scholes model (or Black-Scholes-Merton model) is a mathematical model 
 
 - $t$ is time in years, with $t=0$ representing the present year.
 - $r$ is the annualized risk-free interest rate, continuously compounded.
-- $S(t)$ is the price function of an underlying asset at time $t$.
+- $S(t)$ is the price function of an underlying asset at time $t$. It is also written as $S_t$.
 - $\mu$ is the [[Stochastic Drift|drift rate]] of $S$ annualized.
 - $\sigma$ is the standard deviation of the stock's returns. This is the square root of the quadratic variation of the stock's log price process, which is a measure of its [[Volatility (Finance)|volatility]].
 - $V(S,t)$ is the price of the option as a function of the underlying asset $S$ at time $t$.
@@ -16,6 +16,8 @@ The Black-Scholes model (or Black-Scholes-Merton model) is a mathematical model 
 
 - $N'(x)$ denotes the standard normal PDF: $$N'(x) = \frac{dN(x)}{dx} = \frac{1}{\sqrt{2\pi}} e^{\frac{-z^2}{2}}$$
 
+## Derivation
+
 With this, the fundamental Black-Scholes equation describes a price $V(S,t)$ of an option:
 
 $$
@@ -24,4 +26,20 @@ $$
 
 This equation gives the fundamental insight that one can perfectly hedge an option by buying and selling the underlying asset in such a way as to "eliminate risk".
 
-Finally, the Black-Scholes formula calculates the price of European put and call [[options]]
+This differential equation can be solved via the following boundary conditions:
+
+$$
+\begin{align}
+C(0,t) &= 0 \text{ for all }t \\
+C(S,t) &\to S-K \text{ as } S\to\infty \\
+C(S,T) &= \max{(S-K, 0)}
+\end{align}
+$$
+Solving for the value of a call option:
+
+$$
+\begin{align}
+C(S_t, t) &= N(d_+)S_t - N(d_-)Ke^{-r(T-t)} \\
+d_+ &= \frac{\ln{\left(\frac{S_t}{K}\right)}+\left(\)}{\sigma\sqrt{T-t}}
+\end{align}
+$$
