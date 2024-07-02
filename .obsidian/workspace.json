@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "81fdbc3efb9a76aa",
+        "id": "c4fd06bdac57a7c7",
         "type": "tabs",
         "children": [
           {
-            "id": "d91272c1e39e7eb3",
+            "id": "9f8ddc426e2cb529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "APPLIED SCIENCE/Applied Science.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "APPLIED SCIENCE/Applied Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "APPLIED SCIENCE/Applied Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "APPLIED SCIENCE/Applied Science.md"
+              }
             }
           }
         ]
@@ -148,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d91272c1e39e7eb3",
+  "active": "9f8ddc426e2cb529",
   "lastOpenFiles": [
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
+    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
@@ -166,7 +176,6 @@
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Cerebral Cortex.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Central Nervous System/Brain/Cerebrum/Cerebral Cortex/Neocortex/Precentral Gyrus",
-    "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Exponential Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Probability Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Standard Distribution.md",
@@ -183,7 +192,6 @@
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Neuropsychology.md",
-    "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Independent Subnetwork Training (IST).md",
     "SOCIAL SCIENCE/Economics",
     "FORMAL SCIENCE/Computer Science/Operating Systems"
   ]
