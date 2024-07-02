@@ -1,1 +1,2 @@
+
 Opioids are a class of drugs that derive from or mimic natural substances found in the [[Opium Poppy|opium poppy]] plant. They work in the brain to produce a variety of effects, most notably pain relief.
