@@ -11,12 +11,8 @@
             "id": "9f8ddc426e2cb529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,6 +150,7 @@
   },
   "active": "9f8ddc426e2cb529",
   "lastOpenFiles": [
+    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
     "APPLIED SCIENCE/Applied Science.md",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
@@ -188,7 +181,6 @@
     "FORMAL SCIENCE/Mathematics/Statistics",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
-    "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid",
     "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
