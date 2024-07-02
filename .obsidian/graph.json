@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering\"",
@@ -131,5 +131,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.15302179069128727,
-  "close": true
+  "close": false
 }
