@@ -11,13 +11,8 @@
             "id": "d91272c1e39e7eb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Options.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "742e4b44e0a23e89",
+  "active": "d91272c1e39e7eb3",
   "lastOpenFiles": [
-    "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
+    "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics",
     "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
