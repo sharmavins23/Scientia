@@ -1,0 +1,1 @@
+In [[Financial Economics|finance]], a bond is a type of security in which the issuer (debtor) owes the holder (creditor) a debt, and is obliged (depending on the terms) to p

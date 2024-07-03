@@ -11,8 +11,12 @@
             "id": "9f8ddc426e2cb529",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Bond (Finance).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Bond (Finance).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Bond (Finance).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SOCIAL SCIENCE/Economics/Financial Economics/Bond (Finance).md"
+              }
             }
           }
         ]
@@ -150,6 +158,7 @@
   },
   "active": "9f8ddc426e2cb529",
   "lastOpenFiles": [
+    "SOCIAL SCIENCE/Economics/Financial Economics/Bond (Finance).md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
     "APPLIED SCIENCE/Applied Science.md",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
@@ -183,7 +192,6 @@
     "FORMAL SCIENCE/Computer Science/Artificial Intelligence/Cognitive Science/Machine Learning/Training/Spike-Timing Dependent Plasticity (STDP).md",
     "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuron/Neurotransmitter/Neurotransmitter.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid",
-    "SOCIAL SCIENCE/Psychology/Neuropsychology/Hebbian Theory.md",
     "SOCIAL SCIENCE/Economics",
     "FORMAL SCIENCE/Computer Science/Operating Systems"
   ]
