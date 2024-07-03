@@ -1,1 +1,3 @@
-In [[Financial Economics|finance]], a bond is a type of security in which the issuer (debtor) owes the holder (creditor) a debt, and is obliged (depending on the terms) to p
+In [[Financial Economics|finance]], a bond is a type of security in which the issuer (debtor) owes the holder (creditor) a debt, and is obliged (depending on the terms) to provide cash flow to the creditor (repay the principal) of the bond at the maturity date, as well as the interest. Generally, bonds are referencing U.S. Treasury Bonds, in where an investor loans the U.S. Government money and gains a fixed interest rate over a fixed period of time.
+
+Notably, the treasury bond 
