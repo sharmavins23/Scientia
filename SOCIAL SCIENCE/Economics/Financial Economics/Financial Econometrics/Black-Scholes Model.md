@@ -11,12 +11,10 @@ The Black-Scholes model (or Black-Scholes-Merton model) is a mathematical model 
 - $T$ is the time of option expiration.
 - $\tau$ is the time until maturity: $\tau=T-t$.
 - $K$ is the strike price of the option, also known as the exercise price.
-
 - $N(x)$ denotes the [[Standard Distribution|standard normal]] [[Cumulative Distribution Function|CDF]]: $$N(x)=\frac{1}{\sqrt{2\pi}} \int_{-\infty}^{x}{e^{\frac{-z^2}{2}}} dz$$
-
 - $N'(x)$ denotes the standard normal PDF: $$N'(x) = \frac{dN(x)}{dx} = \frac{1}{\sqrt{2\pi}} e^{\frac{-z^2}{2}}$$
 
-## Derivation
+# Derivation
 
 With this, the fundamental Black-Scholes equation describes a price $V(S,t)$ of an option:
 
