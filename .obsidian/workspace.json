@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "964f392fe5b9e1b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f8ddc426e2cb529",
+  "active": "964f392fe5b9e1b9",
   "lastOpenFiles": [
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Options.md",
