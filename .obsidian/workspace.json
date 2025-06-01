@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a9ae4969eddec4ce",
+        "id": "4c7f8e8dfefdd94a",
         "type": "tabs",
         "children": [
           {
-            "id": "dc53bdb28059fce7",
+            "id": "c07e486c7d85dfdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Medical Test Paradox"
-            }
-          },
-          {
-            "id": "6aeaa6e2b8d31ac8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aeaa6e2b8d31ac8",
+  "active": "c07e486c7d85dfdc",
   "lastOpenFiles": [
+    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Financial Econometrics.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics/Black-Scholes Model.md",
@@ -211,7 +195,6 @@
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Probability Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Standard Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution",
-    "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
     "FORMAL SCIENCE/Mathematics/Statistics",
