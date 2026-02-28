@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7f8e8dfefdd94a",
+        "id": "3136f31044fdab05",
         "type": "tabs",
         "children": [
           {
-            "id": "c07e486c7d85dfdc",
+            "id": "87b9fd813de41644",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -169,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c07e486c7d85dfdc",
+  "active": "87b9fd813de41644",
   "lastOpenFiles": [
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
