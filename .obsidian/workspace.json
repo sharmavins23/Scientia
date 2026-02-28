@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e1435fc0a33593",
+        "id": "e4994321c5e84493",
         "type": "tabs",
         "children": [
           {
-            "id": "39a8c6e698370d77",
+            "id": "c1ecf13dfd578bda",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -167,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39a8c6e698370d77",
+  "active": "c1ecf13dfd578bda",
   "lastOpenFiles": [
+    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Gyana Karma Sanyasayoga - The Religion of Knowledge.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Bayes' Theorem.md",
@@ -178,7 +179,6 @@
     "SOCIAL SCIENCE/Economics/Financial Economics/Bond (Finance).md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid/Opioid.md",
     "APPLIED SCIENCE/Applied Science.md",
-    "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "NATURAL SCIENCE/Earth Science/Geology/Geochronology/History of the Earth.md",
     "SOCIAL SCIENCE/Economics/Financial Economics/Financial Econometrics",
     "SOCIAL SCIENCE/Economics/Financial Economics/Shares.md",
