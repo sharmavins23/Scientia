@@ -8,7 +8,9 @@ Suppose we have the following [[C++]] program to encode an extremely long string
 
 ```cpp
 for (char &c : long_string) {
-	c = (c - 'a' + 13) % 26 + 'a';
+	if (c >= 'a' && c <= 'z') {
+		c = (c - 'a' + 13) % 26 + 'a';
+	}
 }
 ```
 
