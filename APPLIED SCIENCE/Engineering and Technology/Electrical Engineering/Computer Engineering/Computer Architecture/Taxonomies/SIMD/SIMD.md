@@ -56,12 +56,21 @@ void rot13_avx(const char* data, size_t len, char *out) {
 		__m256i chunk = _mm256_loadu_si256((__m256i*)&data[i]);
 		
 		// Create a mask: Is the character between 'a' and 'z'?
-		__m256i is_ge_a = _mm256_or_si256(_mm256_cmpgt_epi8(chunk, a_vec), _mm256_cmpeq_epi8(chunk, a_vec));
-		__m256i is_le_z = _mm256_or_si256(_mm256_cmpgt_epi8(z_vec, chunk), _mm256_cmpeq_epi8(z_vec, chunk));
+		__m256i is_ge_a = _mm256_or_si256(
+			_mm256_cmpgt_epi8(chunk, a_vec),
+			_mm256_cmpeq_epi8(chunk, a_vec)
+		);
+		__m256i is_le_z = _mm256_or_si256(
+			_mm256_cmpgt_epi8(z_vec, chunk),
+			_mm256_cmpeq_epi8(z_vec, chunk)
+		);
 		__m256i letter_mask = _mm256_and_si256(is_ge_a, is_le_z);
 		
-		// SIMD contains no modulo instruction, so either add or subtract 13 correspondingly
-		__m256i is_le_m = _mm256_or_si256(_mm256_cmpgt_epi8(m_vec, chunk), _mm256_cmpeq_epi8(m_vec, chunk));
+		// SIMD contains no modulo instruction, so either add or subtract 13
+		__m256i is_le_m = _mm256_or_si256(
+			_mm256_cmpgt_epi8(m_vec, chunk),
+			_mm256_cmpeq_epi8(m_vec, chunk)
+		);
 		__m256i plus_13 = _mm256_add_epi8(chunk, thirteen);
         __m256i minus_13 = _mm256_sub_epi8(chunk, thirteen);
 		
@@ -70,7 +79,7 @@ void rot13_avx(const char* data, size_t len, char *out) {
 		
 		// Final blend: Only use 'shifted' if it was a letter
 		__m256i result = _mm256_blendv_epi8(chunk, shifted, letter_mask);
-
+		
 		// Store back to the output
 		_mm256_storeu_si256((__mm256i*)&out[i], result);
 	}
