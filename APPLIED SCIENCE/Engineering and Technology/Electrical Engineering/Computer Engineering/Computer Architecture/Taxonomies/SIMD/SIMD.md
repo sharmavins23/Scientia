@@ -2,7 +2,6 @@ Single instruction, multiple data stream (SIMD) is a type of parallel computing 
 
 A simple example is within modern CPUs - Modern registers contain wide registers (e.g. 256-bit registers within [[Advanced Vector Extensions]] for [[x86 Assembly|the x86 ISA]]). This data can be packed into wider registers and processed in one singular instruction.
 
+# Worked Example
 
-## Worked example
-
-Suppose we have the following [[C++]] program to convert
+Suppose we have the following [[C++]] program to convert an extremely long string into
