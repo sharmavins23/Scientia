@@ -14,7 +14,7 @@ Suppose we have the following [[C++]] program to encode an extremely long string
  * @param len   The length of the data buffer.
  * @param *out  The output buffer.
  */
-void rot13_naive(char *data, size_t len, char *out) {
+void rot13_naive(const char *data, size_t len, char *out) {
 	// Iterate over all characters
 	for (size_t i = 0; i < len; i++) {
 		char c = data[i];
