@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "760d3f9db931f9a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,8 +149,8 @@
               "state": {
                 "sortOrder": "frequency"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -159,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1ecf13dfd578bda",
+  "active": "760d3f9db931f9a0",
   "lastOpenFiles": [
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Gyana Karma Sanyasayoga - The Religion of Knowledge.md",
