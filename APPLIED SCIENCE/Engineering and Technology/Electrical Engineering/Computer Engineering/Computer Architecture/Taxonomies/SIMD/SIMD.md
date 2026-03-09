@@ -4,4 +4,4 @@ A simple example is within modern CPUs - Modern registers contain wide registers
 
 # Worked Example
 
-Suppose we have the following [[C++]] program to convert an extremely long string into
+Suppose we have the following [[C++]] program to encode 

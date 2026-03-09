@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "86304acb0f976410",
+        "id": "3d656b10c9f158a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8ad882d844fcd0cc",
+            "id": "df31fcb9ff59fe6d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD/SIMD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SIMD"
             }
           }
         ]
@@ -168,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ad882d844fcd0cc",
+  "active": "df31fcb9ff59fe6d",
   "lastOpenFiles": [
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/Flynn's Taxonomy.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD/SIMD.md",
