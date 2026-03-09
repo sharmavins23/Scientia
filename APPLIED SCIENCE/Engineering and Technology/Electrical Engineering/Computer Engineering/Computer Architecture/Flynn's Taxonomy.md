@@ -1,0 +1,1 @@
+Flynn's taxonomy is a classification of [[Computer Architecture|computer architectures]] proposed in 1966 and further extended in 1972. 
