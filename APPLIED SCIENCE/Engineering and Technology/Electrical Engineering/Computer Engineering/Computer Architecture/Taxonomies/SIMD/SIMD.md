@@ -54,20 +54,20 @@ void rot13_avx(const char* data, size_t len, char *out) {
 	for (size_t i = 0; i <= len - 32; i += 32) {
 		// Load 32 bytes at once
 		__m256i chunk = _mm256_loadu_si256((__m256i*)&data[i]);
-
+		
 		// Create a mask: Is the character between 'a' and 'z'?
 		__m256i is_ge_a = _mm256_or_si256(_mm256_cmpgt_epi8(chunk, a_vec), _mm256_cmpeq_epi8(chunk, a_vec));
 		__m256i is_le_z = _mm256_or_si256(_mm256_cmpgt_epi8(z_vec, chunk), _mm256_cmpeq_epi8(z_vec, chunk));
 		__m256i letter_mask = _mm256_and_si256(is_ge_a, is_le_z);
-
+		
 		// SIMD contains no modulo instruction, so either add or subtract 13 correspondingly
 		__m256i is_le_m = _mm256_or_si256(_mm256_cmpgt_epi8(m_vec, chunk), _mm256_cmpeq_epi8(m_vec, chunk));
 		__m256i plus_13 = _mm256_add_epi8(chunk, thirteen);
-        	__m256i minus_13 = _mm256_sub_epi8(chunk, thirteen);
-
+        __m256i minus_13 = _mm256_sub_epi8(chunk, thirteen);
+		
 		// Select the correct shift (+-13) based on `m`
 		__m256i shifted = _mm256_blendv_epi8(minus_13, plus_13, is_le_m);
-
+		
 		// Final blend: Only use 'shifted' if it was a letter
 		__m256i result = _mm256_blendv_epi8(chunk, shifted, letter_mask);
 
