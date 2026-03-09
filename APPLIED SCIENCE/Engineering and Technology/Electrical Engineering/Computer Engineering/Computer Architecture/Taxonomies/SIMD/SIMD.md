@@ -7,9 +7,10 @@ A simple example is within modern CPUs - Modern registers contain wide registers
 Suppose we have the following [[C++]] program to encode an extremely long string under the [[ROT13]] [[Cipher|cipher]]:
 
 ```cpp
-for (char &c : long_string) {
-	if (c >= 'a' && c <= 'z') {
-		c = (c - 'a' + 13) % 26 + 'a';
+void rot13_naive(char *data, size_t len) {
+	// Iterate over all characters
+	for (size_t i = 0; i < len; i++) {
+		// Skip if the character is 
 	}
 }
 ```
