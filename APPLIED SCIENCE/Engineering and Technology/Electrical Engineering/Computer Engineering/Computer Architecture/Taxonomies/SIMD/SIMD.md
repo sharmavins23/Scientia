@@ -4,4 +4,12 @@ A simple example is within modern CPUs - Modern registers contain wide registers
 
 # Worked Example
 
-Suppose we have the following [[C++]] program to encode 
+Suppose we have the following [[C++]] program to encode an extremely long string under the [[ROT13]] [[Cipher|cipher]]:
+
+```
+for (char &c : long_string) {
+	if (c >= 'a' && c <= 'z') {
+		c = (c - 'a' + 13) % 26 + 'a';
+	}
+}
+```
