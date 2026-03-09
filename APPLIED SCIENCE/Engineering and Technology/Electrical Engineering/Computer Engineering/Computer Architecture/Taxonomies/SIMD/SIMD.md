@@ -14,4 +14,7 @@ for (char &c : long_string) {
 }
 ```
 
+This code iterates through all of the individual characters. For each character, it performs the following processing:
+- Is the character between `a` and `z`
+
 You can use [[C++ Intrinsics]] to 
