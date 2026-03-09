@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Flynn's Taxonomy.md",
+                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flynn's Taxonomy"
+              "title": "SIMD"
             }
           }
         ]
@@ -172,9 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1ecf13dfd578bda",
+  "active": "742e4b44e0a23e89",
   "lastOpenFiles": [
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Flynn's Taxonomy.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/Flynn's Taxonomy.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Gyana Karma Sanyasayoga - The Religion of Knowledge.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem/Medical Test Paradox.md",
@@ -206,9 +208,7 @@
     "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
     "FORMAL SCIENCE/Mathematics/Statistics",
-    "NATURAL SCIENCE/Biology/Neuroscience/Cell Typings/Neuroglia/Astrocyte.md",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid",
-    "SOCIAL SCIENCE/Economics",
-    "FORMAL SCIENCE/Computer Science/Operating Systems"
+    "SOCIAL SCIENCE/Economics"
   ]
 }
