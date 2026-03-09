@@ -15,6 +15,7 @@ for (char &c : long_string) {
 ```
 
 This code iterates through all of the individual characters. For each character, it performs the following processing:
-- Is the character between `a` and `z`
+- Is the character between `a` and `z`?
+- If so, 'rotate' the character by adding 13 to its [[ASCII]] value. Using modular arithmetic (and a sum of the initial value), shift the character back to within `a` to `z`.
 
 You can use [[C++ Intrinsics]] to 
