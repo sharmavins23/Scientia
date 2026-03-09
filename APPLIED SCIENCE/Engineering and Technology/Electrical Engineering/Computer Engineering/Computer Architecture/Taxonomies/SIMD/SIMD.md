@@ -10,12 +10,20 @@ Suppose we have the following [[C++]] program to encode an extremely long string
 /**
  * Encode a string of text using ROT13 encoding.
  *
- * @param 
+ * @param *data The data to encode.
+ * @param len   The length of the data buffer.
+ * @param *out  The output buffer.
  */
-void rot13_naive(char *data, size_t len) {
+void rot13_naive(char *data, size_t len, char *out) {
 	// Iterate over all characters
 	for (size_t i = 0; i < len; i++) {
+		char c = data[i];
+		
 		// Skip if the character is not within the range of 'a-z'
+		if (char <= 'a' || char >= 'z') continue;
+		
+		// Perform the shift
+		out[i] = (c - 'a' + 13) % 26 + 'a';
 	}
 }
 ```
