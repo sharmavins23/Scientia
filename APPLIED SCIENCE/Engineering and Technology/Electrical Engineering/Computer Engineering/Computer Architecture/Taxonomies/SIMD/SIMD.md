@@ -53,7 +53,7 @@ void rot13_avx(const char* data, size_t len, char *out) {
 	// 32 * 8 = 256, which matches register sizing
 	for (size_t i = 0; i <= len - 32; i += 32) {
 		// Load 32 bytes at once
-		__m256i chunk = _mm256_loadu_si256((__m256i*)&data[i]);
+		__m256i chunk = _mm256_loadu_si256((const __m256i*)&data[i]);
 		
 		// Create a mask: Is the character between 'a' and 'z'?
 		__m256i is_ge_a = _mm256_or_si256(
