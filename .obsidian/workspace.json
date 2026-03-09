@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD.md",
+                "file": "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD/SIMD.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,8 +174,9 @@
   },
   "active": "742e4b44e0a23e89",
   "lastOpenFiles": [
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/Flynn's Taxonomy.md",
-    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD.md",
+    "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies/SIMD/SIMD.md",
     "APPLIED SCIENCE/Engineering and Technology/Electrical Engineering/Computer Engineering/Computer Architecture/Taxonomies",
     "APPLIED SCIENCE/Journalism, Media Studies and Communication/Media Studies/Ludology/Chess/Chess.md",
     "HUMANITIES/Divinity/Vedic Study/Mahabharata/Bhagavad Gita/Gyana Karma Sanyasayoga - The Religion of Knowledge.md",
@@ -205,7 +206,6 @@
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Probability Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution/Standard Distribution.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Probability Distribution",
-    "FORMAL SCIENCE/Mathematics/Statistics/Statistics.md",
     "FORMAL SCIENCE/Mathematics/Statistics/Bayes' Theorem",
     "FORMAL SCIENCE/Mathematics/Statistics",
     "APPLIED SCIENCE/Medicine and Health/Pharmaceutical Science/Opioid",
