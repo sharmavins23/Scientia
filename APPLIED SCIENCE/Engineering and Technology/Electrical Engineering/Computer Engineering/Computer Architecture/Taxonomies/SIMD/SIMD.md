@@ -92,6 +92,14 @@ We can also write the same code for [[ARM Assembly|ARM]]:
 // Required import for SIMD instructions
 #include <arm_neon.h>
 
+/**
+ * Encode a string of text using ROT13 encoding.
+ * Leverages SIMD instructions to natively increase performance.
+ *
+ * @param *data The data to encode.
+ * @param len   The length of the data buffer.
+ * @param *out  The output buffer.
+ */
 void rot13_neon(const char* data, size_t len, char* out) {
 	// Set up constants for the ranges
 	uint8x16_t a_vec    = vdupq_n_u8('a');
@@ -119,19 +127,12 @@ void rot13_neon(const char* data, size_t len, char* out) {
 		uint8x16_t shifted = vbslq_u8(is_le_m, plus_13, minus_13);
 		
 		// Final blend: Only use 'shifted' if it was a letter
-		uint8x16_t result = vbslq_u8()
-		
-		// Select the correct shift (+-13) based on `m`
-		__m256i shifted = _mm256_blendv_epi8(minus_13, plus_13, is_le_m);
-		
-		// Final blend: Only use 'shifted' if it was a letter
-		__m256i result = _mm256_blendv_epi8(chunk, shifted, letter_mask);
+		uint8x16_t result = vbslq_u8(letter_mask, shifted, chunk);
 		
 		// Store back to the output
-		_mm256_storeu_si256((__mm256i*)&out[i], result);
+		vst1q_u8((uint8_t*)&out[i], result);
 	}
 }
-
 ```
 
 Notice that, by default, ARM NEON registers are 128-bit, not 256-bit.
