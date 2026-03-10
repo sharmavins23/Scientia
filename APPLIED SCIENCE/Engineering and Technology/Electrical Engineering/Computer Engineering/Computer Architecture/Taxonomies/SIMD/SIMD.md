@@ -103,10 +103,12 @@ void rot13_neon(const char* data, size_t len, char* out) {
 	// 16 * 8 = 128, which matches register sizing
 	for (size_t i = 0; i <= len - 16; i += 16) {
 		// Load 16 bytes at once
-		uint8x16t chunk = vld1q_u8((const uint8_t*)&data[i]);
+		uint8x16_t chunk = vld1q_u8((const uint8_t*)&data[i]);
 		
 		// Create a mask: Is the character between 'a' and 'z'?
-		
+		uint8x16_t is_ge_a = vcgeq_u8(chunk, a_vec);
+		uint8x16_t is_le_z = vcleq_u8(chunk, z_vec);
+		uint8x16_t letter_mask = vandq_u8(is_ge_a, is_le_z);
 		
 		// Load 32 bytes at once
 		__m256i chunk = _mm256_loadu_si256((const __m256i*)&data[i]);
