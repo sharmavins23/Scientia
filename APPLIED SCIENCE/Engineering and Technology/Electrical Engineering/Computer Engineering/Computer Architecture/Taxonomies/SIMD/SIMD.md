@@ -28,7 +28,7 @@ void rot13_naive(const char *data, size_t len, char *out) {
 }
 ```
 
-We can instead use [[C++ Intrinsics]] to write the corresponding SIMD instructions (in Intel x86):
+We can instead use [[C++ Intrinsics]] to write the corresponding SIMD instructions (in [[x86 Assembly|x86_64]]):
 
 ```cpp
 // Required import for SIMD instructions
@@ -85,4 +85,3 @@ void rot13_avx(const char* data, size_t len, char *out) {
 	}
 }
 ```
-
