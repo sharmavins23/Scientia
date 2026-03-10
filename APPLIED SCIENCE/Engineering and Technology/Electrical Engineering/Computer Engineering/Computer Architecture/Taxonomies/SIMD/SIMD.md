@@ -44,9 +44,9 @@ We can instead use [[C++ Intrinsics]] to write the corresponding SIMD instructio
  */
 void rot13_avx(const char* data, size_t len, char *out) {
 	// Set up constants for the ranges
-	__m256i a_vec = _mm256_set1_epi8('a');
-	__m256i z_vec = _mm256_set1_epi8('z');
-	__m256i m_vec = _mm256_set1_epi8('m'); // Mid-point for ROT13
+	__m256i a_vec    = _mm256_set1_epi8('a');
+	__m256i z_vec    = _mm256_set1_epi8('z');
+	__m256i m_vec    = _mm256_set1_epi8('m'); // Mid-point for ROT13
 	__m256i thirteen = _mm256_set1_epi8(13);
 	
 	// Iterate through sets of 32 characters
@@ -93,7 +93,11 @@ We can also write the same code for [[ARM Assembly|ARM]]:
 #include <arm_neon.h>
 
 void rot13_neon(const char* data, size_t len, char* out) {
-	// Bro
+	// Set up constants for the ranges
+	uint8x16_t a_vec = vdupq_n_u8('a');
+	uint8x16_t z_vec = vdupq_n_u8('z');
+	uint8x16_t m_vec = vdupq_n_u8('m'); // Mid-point for ROT13
+	
 }
 
 ```
