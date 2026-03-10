@@ -111,17 +111,15 @@ void rot13_neon(const char* data, size_t len, char* out) {
 		uint8x16_t letter_mask = vandq_u8(is_ge_a, is_le_z);
 		
 		// SIMD contains no modulo instruction, so either add or subtract 13
-		uint8x16_t is_le_m = vcleq_u8(chunk, m_vec);
-		uint8x16_t plus_13 = vaddq_u8(chunk, thirteen);
+		uint8x16_t is_le_m  = vcleq_u8(chunk, m_vec);
+		uint8x16_t plus_13  = vaddq_u8(chunk, thirteen);
+		uint8x16_t minus_13 = vsubq_u8(chunk, thirteen);
 		
+		// Select the correct shift (+-13) based on `m`
+		uint8x16_t shifted = vbslq_u8(is_le_m, plus_13, minus_13);
 		
-		// SIMD contains no modulo instruction, so either add or subtract 13
-		__m256i is_le_m = _mm256_or_si256(
-			_mm256_cmpgt_epi8(m_vec, chunk),
-			_mm256_cmpeq_epi8(m_vec, chunk)
-		);
-		__m256i plus_13 = _mm256_add_epi8(chunk, thirteen);
-        __m256i minus_13 = _mm256_sub_epi8(chunk, thirteen);
+		// Final blend: Only use 'shifted' if it was a letter
+		uint8x16_t result = vbslq_u8()
 		
 		// Select the correct shift (+-13) based on `m`
 		__m256i shifted = _mm256_blendv_epi8(minus_13, plus_13, is_le_m);
