@@ -94,10 +94,16 @@ We can also write the same code for [[ARM Assembly|ARM]]:
 
 void rot13_neon(const char* data, size_t len, char* out) {
 	// Set up constants for the ranges
-	uint8x16_t a_vec = vdupq_n_u8('a');
-	uint8x16_t z_vec = vdupq_n_u8('z');
-	uint8x16_t m_vec = vdupq_n_u8('m'); // Mid-point for ROT13
+	uint8x16_t a_vec    = vdupq_n_u8('a');
+	uint8x16_t z_vec    = vdupq_n_u8('z');
+	uint8x16_t m_vec    = vdupq_n_u8('m'); // Mid-point for ROT13
+	uint8x16_t thirteen = vdupq_n_u8(13);
+	
+	// Iterate through sets of 16 characters
+	// 16 * 8 = 128, which matches register sizing
 	
 }
 
 ```
+
+Notice that, by default, ARM NEON registers are 128-bit, not 256-bit.
