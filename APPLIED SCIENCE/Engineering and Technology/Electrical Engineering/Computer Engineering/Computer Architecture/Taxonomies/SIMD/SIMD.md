@@ -106,23 +106,14 @@ void rot13_neon(const char* data, size_t len, char* out) {
 		uint8x16_t chunk = vld1q_u8((const uint8_t*)&data[i]);
 		
 		// Create a mask: Is the character between 'a' and 'z'?
-		uint8x16_t is_ge_a = vcgeq_u8(chunk, a_vec);
-		uint8x16_t is_le_z = vcleq_u8(chunk, z_vec);
+		uint8x16_t is_ge_a     = vcgeq_u8(chunk, a_vec);
+		uint8x16_t is_le_z     = vcleq_u8(chunk, z_vec);
 		uint8x16_t letter_mask = vandq_u8(is_ge_a, is_le_z);
 		
-		// Load 32 bytes at once
-		__m256i chunk = _mm256_loadu_si256((const __m256i*)&data[i]);
+		// SIMD contains no modulo instruction, so either add or subtract 13
+		uint8x16_t is_le_m = vcleq_u8(chunk, m_vec);
+		uint8x16_t plus_13 = vaddq_u8(chunk, thirteen);
 		
-		// Create a mask: Is the character between 'a' and 'z'?
-		__m256i is_ge_a = _mm256_or_si256(
-			_mm256_cmpgt_epi8(chunk, a_vec),
-			_mm256_cmpeq_epi8(chunk, a_vec)
-		);
-		__m256i is_le_z = _mm256_or_si256(
-			_mm256_cmpgt_epi8(z_vec, chunk),
-			_mm256_cmpeq_epi8(z_vec, chunk)
-		);
-		__m256i letter_mask = _mm256_and_si256(is_ge_a, is_le_z);
 		
 		// SIMD contains no modulo instruction, so either add or subtract 13
 		__m256i is_le_m = _mm256_or_si256(
