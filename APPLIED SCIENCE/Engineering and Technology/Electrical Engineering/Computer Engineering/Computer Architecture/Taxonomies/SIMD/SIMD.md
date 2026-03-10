@@ -85,3 +85,15 @@ void rot13_avx(const char* data, size_t len, char *out) {
 	}
 }
 ```
+
+We can also write the same code for [[ARM Assembly|ARM]]:
+
+```cpp
+// Required import for SIMD instructions
+#include <arm_neon.h>
+
+void rot13_neon(const char* data, size_t len, char* out) {
+	// Bro
+}
+
+```
